@@ -1,31 +1,33 @@
-
 languagesystem DFLT dflt;
 languagesystem arab dflt;
 
-# Positional Features
-feature isol {
-    sub ar_B by ar_B;
-    sub ar_C by ar_C;
-    sub ar_Thorn by ar_Thorn;
-} isol;
-
+# Classes
 feature init {
-    sub ar_B by ar_b;
-    sub ar_C by ar_c;
-    sub ar_V by ar_u;
+  sub Plain.eth by Plain.eth;
+  sub Plain.Zcaron by Plain.Zcaron;
+  sub Plain.Eth by Plain.Eth;
+  sub Plain.Yacute by Plain.Yacute;
 } init;
 
 feature medi {
-    sub ar_B by ar_d;
-    sub ar_V by ar_v;
+  sub Plain.K by Plain.K;
+  sub Plain.O by Plain.O;
+  sub Plain.N by Plain.N;
+  sub Plain.H by Plain.H;
+  sub Plain.u by Plain.u;
 } medi;
 
 feature fina {
-    sub ar_B by ar_B;
-    sub ar_V by ar_V;
+  sub Plain.r by Plain.r;
+  sub Plain.d by Plain.d;
+  sub Plain.Ecircumflex by Plain.Ecircumflex;
+  sub Plain.question by Plain.question;
 } fina;
 
-# Required Quranic Ligatures
 feature rlig {
-    sub ar_U ar_A by ar_divide; # Lam + Alif
+  sub Plain.K Plain.guillemotleft by Plain.U;
 } rlig;
+
+table GDEF {
+  GlyphClassDef [Plain.Zcaron Plain.K Plain.O Plain.N Plain.r Plain.eth Plain.H Plain.u], , [Plain.Oacute Plain.apple Plain.Ocircumflex Plain.Uacute], ;
+} GDEF;

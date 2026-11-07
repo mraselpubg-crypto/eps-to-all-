@@ -1,0 +1,4006 @@
+{
+ "AnicaKariSAKQPlain/A": {
+  "glyph": "Plain.A",
+  "unicode": "U+E000"
+ },
+ "AnicaKariSAKQPlain/Aacute": {
+  "glyph": "Plain.Aacute",
+  "unicode": "U+E001"
+ },
+ "AnicaKariSAKQPlain/Acircumflex": {
+  "glyph": "Plain.Acircumflex",
+  "unicode": "U+E002"
+ },
+ "AnicaKariSAKQPlain/Agrave": {
+  "glyph": "Plain.Agrave",
+  "unicode": "U+E003"
+ },
+ "AnicaKariSAKQPlain/Atilde": {
+  "glyph": "Plain.Atilde",
+  "unicode": "U+E004"
+ },
+ "AnicaKariSAKQPlain/B": {
+  "glyph": "Plain.B",
+  "unicode": "U+E005"
+ },
+ "AnicaKariSAKQPlain/C": {
+  "glyph": "Plain.C",
+  "unicode": "U+E006"
+ },
+ "AnicaKariSAKQPlain/D": {
+  "glyph": "Plain.D",
+  "unicode": "U+E007"
+ },
+ "AnicaKariSAKQPlain/DC1": {
+  "glyph": "Plain.DC1",
+  "unicode": "U+E008"
+ },
+ "AnicaKariSAKQPlain/DC2": {
+  "glyph": "Plain.DC2",
+  "unicode": "U+E009"
+ },
+ "AnicaKariSAKQPlain/DC3": {
+  "glyph": "Plain.DC3",
+  "unicode": "U+E00A"
+ },
+ "AnicaKariSAKQPlain/DC4": {
+  "glyph": "Plain.DC4",
+  "unicode": "U+E00B"
+ },
+ "AnicaKariSAKQPlain/DEL": {
+  "glyph": "Plain.DEL",
+  "unicode": "U+E00C"
+ },
+ "AnicaKariSAKQPlain/DLE": {
+  "glyph": "Plain.DLE",
+  "unicode": "U+E00D"
+ },
+ "AnicaKariSAKQPlain/Delta": {
+  "glyph": "Plain.Delta",
+  "unicode": "U+E00E"
+ },
+ "AnicaKariSAKQPlain/E": {
+  "glyph": "Plain.E",
+  "unicode": "U+E00F"
+ },
+ "AnicaKariSAKQPlain/Eacute": {
+  "glyph": "Plain.Eacute",
+  "unicode": "U+E010"
+ },
+ "AnicaKariSAKQPlain/Ecircumflex": {
+  "glyph": "Plain.Ecircumflex",
+  "unicode": "U+E011"
+ },
+ "AnicaKariSAKQPlain/Edieresis": {
+  "glyph": "Plain.Edieresis",
+  "unicode": "U+E012"
+ },
+ "AnicaKariSAKQPlain/Egrave": {
+  "glyph": "Plain.Egrave",
+  "unicode": "U+E013"
+ },
+ "AnicaKariSAKQPlain/Eth": {
+  "glyph": "Plain.Eth",
+  "unicode": "U+E014"
+ },
+ "AnicaKariSAKQPlain/F": {
+  "glyph": "Plain.F",
+  "unicode": "U+E015"
+ },
+ "AnicaKariSAKQPlain/G": {
+  "glyph": "Plain.G",
+  "unicode": "U+E016"
+ },
+ "AnicaKariSAKQPlain/H": {
+  "glyph": "Plain.H",
+  "unicode": "U+E017"
+ },
+ "AnicaKariSAKQPlain/I": {
+  "glyph": "Plain.I",
+  "unicode": "U+E018"
+ },
+ "AnicaKariSAKQPlain/Iacute": {
+  "glyph": "Plain.Iacute",
+  "unicode": "U+E019"
+ },
+ "AnicaKariSAKQPlain/Icircumflex": {
+  "glyph": "Plain.Icircumflex",
+  "unicode": "U+E01A"
+ },
+ "AnicaKariSAKQPlain/Idieresis": {
+  "glyph": "Plain.Idieresis",
+  "unicode": "U+E01B"
+ },
+ "AnicaKariSAKQPlain/Igrave": {
+  "glyph": "Plain.Igrave",
+  "unicode": "U+E01C"
+ },
+ "AnicaKariSAKQPlain/J": {
+  "glyph": "Plain.J",
+  "unicode": "U+E01D"
+ },
+ "AnicaKariSAKQPlain/K": {
+  "glyph": "Plain.K",
+  "unicode": "U+E01E"
+ },
+ "AnicaKariSAKQPlain/L": {
+  "glyph": "Plain.L",
+  "unicode": "U+E01F"
+ },
+ "AnicaKariSAKQPlain/Lslash": {
+  "glyph": "Plain.Lslash",
+  "unicode": "U+E020"
+ },
+ "AnicaKariSAKQPlain/M": {
+  "glyph": "Plain.M",
+  "unicode": "U+E021"
+ },
+ "AnicaKariSAKQPlain/N": {
+  "glyph": "Plain.N",
+  "unicode": "U+E022"
+ },
+ "AnicaKariSAKQPlain/O": {
+  "glyph": "Plain.O",
+  "unicode": "U+E023"
+ },
+ "AnicaKariSAKQPlain/OE": {
+  "glyph": "Plain.OE",
+  "unicode": "U+E024"
+ },
+ "AnicaKariSAKQPlain/Oacute": {
+  "glyph": "Plain.Oacute",
+  "unicode": "U+E025"
+ },
+ "AnicaKariSAKQPlain/Ocircumflex": {
+  "glyph": "Plain.Ocircumflex",
+  "unicode": "U+E026"
+ },
+ "AnicaKariSAKQPlain/Odieresis": {
+  "glyph": "Plain.Odieresis",
+  "unicode": "U+E027"
+ },
+ "AnicaKariSAKQPlain/Ograve": {
+  "glyph": "Plain.Ograve",
+  "unicode": "U+E028"
+ },
+ "AnicaKariSAKQPlain/Otilde": {
+  "glyph": "Plain.Otilde",
+  "unicode": "U+E029"
+ },
+ "AnicaKariSAKQPlain/P": {
+  "glyph": "Plain.P",
+  "unicode": "U+E02A"
+ },
+ "AnicaKariSAKQPlain/R": {
+  "glyph": "Plain.R",
+  "unicode": "U+E02B"
+ },
+ "AnicaKariSAKQPlain/RS": {
+  "glyph": "Plain.RS",
+  "unicode": "U+E02C"
+ },
+ "AnicaKariSAKQPlain/Scaron": {
+  "glyph": "Plain.Scaron",
+  "unicode": "U+E02D"
+ },
+ "AnicaKariSAKQPlain/T": {
+  "glyph": "Plain.T",
+  "unicode": "U+E02E"
+ },
+ "AnicaKariSAKQPlain/Thorn": {
+  "glyph": "Plain.Thorn",
+  "unicode": "U+E02F"
+ },
+ "AnicaKariSAKQPlain/U": {
+  "glyph": "Plain.U",
+  "unicode": "U+E030"
+ },
+ "AnicaKariSAKQPlain/US": {
+  "glyph": "Plain.US",
+  "unicode": "U+E031"
+ },
+ "AnicaKariSAKQPlain/Uacute": {
+  "glyph": "Plain.Uacute",
+  "unicode": "U+E032"
+ },
+ "AnicaKariSAKQPlain/Ugrave": {
+  "glyph": "Plain.Ugrave",
+  "unicode": "U+E033"
+ },
+ "AnicaKariSAKQPlain/V": {
+  "glyph": "Plain.V",
+  "unicode": "U+E034"
+ },
+ "AnicaKariSAKQPlain/W": {
+  "glyph": "Plain.W",
+  "unicode": "U+E035"
+ },
+ "AnicaKariSAKQPlain/X": {
+  "glyph": "Plain.X",
+  "unicode": "U+E036"
+ },
+ "AnicaKariSAKQPlain/Y": {
+  "glyph": "Plain.Y",
+  "unicode": "U+E037"
+ },
+ "AnicaKariSAKQPlain/Yacute": {
+  "glyph": "Plain.Yacute",
+  "unicode": "U+E038"
+ },
+ "AnicaKariSAKQPlain/Ydieresis": {
+  "glyph": "Plain.Ydieresis",
+  "unicode": "U+E039"
+ },
+ "AnicaKariSAKQPlain/Z": {
+  "glyph": "Plain.Z",
+  "unicode": "U+E03A"
+ },
+ "AnicaKariSAKQPlain/Zcaron": {
+  "glyph": "Plain.Zcaron",
+  "unicode": "U+E03B"
+ },
+ "AnicaKariSAKQPlain/a": {
+  "glyph": "Plain.a",
+  "unicode": "U+E03C"
+ },
+ "AnicaKariSAKQPlain/ae": {
+  "glyph": "Plain.ae",
+  "unicode": "U+E03D"
+ },
+ "AnicaKariSAKQPlain/apple": {
+  "glyph": "Plain.apple",
+  "unicode": "U+E03E"
+ },
+ "AnicaKariSAKQPlain/aring": {
+  "glyph": "Plain.aring",
+  "unicode": "U+E03F"
+ },
+ "AnicaKariSAKQPlain/asciicircum": {
+  "glyph": "Plain.asciicircum",
+  "unicode": "U+E040"
+ },
+ "AnicaKariSAKQPlain/asciitilde": {
+  "glyph": "Plain.asciitilde",
+  "unicode": "U+E041"
+ },
+ "AnicaKariSAKQPlain/b": {
+  "glyph": "Plain.b",
+  "unicode": "U+E042"
+ },
+ "AnicaKariSAKQPlain/braceleft": {
+  "glyph": "Plain.braceleft",
+  "unicode": "U+E043"
+ },
+ "AnicaKariSAKQPlain/bracketright": {
+  "glyph": "Plain.bracketright",
+  "unicode": "U+E044"
+ },
+ "AnicaKariSAKQPlain/brokenbar": {
+  "glyph": "Plain.brokenbar",
+  "unicode": "U+E045"
+ },
+ "AnicaKariSAKQPlain/c": {
+  "glyph": "Plain.c",
+  "unicode": "U+E046"
+ },
+ "AnicaKariSAKQPlain/ccedilla": {
+  "glyph": "Plain.ccedilla",
+  "unicode": "U+E047"
+ },
+ "AnicaKariSAKQPlain/cedilla": {
+  "glyph": "Plain.cedilla",
+  "unicode": "U+E048"
+ },
+ "AnicaKariSAKQPlain/cent": {
+  "glyph": "Plain.cent",
+  "unicode": "U+E049"
+ },
+ "AnicaKariSAKQPlain/d": {
+  "glyph": "Plain.d",
+  "unicode": "U+E04A"
+ },
+ "AnicaKariSAKQPlain/divide": {
+  "glyph": "Plain.divide",
+  "unicode": "U+E04B"
+ },
+ "AnicaKariSAKQPlain/e": {
+  "glyph": "Plain.e",
+  "unicode": "U+E04C"
+ },
+ "AnicaKariSAKQPlain/egrave": {
+  "glyph": "Plain.egrave",
+  "unicode": "U+E04D"
+ },
+ "AnicaKariSAKQPlain/ellipsis": {
+  "glyph": "Plain.ellipsis",
+  "unicode": "U+E04E"
+ },
+ "AnicaKariSAKQPlain/emdash": {
+  "glyph": "Plain.emdash",
+  "unicode": "U+E04F"
+ },
+ "AnicaKariSAKQPlain/endash": {
+  "glyph": "Plain.endash",
+  "unicode": "U+E050"
+ },
+ "AnicaKariSAKQPlain/equal": {
+  "glyph": "Plain.equal",
+  "unicode": "U+E051"
+ },
+ "AnicaKariSAKQPlain/eth": {
+  "glyph": "Plain.eth",
+  "unicode": "U+E052"
+ },
+ "AnicaKariSAKQPlain/exclamdown": {
+  "glyph": "Plain.exclamdown",
+  "unicode": "U+E053"
+ },
+ "AnicaKariSAKQPlain/f": {
+  "glyph": "Plain.f",
+  "unicode": "U+E054"
+ },
+ "AnicaKariSAKQPlain/florin": {
+  "glyph": "Plain.florin",
+  "unicode": "U+E055"
+ },
+ "AnicaKariSAKQPlain/fraction": {
+  "glyph": "Plain.fraction",
+  "unicode": "U+E056"
+ },
+ "AnicaKariSAKQPlain/g": {
+  "glyph": "Plain.g",
+  "unicode": "U+E057"
+ },
+ "AnicaKariSAKQPlain/grave": {
+  "glyph": "Plain.grave",
+  "unicode": "U+E058"
+ },
+ "AnicaKariSAKQPlain/greater": {
+  "glyph": "Plain.greater",
+  "unicode": "U+E059"
+ },
+ "AnicaKariSAKQPlain/guillemotleft": {
+  "glyph": "Plain.guillemotleft",
+  "unicode": "U+E05A"
+ },
+ "AnicaKariSAKQPlain/guillemotright": {
+  "glyph": "Plain.guillemotright",
+  "unicode": "U+E05B"
+ },
+ "AnicaKariSAKQPlain/guilsinglleft": {
+  "glyph": "Plain.guilsinglleft",
+  "unicode": "U+E05C"
+ },
+ "AnicaKariSAKQPlain/h": {
+  "glyph": "Plain.h",
+  "unicode": "U+E05D"
+ },
+ "AnicaKariSAKQPlain/i": {
+  "glyph": "Plain.i",
+  "unicode": "U+E05E"
+ },
+ "AnicaKariSAKQPlain/iacute": {
+  "glyph": "Plain.iacute",
+  "unicode": "U+E05F"
+ },
+ "AnicaKariSAKQPlain/integral": {
+  "glyph": "Plain.integral",
+  "unicode": "U+E060"
+ },
+ "AnicaKariSAKQPlain/j": {
+  "glyph": "Plain.j",
+  "unicode": "U+E061"
+ },
+ "AnicaKariSAKQPlain/k": {
+  "glyph": "Plain.k",
+  "unicode": "U+E062"
+ },
+ "AnicaKariSAKQPlain/l": {
+  "glyph": "Plain.l",
+  "unicode": "U+E063"
+ },
+ "AnicaKariSAKQPlain/logicalnot": {
+  "glyph": "Plain.logicalnot",
+  "unicode": "U+E064"
+ },
+ "AnicaKariSAKQPlain/lozenge": {
+  "glyph": "Plain.lozenge",
+  "unicode": "U+E065"
+ },
+ "AnicaKariSAKQPlain/lslash": {
+  "glyph": "Plain.lslash",
+  "unicode": "U+E066"
+ },
+ "AnicaKariSAKQPlain/m": {
+  "glyph": "Plain.m",
+  "unicode": "U+E067"
+ },
+ "AnicaKariSAKQPlain/minus": {
+  "glyph": "Plain.minus",
+  "unicode": "U+E068"
+ },
+ "AnicaKariSAKQPlain/multiply": {
+  "glyph": "Plain.multiply",
+  "unicode": "U+E069"
+ },
+ "AnicaKariSAKQPlain/n": {
+  "glyph": "Plain.n",
+  "unicode": "U+E06A"
+ },
+ "AnicaKariSAKQPlain/nbspace": {
+  "glyph": "Plain.nbspace",
+  "unicode": "U+E06B"
+ },
+ "AnicaKariSAKQPlain/o": {
+  "glyph": "Plain.o",
+  "unicode": "U+E06C"
+ },
+ "AnicaKariSAKQPlain/oe": {
+  "glyph": "Plain.oe",
+  "unicode": "U+E06D"
+ },
+ "AnicaKariSAKQPlain/onehalf": {
+  "glyph": "Plain.onehalf",
+  "unicode": "U+E06E"
+ },
+ "AnicaKariSAKQPlain/onequarter": {
+  "glyph": "Plain.onequarter",
+  "unicode": "U+E06F"
+ },
+ "AnicaKariSAKQPlain/onesuperior": {
+  "glyph": "Plain.onesuperior",
+  "unicode": "U+E070"
+ },
+ "AnicaKariSAKQPlain/ordfeminine": {
+  "glyph": "Plain.ordfeminine",
+  "unicode": "U+E071"
+ },
+ "AnicaKariSAKQPlain/ordmasculine": {
+  "glyph": "Plain.ordmasculine",
+  "unicode": "U+E072"
+ },
+ "AnicaKariSAKQPlain/p": {
+  "glyph": "Plain.p",
+  "unicode": "U+E073"
+ },
+ "AnicaKariSAKQPlain/parenleft": {
+  "glyph": "Plain.parenleft",
+  "unicode": "U+E074"
+ },
+ "AnicaKariSAKQPlain/periodcentered": {
+  "glyph": "Plain.periodcentered",
+  "unicode": "U+E075"
+ },
+ "AnicaKariSAKQPlain/perthousand": {
+  "glyph": "Plain.perthousand",
+  "unicode": "U+E076"
+ },
+ "AnicaKariSAKQPlain/q": {
+  "glyph": "Plain.q",
+  "unicode": "U+E077"
+ },
+ "AnicaKariSAKQPlain/question": {
+  "glyph": "Plain.question",
+  "unicode": "U+E078"
+ },
+ "AnicaKariSAKQPlain/quotedblbase": {
+  "glyph": "Plain.quotedblbase",
+  "unicode": "U+E079"
+ },
+ "AnicaKariSAKQPlain/quotedblleft": {
+  "glyph": "Plain.quotedblleft",
+  "unicode": "U+E07A"
+ },
+ "AnicaKariSAKQPlain/quotedblright": {
+  "glyph": "Plain.quotedblright",
+  "unicode": "U+E07B"
+ },
+ "AnicaKariSAKQPlain/quoteleft": {
+  "glyph": "Plain.quoteleft",
+  "unicode": "U+E07C"
+ },
+ "AnicaKariSAKQPlain/quoteright": {
+  "glyph": "Plain.quoteright",
+  "unicode": "U+E07D"
+ },
+ "AnicaKariSAKQPlain/quotesinglbase": {
+  "glyph": "Plain.quotesinglbase",
+  "unicode": "U+E07E"
+ },
+ "AnicaKariSAKQPlain/r": {
+  "glyph": "Plain.r",
+  "unicode": "U+E07F"
+ },
+ "AnicaKariSAKQPlain/s": {
+  "glyph": "Plain.s",
+  "unicode": "U+E080"
+ },
+ "AnicaKariSAKQPlain/scaron": {
+  "glyph": "Plain.scaron",
+  "unicode": "U+E081"
+ },
+ "AnicaKariSAKQPlain/space": {
+  "glyph": "Plain.space",
+  "unicode": "U+E082"
+ },
+ "AnicaKariSAKQPlain/t": {
+  "glyph": "Plain.t",
+  "unicode": "U+E083"
+ },
+ "AnicaKariSAKQPlain/thorn": {
+  "glyph": "Plain.thorn",
+  "unicode": "U+E084"
+ },
+ "AnicaKariSAKQPlain/threequarters": {
+  "glyph": "Plain.threequarters",
+  "unicode": "U+E085"
+ },
+ "AnicaKariSAKQPlain/threesuperior": {
+  "glyph": "Plain.threesuperior",
+  "unicode": "U+E086"
+ },
+ "AnicaKariSAKQPlain/tilde": {
+  "glyph": "Plain.tilde",
+  "unicode": "U+E087"
+ },
+ "AnicaKariSAKQPlain/twosuperior": {
+  "glyph": "Plain.twosuperior",
+  "unicode": "U+E088"
+ },
+ "AnicaKariSAKQPlain/u": {
+  "glyph": "Plain.u",
+  "unicode": "U+E089"
+ },
+ "AnicaKariSAKQPlain/v": {
+  "glyph": "Plain.v",
+  "unicode": "U+E08A"
+ },
+ "AnicaKariSAKQPlain/w": {
+  "glyph": "Plain.w",
+  "unicode": "U+E08B"
+ },
+ "AnicaKariSAKQPlain/y": {
+  "glyph": "Plain.y",
+  "unicode": "U+E08C"
+ },
+ "AnicaKariSAKQPlain/yacute": {
+  "glyph": "Plain.yacute",
+  "unicode": "U+E08D"
+ },
+ "AnicaKariSAKQPlain/ydieresis": {
+  "glyph": "Plain.ydieresis",
+  "unicode": "U+E08E"
+ },
+ "AnicaKariSAKQPlain/z": {
+  "glyph": "Plain.z",
+  "unicode": "U+E08F"
+ },
+ "AnicaKariSAKQPlain/zcaron": {
+  "glyph": "Plain.zcaron",
+  "unicode": "U+E090"
+ },
+ "AnicaKariSAKQPlainExtra/Acircumflex": {
+  "glyph": "PlainExtra.Acircumflex",
+  "unicode": "U+E091"
+ },
+ "AnicaKariSAKQPlainExtra/B": {
+  "glyph": "PlainExtra.B",
+  "unicode": "U+E092"
+ },
+ "AnicaKariSAKQPlainExtra/C": {
+  "glyph": "PlainExtra.C",
+  "unicode": "U+E093"
+ },
+ "AnicaKariSAKQPlainExtra/D": {
+  "glyph": "PlainExtra.D",
+  "unicode": "U+E094"
+ },
+ "AnicaKariSAKQPlainExtra/DC1": {
+  "glyph": "PlainExtra.DC1",
+  "unicode": "U+E095"
+ },
+ "AnicaKariSAKQPlainExtra/DC4": {
+  "glyph": "PlainExtra.DC4",
+  "unicode": "U+E096"
+ },
+ "AnicaKariSAKQPlainExtra/DEL": {
+  "glyph": "PlainExtra.DEL",
+  "unicode": "U+E097"
+ },
+ "AnicaKariSAKQPlainExtra/E": {
+  "glyph": "PlainExtra.E",
+  "unicode": "U+E098"
+ },
+ "AnicaKariSAKQPlainExtra/Ecircumflex": {
+  "glyph": "PlainExtra.Ecircumflex",
+  "unicode": "U+E099"
+ },
+ "AnicaKariSAKQPlainExtra/Edieresis": {
+  "glyph": "PlainExtra.Edieresis",
+  "unicode": "U+E09A"
+ },
+ "AnicaKariSAKQPlainExtra/I": {
+  "glyph": "PlainExtra.I",
+  "unicode": "U+E09B"
+ },
+ "AnicaKariSAKQPlainExtra/Icircumflex": {
+  "glyph": "PlainExtra.Icircumflex",
+  "unicode": "U+E09C"
+ },
+ "AnicaKariSAKQPlainExtra/Idieresis": {
+  "glyph": "PlainExtra.Idieresis",
+  "unicode": "U+E09D"
+ },
+ "AnicaKariSAKQPlainExtra/Igrave": {
+  "glyph": "PlainExtra.Igrave",
+  "unicode": "U+E09E"
+ },
+ "AnicaKariSAKQPlainExtra/J": {
+  "glyph": "PlainExtra.J",
+  "unicode": "U+E09F"
+ },
+ "AnicaKariSAKQPlainExtra/L": {
+  "glyph": "PlainExtra.L",
+  "unicode": "U+E0A0"
+ },
+ "AnicaKariSAKQPlainExtra/M": {
+  "glyph": "PlainExtra.M",
+  "unicode": "U+E0A1"
+ },
+ "AnicaKariSAKQPlainExtra/Oacute": {
+  "glyph": "PlainExtra.Oacute",
+  "unicode": "U+E0A2"
+ },
+ "AnicaKariSAKQPlainExtra/Ocircumflex": {
+  "glyph": "PlainExtra.Ocircumflex",
+  "unicode": "U+E0A3"
+ },
+ "AnicaKariSAKQPlainExtra/Ograve": {
+  "glyph": "PlainExtra.Ograve",
+  "unicode": "U+E0A4"
+ },
+ "AnicaKariSAKQPlainExtra/Thorn": {
+  "glyph": "PlainExtra.Thorn",
+  "unicode": "U+E0A5"
+ },
+ "AnicaKariSAKQPlainExtra/Uacute": {
+  "glyph": "PlainExtra.Uacute",
+  "unicode": "U+E0A6"
+ },
+ "AnicaKariSAKQPlainExtra/V": {
+  "glyph": "PlainExtra.V",
+  "unicode": "U+E0A7"
+ },
+ "AnicaKariSAKQPlainExtra/X": {
+  "glyph": "PlainExtra.X",
+  "unicode": "U+E0A8"
+ },
+ "AnicaKariSAKQPlainExtra/ae": {
+  "glyph": "PlainExtra.ae",
+  "unicode": "U+E0A9"
+ },
+ "AnicaKariSAKQPlainExtra/apple": {
+  "glyph": "PlainExtra.apple",
+  "unicode": "U+E0AA"
+ },
+ "AnicaKariSAKQPlainExtra/asciicircum": {
+  "glyph": "PlainExtra.asciicircum",
+  "unicode": "U+E0AB"
+ },
+ "AnicaKariSAKQPlainExtra/braceleft": {
+  "glyph": "PlainExtra.braceleft",
+  "unicode": "U+E0AC"
+ },
+ "AnicaKariSAKQPlainExtra/bracketright": {
+  "glyph": "PlainExtra.bracketright",
+  "unicode": "U+E0AD"
+ },
+ "AnicaKariSAKQPlainExtra/d": {
+  "glyph": "PlainExtra.d",
+  "unicode": "U+E0AE"
+ },
+ "AnicaKariSAKQPlainExtra/divide": {
+  "glyph": "PlainExtra.divide",
+  "unicode": "U+E0AF"
+ },
+ "AnicaKariSAKQPlainExtra/emdash": {
+  "glyph": "PlainExtra.emdash",
+  "unicode": "U+E0B0"
+ },
+ "AnicaKariSAKQPlainExtra/equal": {
+  "glyph": "PlainExtra.equal",
+  "unicode": "U+E0B1"
+ },
+ "AnicaKariSAKQPlainExtra/grave": {
+  "glyph": "PlainExtra.grave",
+  "unicode": "U+E0B2"
+ },
+ "AnicaKariSAKQPlainExtra/guillemotright": {
+  "glyph": "PlainExtra.guillemotright",
+  "unicode": "U+E0B3"
+ },
+ "AnicaKariSAKQPlainExtra/h": {
+  "glyph": "PlainExtra.h",
+  "unicode": "U+E0B4"
+ },
+ "AnicaKariSAKQPlainExtra/i": {
+  "glyph": "PlainExtra.i",
+  "unicode": "U+E0B5"
+ },
+ "AnicaKariSAKQPlainExtra/j": {
+  "glyph": "PlainExtra.j",
+  "unicode": "U+E0B6"
+ },
+ "AnicaKariSAKQPlainExtra/k": {
+  "glyph": "PlainExtra.k",
+  "unicode": "U+E0B7"
+ },
+ "AnicaKariSAKQPlainExtra/lozenge": {
+  "glyph": "PlainExtra.lozenge",
+  "unicode": "U+E0B8"
+ },
+ "AnicaKariSAKQPlainExtra/o": {
+  "glyph": "PlainExtra.o",
+  "unicode": "U+E0B9"
+ },
+ "AnicaKariSAKQPlainExtra/onehalf": {
+  "glyph": "PlainExtra.onehalf",
+  "unicode": "U+E0BA"
+ },
+ "AnicaKariSAKQPlainExtra/onesuperior": {
+  "glyph": "PlainExtra.onesuperior",
+  "unicode": "U+E0BB"
+ },
+ "AnicaKariSAKQPlainExtra/ordmasculine": {
+  "glyph": "PlainExtra.ordmasculine",
+  "unicode": "U+E0BC"
+ },
+ "AnicaKariSAKQPlainExtra/question": {
+  "glyph": "PlainExtra.question",
+  "unicode": "U+E0BD"
+ },
+ "AnicaKariSAKQPlainExtra/quotedblleft": {
+  "glyph": "PlainExtra.quotedblleft",
+  "unicode": "U+E0BE"
+ },
+ "AnicaKariSAKQPlainExtra/quoteright": {
+  "glyph": "PlainExtra.quoteright",
+  "unicode": "U+E0BF"
+ },
+ "AnicaKariSAKQPlainExtra/quotesinglbase": {
+  "glyph": "PlainExtra.quotesinglbase",
+  "unicode": "U+E0C0"
+ },
+ "AnicaKariSAKQPlainExtra/r": {
+  "glyph": "PlainExtra.r",
+  "unicode": "U+E0C1"
+ },
+ "AnicaKariSAKQPlainExtra/s": {
+  "glyph": "PlainExtra.s",
+  "unicode": "U+E0C2"
+ },
+ "AnicaKariSAKQPlainExtra/space": {
+  "glyph": "PlainExtra.space",
+  "unicode": "U+E0C3"
+ },
+ "AnicaKariSAKQPlainExtra/t": {
+  "glyph": "PlainExtra.t",
+  "unicode": "U+E0C4"
+ },
+ "AnicaKariSAKQPlainExtra/thorn": {
+  "glyph": "PlainExtra.thorn",
+  "unicode": "U+E0C5"
+ },
+ "AnicaKariSAKQPlainExtra/y": {
+  "glyph": "PlainExtra.y",
+  "unicode": "U+E0C6"
+ },
+ "AnicaKariSAKQPlainSpare/Agrave": {
+  "glyph": "PlainSpare.Agrave",
+  "unicode": "U+E0C7"
+ },
+ "AnicaKariSAKQPlainSpare/Atilde": {
+  "glyph": "PlainSpare.Atilde",
+  "unicode": "U+E0C8"
+ },
+ "AnicaKariSAKQPlainSpare/D": {
+  "glyph": "PlainSpare.D",
+  "unicode": "U+E0C9"
+ },
+ "AnicaKariSAKQPlainSpare/DC1": {
+  "glyph": "PlainSpare.DC1",
+  "unicode": "U+E0CA"
+ },
+ "AnicaKariSAKQPlainSpare/DC4": {
+  "glyph": "PlainSpare.DC4",
+  "unicode": "U+E0CB"
+ },
+ "AnicaKariSAKQPlainSpare/E": {
+  "glyph": "PlainSpare.E",
+  "unicode": "U+E0CC"
+ },
+ "AnicaKariSAKQPlainSpare/Ecircumflex": {
+  "glyph": "PlainSpare.Ecircumflex",
+  "unicode": "U+E0CD"
+ },
+ "AnicaKariSAKQPlainSpare/Edieresis": {
+  "glyph": "PlainSpare.Edieresis",
+  "unicode": "U+E0CE"
+ },
+ "AnicaKariSAKQPlainSpare/I": {
+  "glyph": "PlainSpare.I",
+  "unicode": "U+E0CF"
+ },
+ "AnicaKariSAKQPlainSpare/Icircumflex": {
+  "glyph": "PlainSpare.Icircumflex",
+  "unicode": "U+E0D0"
+ },
+ "AnicaKariSAKQPlainSpare/Idieresis": {
+  "glyph": "PlainSpare.Idieresis",
+  "unicode": "U+E0D1"
+ },
+ "AnicaKariSAKQPlainSpare/Igrave": {
+  "glyph": "PlainSpare.Igrave",
+  "unicode": "U+E0D2"
+ },
+ "AnicaKariSAKQPlainSpare/M": {
+  "glyph": "PlainSpare.M",
+  "unicode": "U+E0D3"
+ },
+ "AnicaKariSAKQPlainSpare/O": {
+  "glyph": "PlainSpare.O",
+  "unicode": "U+E0D4"
+ },
+ "AnicaKariSAKQPlainSpare/Oacute": {
+  "glyph": "PlainSpare.Oacute",
+  "unicode": "U+E0D5"
+ },
+ "AnicaKariSAKQPlainSpare/Ocircumflex": {
+  "glyph": "PlainSpare.Ocircumflex",
+  "unicode": "U+E0D6"
+ },
+ "AnicaKariSAKQPlainSpare/Ograve": {
+  "glyph": "PlainSpare.Ograve",
+  "unicode": "U+E0D7"
+ },
+ "AnicaKariSAKQPlainSpare/Thorn": {
+  "glyph": "PlainSpare.Thorn",
+  "unicode": "U+E0D8"
+ },
+ "AnicaKariSAKQPlainSpare/Uacute": {
+  "glyph": "PlainSpare.Uacute",
+  "unicode": "U+E0D9"
+ },
+ "AnicaKariSAKQPlainSpare/V": {
+  "glyph": "PlainSpare.V",
+  "unicode": "U+E0DA"
+ },
+ "AnicaKariSAKQPlainSpare/X": {
+  "glyph": "PlainSpare.X",
+  "unicode": "U+E0DB"
+ },
+ "AnicaKariSAKQPlainSpare/apple": {
+  "glyph": "PlainSpare.apple",
+  "unicode": "U+E0DC"
+ },
+ "AnicaKariSAKQPlainSpare/b": {
+  "glyph": "PlainSpare.b",
+  "unicode": "U+E0DD"
+ },
+ "AnicaKariSAKQPlainSpare/bracketright": {
+  "glyph": "PlainSpare.bracketright",
+  "unicode": "U+E0DE"
+ },
+ "AnicaKariSAKQPlainSpare/c": {
+  "glyph": "PlainSpare.c",
+  "unicode": "U+E0DF"
+ },
+ "AnicaKariSAKQPlainSpare/d": {
+  "glyph": "PlainSpare.d",
+  "unicode": "U+E0E0"
+ },
+ "AnicaKariSAKQPlainSpare/e": {
+  "glyph": "PlainSpare.e",
+  "unicode": "U+E0E1"
+ },
+ "AnicaKariSAKQPlainSpare/emdash": {
+  "glyph": "PlainSpare.emdash",
+  "unicode": "U+E0E2"
+ },
+ "AnicaKariSAKQPlainSpare/eth": {
+  "glyph": "PlainSpare.eth",
+  "unicode": "U+E0E3"
+ },
+ "AnicaKariSAKQPlainSpare/exclamdown": {
+  "glyph": "PlainSpare.exclamdown",
+  "unicode": "U+E0E4"
+ },
+ "AnicaKariSAKQPlainSpare/guillemotright": {
+  "glyph": "PlainSpare.guillemotright",
+  "unicode": "U+E0E5"
+ },
+ "AnicaKariSAKQPlainSpare/j": {
+  "glyph": "PlainSpare.j",
+  "unicode": "U+E0E6"
+ },
+ "AnicaKariSAKQPlainSpare/lslash": {
+  "glyph": "PlainSpare.lslash",
+  "unicode": "U+E0E7"
+ },
+ "AnicaKariSAKQPlainSpare/minus": {
+  "glyph": "PlainSpare.minus",
+  "unicode": "U+E0E8"
+ },
+ "AnicaKariSAKQPlainSpare/o": {
+  "glyph": "PlainSpare.o",
+  "unicode": "U+E0E9"
+ },
+ "AnicaKariSAKQPlainSpare/oe": {
+  "glyph": "PlainSpare.oe",
+  "unicode": "U+E0EA"
+ },
+ "AnicaKariSAKQPlainSpare/onehalf": {
+  "glyph": "PlainSpare.onehalf",
+  "unicode": "U+E0EB"
+ },
+ "AnicaKariSAKQPlainSpare/onesuperior": {
+  "glyph": "PlainSpare.onesuperior",
+  "unicode": "U+E0EC"
+ },
+ "AnicaKariSAKQPlainSpare/question": {
+  "glyph": "PlainSpare.question",
+  "unicode": "U+E0ED"
+ },
+ "AnicaKariSAKQPlainSpare/quotedblleft": {
+  "glyph": "PlainSpare.quotedblleft",
+  "unicode": "U+E0EE"
+ },
+ "AnicaKariSAKQPlainSpare/quotesinglbase": {
+  "glyph": "PlainSpare.quotesinglbase",
+  "unicode": "U+E0EF"
+ },
+ "AnicaKariSAKQPlainSpare/s": {
+  "glyph": "PlainSpare.s",
+  "unicode": "U+E0F0"
+ },
+ "AnicaKariSAKQPlainSpare/space": {
+  "glyph": "PlainSpare.space",
+  "unicode": "U+E0F1"
+ },
+ "AnicaKariSAKQPlainSpare/twosuperior": {
+  "glyph": "PlainSpare.twosuperior",
+  "unicode": "U+E0F2"
+ },
+ "AnicaKariSAKQHarkat/AE": {
+  "glyph": "Harkat.AE",
+  "unicode": "U+E0F3"
+ },
+ "AnicaKariSAKQHarkat/Aacute": {
+  "glyph": "Harkat.Aacute",
+  "unicode": "U+E0F4"
+ },
+ "AnicaKariSAKQHarkat/Acircumflex": {
+  "glyph": "Harkat.Acircumflex",
+  "unicode": "U+E0F5"
+ },
+ "AnicaKariSAKQHarkat/Agrave": {
+  "glyph": "Harkat.Agrave",
+  "unicode": "U+E0F6"
+ },
+ "AnicaKariSAKQHarkat/B": {
+  "glyph": "Harkat.B",
+  "unicode": "U+E0F7"
+ },
+ "AnicaKariSAKQHarkat/DC3": {
+  "glyph": "Harkat.DC3",
+  "unicode": "U+E0F8"
+ },
+ "AnicaKariSAKQHarkat/DC4": {
+  "glyph": "Harkat.DC4",
+  "unicode": "U+E0F9"
+ },
+ "AnicaKariSAKQHarkat/Delta": {
+  "glyph": "Harkat.Delta",
+  "unicode": "U+E0FA"
+ },
+ "AnicaKariSAKQHarkat/Ecircumflex": {
+  "glyph": "Harkat.Ecircumflex",
+  "unicode": "U+E0FB"
+ },
+ "AnicaKariSAKQHarkat/Edieresis": {
+  "glyph": "Harkat.Edieresis",
+  "unicode": "U+E0FC"
+ },
+ "AnicaKariSAKQHarkat/Iacute": {
+  "glyph": "Harkat.Iacute",
+  "unicode": "U+E0FD"
+ },
+ "AnicaKariSAKQHarkat/Icircumflex": {
+  "glyph": "Harkat.Icircumflex",
+  "unicode": "U+E0FE"
+ },
+ "AnicaKariSAKQHarkat/Idieresis": {
+  "glyph": "Harkat.Idieresis",
+  "unicode": "U+E0FF"
+ },
+ "AnicaKariSAKQHarkat/Igrave": {
+  "glyph": "Harkat.Igrave",
+  "unicode": "U+E100"
+ },
+ "AnicaKariSAKQHarkat/K": {
+  "glyph": "Harkat.K",
+  "unicode": "U+E101"
+ },
+ "AnicaKariSAKQHarkat/L": {
+  "glyph": "Harkat.L",
+  "unicode": "U+E102"
+ },
+ "AnicaKariSAKQHarkat/Ntilde": {
+  "glyph": "Harkat.Ntilde",
+  "unicode": "U+E103"
+ },
+ "AnicaKariSAKQHarkat/Oacute": {
+  "glyph": "Harkat.Oacute",
+  "unicode": "U+E104"
+ },
+ "AnicaKariSAKQHarkat/Ocircumflex": {
+  "glyph": "Harkat.Ocircumflex",
+  "unicode": "U+E105"
+ },
+ "AnicaKariSAKQHarkat/Ograve": {
+  "glyph": "Harkat.Ograve",
+  "unicode": "U+E106"
+ },
+ "AnicaKariSAKQHarkat/Omega": {
+  "glyph": "Harkat.Omega",
+  "unicode": "U+E107"
+ },
+ "AnicaKariSAKQHarkat/Oslash": {
+  "glyph": "Harkat.Oslash",
+  "unicode": "U+E108"
+ },
+ "AnicaKariSAKQHarkat/Otilde": {
+  "glyph": "Harkat.Otilde",
+  "unicode": "U+E109"
+ },
+ "AnicaKariSAKQHarkat/P": {
+  "glyph": "Harkat.P",
+  "unicode": "U+E10A"
+ },
+ "AnicaKariSAKQHarkat/Q": {
+  "glyph": "Harkat.Q",
+  "unicode": "U+E10B"
+ },
+ "AnicaKariSAKQHarkat/RS": {
+  "glyph": "Harkat.RS",
+  "unicode": "U+E10C"
+ },
+ "AnicaKariSAKQHarkat/S": {
+  "glyph": "Harkat.S",
+  "unicode": "U+E10D"
+ },
+ "AnicaKariSAKQHarkat/Uacute": {
+  "glyph": "Harkat.Uacute",
+  "unicode": "U+E10E"
+ },
+ "AnicaKariSAKQHarkat/Ucircumflex": {
+  "glyph": "Harkat.Ucircumflex",
+  "unicode": "U+E10F"
+ },
+ "AnicaKariSAKQHarkat/Ugrave": {
+  "glyph": "Harkat.Ugrave",
+  "unicode": "U+E110"
+ },
+ "AnicaKariSAKQHarkat/W": {
+  "glyph": "Harkat.W",
+  "unicode": "U+E111"
+ },
+ "AnicaKariSAKQHarkat/Ydieresis": {
+  "glyph": "Harkat.Ydieresis",
+  "unicode": "U+E112"
+ },
+ "AnicaKariSAKQHarkat/Z": {
+  "glyph": "Harkat.Z",
+  "unicode": "U+E113"
+ },
+ "AnicaKariSAKQHarkat/Zcaron": {
+  "glyph": "Harkat.Zcaron",
+  "unicode": "U+E114"
+ },
+ "AnicaKariSAKQHarkat/acute": {
+  "glyph": "Harkat.acute",
+  "unicode": "U+E115"
+ },
+ "AnicaKariSAKQHarkat/ae": {
+  "glyph": "Harkat.ae",
+  "unicode": "U+E116"
+ },
+ "AnicaKariSAKQHarkat/apple": {
+  "glyph": "Harkat.apple",
+  "unicode": "U+E117"
+ },
+ "AnicaKariSAKQHarkat/approxequal": {
+  "glyph": "Harkat.approxequal",
+  "unicode": "U+E118"
+ },
+ "AnicaKariSAKQHarkat/aring": {
+  "glyph": "Harkat.aring",
+  "unicode": "U+E119"
+ },
+ "AnicaKariSAKQHarkat/at": {
+  "glyph": "Harkat.at",
+  "unicode": "U+E11A"
+ },
+ "AnicaKariSAKQHarkat/atilde": {
+  "glyph": "Harkat.atilde",
+  "unicode": "U+E11B"
+ },
+ "AnicaKariSAKQHarkat/bracketright": {
+  "glyph": "Harkat.bracketright",
+  "unicode": "U+E11C"
+ },
+ "AnicaKariSAKQHarkat/breve": {
+  "glyph": "Harkat.breve",
+  "unicode": "U+E11D"
+ },
+ "AnicaKariSAKQHarkat/bullet": {
+  "glyph": "Harkat.bullet",
+  "unicode": "U+E11E"
+ },
+ "AnicaKariSAKQHarkat/caron": {
+  "glyph": "Harkat.caron",
+  "unicode": "U+E11F"
+ },
+ "AnicaKariSAKQHarkat/ccedilla": {
+  "glyph": "Harkat.ccedilla",
+  "unicode": "U+E120"
+ },
+ "AnicaKariSAKQHarkat/cedilla": {
+  "glyph": "Harkat.cedilla",
+  "unicode": "U+E121"
+ },
+ "AnicaKariSAKQHarkat/currency": {
+  "glyph": "Harkat.currency",
+  "unicode": "U+E122"
+ },
+ "AnicaKariSAKQHarkat/degree": {
+  "glyph": "Harkat.degree",
+  "unicode": "U+E123"
+ },
+ "AnicaKariSAKQHarkat/dieresis": {
+  "glyph": "Harkat.dieresis",
+  "unicode": "U+E124"
+ },
+ "AnicaKariSAKQHarkat/divide": {
+  "glyph": "Harkat.divide",
+  "unicode": "U+E125"
+ },
+ "AnicaKariSAKQHarkat/dotaccent": {
+  "glyph": "Harkat.dotaccent",
+  "unicode": "U+E126"
+ },
+ "AnicaKariSAKQHarkat/dotlessi": {
+  "glyph": "Harkat.dotlessi",
+  "unicode": "U+E127"
+ },
+ "AnicaKariSAKQHarkat/egrave": {
+  "glyph": "Harkat.egrave",
+  "unicode": "U+E128"
+ },
+ "AnicaKariSAKQHarkat/eight": {
+  "glyph": "Harkat.eight",
+  "unicode": "U+E129"
+ },
+ "AnicaKariSAKQHarkat/emdash": {
+  "glyph": "Harkat.emdash",
+  "unicode": "U+E12A"
+ },
+ "AnicaKariSAKQHarkat/endash": {
+  "glyph": "Harkat.endash",
+  "unicode": "U+E12B"
+ },
+ "AnicaKariSAKQHarkat/f": {
+  "glyph": "Harkat.f",
+  "unicode": "U+E12C"
+ },
+ "AnicaKariSAKQHarkat/fi": {
+  "glyph": "Harkat.fi",
+  "unicode": "U+E12D"
+ },
+ "AnicaKariSAKQHarkat/fl": {
+  "glyph": "Harkat.fl",
+  "unicode": "U+E12E"
+ },
+ "AnicaKariSAKQHarkat/florin": {
+  "glyph": "Harkat.florin",
+  "unicode": "U+E12F"
+ },
+ "AnicaKariSAKQHarkat/fraction": {
+  "glyph": "Harkat.fraction",
+  "unicode": "U+E130"
+ },
+ "AnicaKariSAKQHarkat/g": {
+  "glyph": "Harkat.g",
+  "unicode": "U+E131"
+ },
+ "AnicaKariSAKQHarkat/grave": {
+  "glyph": "Harkat.grave",
+  "unicode": "U+E132"
+ },
+ "AnicaKariSAKQHarkat/greater": {
+  "glyph": "Harkat.greater",
+  "unicode": "U+E133"
+ },
+ "AnicaKariSAKQHarkat/greaterequal": {
+  "glyph": "Harkat.greaterequal",
+  "unicode": "U+E134"
+ },
+ "AnicaKariSAKQHarkat/guillemotright": {
+  "glyph": "Harkat.guillemotright",
+  "unicode": "U+E135"
+ },
+ "AnicaKariSAKQHarkat/guilsinglleft": {
+  "glyph": "Harkat.guilsinglleft",
+  "unicode": "U+E136"
+ },
+ "AnicaKariSAKQHarkat/guilsinglright": {
+  "glyph": "Harkat.guilsinglright",
+  "unicode": "U+E137"
+ },
+ "AnicaKariSAKQHarkat/hungarumlaut": {
+  "glyph": "Harkat.hungarumlaut",
+  "unicode": "U+E138"
+ },
+ "AnicaKariSAKQHarkat/i": {
+  "glyph": "Harkat.i",
+  "unicode": "U+E139"
+ },
+ "AnicaKariSAKQHarkat/idieresis": {
+  "glyph": "Harkat.idieresis",
+  "unicode": "U+E13A"
+ },
+ "AnicaKariSAKQHarkat/igrave": {
+  "glyph": "Harkat.igrave",
+  "unicode": "U+E13B"
+ },
+ "AnicaKariSAKQHarkat/integral": {
+  "glyph": "Harkat.integral",
+  "unicode": "U+E13C"
+ },
+ "AnicaKariSAKQHarkat/l": {
+  "glyph": "Harkat.l",
+  "unicode": "U+E13D"
+ },
+ "AnicaKariSAKQHarkat/lessequal": {
+  "glyph": "Harkat.lessequal",
+  "unicode": "U+E13E"
+ },
+ "AnicaKariSAKQHarkat/logicalnot": {
+  "glyph": "Harkat.logicalnot",
+  "unicode": "U+E13F"
+ },
+ "AnicaKariSAKQHarkat/lozenge": {
+  "glyph": "Harkat.lozenge",
+  "unicode": "U+E140"
+ },
+ "AnicaKariSAKQHarkat/m": {
+  "glyph": "Harkat.m",
+  "unicode": "U+E141"
+ },
+ "AnicaKariSAKQHarkat/macron": {
+  "glyph": "Harkat.macron",
+  "unicode": "U+E142"
+ },
+ "AnicaKariSAKQHarkat/minus": {
+  "glyph": "Harkat.minus",
+  "unicode": "U+E143"
+ },
+ "AnicaKariSAKQHarkat/mu": {
+  "glyph": "Harkat.mu",
+  "unicode": "U+E144"
+ },
+ "AnicaKariSAKQHarkat/multiply": {
+  "glyph": "Harkat.multiply",
+  "unicode": "U+E145"
+ },
+ "AnicaKariSAKQHarkat/n": {
+  "glyph": "Harkat.n",
+  "unicode": "U+E146"
+ },
+ "AnicaKariSAKQHarkat/notequal": {
+  "glyph": "Harkat.notequal",
+  "unicode": "U+E147"
+ },
+ "AnicaKariSAKQHarkat/o": {
+  "glyph": "Harkat.o",
+  "unicode": "U+E148"
+ },
+ "AnicaKariSAKQHarkat/oacute": {
+  "glyph": "Harkat.oacute",
+  "unicode": "U+E149"
+ },
+ "AnicaKariSAKQHarkat/oe": {
+  "glyph": "Harkat.oe",
+  "unicode": "U+E14A"
+ },
+ "AnicaKariSAKQHarkat/onehalf": {
+  "glyph": "Harkat.onehalf",
+  "unicode": "U+E14B"
+ },
+ "AnicaKariSAKQHarkat/ordfeminine": {
+  "glyph": "Harkat.ordfeminine",
+  "unicode": "U+E14C"
+ },
+ "AnicaKariSAKQHarkat/ordmasculine": {
+  "glyph": "Harkat.ordmasculine",
+  "unicode": "U+E14D"
+ },
+ "AnicaKariSAKQHarkat/oslash": {
+  "glyph": "Harkat.oslash",
+  "unicode": "U+E14E"
+ },
+ "AnicaKariSAKQHarkat/p": {
+  "glyph": "Harkat.p",
+  "unicode": "U+E14F"
+ },
+ "AnicaKariSAKQHarkat/parenleft": {
+  "glyph": "Harkat.parenleft",
+  "unicode": "U+E150"
+ },
+ "AnicaKariSAKQHarkat/parenright": {
+  "glyph": "Harkat.parenright",
+  "unicode": "U+E151"
+ },
+ "AnicaKariSAKQHarkat/partialdiff": {
+  "glyph": "Harkat.partialdiff",
+  "unicode": "U+E152"
+ },
+ "AnicaKariSAKQHarkat/periodcentered": {
+  "glyph": "Harkat.periodcentered",
+  "unicode": "U+E153"
+ },
+ "AnicaKariSAKQHarkat/perthousand": {
+  "glyph": "Harkat.perthousand",
+  "unicode": "U+E154"
+ },
+ "AnicaKariSAKQHarkat/pi": {
+  "glyph": "Harkat.pi",
+  "unicode": "U+E155"
+ },
+ "AnicaKariSAKQHarkat/product": {
+  "glyph": "Harkat.product",
+  "unicode": "U+E156"
+ },
+ "AnicaKariSAKQHarkat/q": {
+  "glyph": "Harkat.q",
+  "unicode": "U+E157"
+ },
+ "AnicaKariSAKQHarkat/question": {
+  "glyph": "Harkat.question",
+  "unicode": "U+E158"
+ },
+ "AnicaKariSAKQHarkat/quotedblbase": {
+  "glyph": "Harkat.quotedblbase",
+  "unicode": "U+E159"
+ },
+ "AnicaKariSAKQHarkat/quotedblleft": {
+  "glyph": "Harkat.quotedblleft",
+  "unicode": "U+E15A"
+ },
+ "AnicaKariSAKQHarkat/quotedblright": {
+  "glyph": "Harkat.quotedblright",
+  "unicode": "U+E15B"
+ },
+ "AnicaKariSAKQHarkat/quoteleft": {
+  "glyph": "Harkat.quoteleft",
+  "unicode": "U+E15C"
+ },
+ "AnicaKariSAKQHarkat/quotesinglbase": {
+  "glyph": "Harkat.quotesinglbase",
+  "unicode": "U+E15D"
+ },
+ "AnicaKariSAKQHarkat/quotesingle": {
+  "glyph": "Harkat.quotesingle",
+  "unicode": "U+E15E"
+ },
+ "AnicaKariSAKQHarkat/radical": {
+  "glyph": "Harkat.radical",
+  "unicode": "U+E15F"
+ },
+ "AnicaKariSAKQHarkat/registered": {
+  "glyph": "Harkat.registered",
+  "unicode": "U+E160"
+ },
+ "AnicaKariSAKQHarkat/ring": {
+  "glyph": "Harkat.ring",
+  "unicode": "U+E161"
+ },
+ "AnicaKariSAKQHarkat/section": {
+  "glyph": "Harkat.section",
+  "unicode": "U+E162"
+ },
+ "AnicaKariSAKQHarkat/space": {
+  "glyph": "Harkat.space",
+  "unicode": "U+E163"
+ },
+ "AnicaKariSAKQHarkat/sterling": {
+  "glyph": "Harkat.sterling",
+  "unicode": "U+E164"
+ },
+ "AnicaKariSAKQHarkat/summation": {
+  "glyph": "Harkat.summation",
+  "unicode": "U+E165"
+ },
+ "AnicaKariSAKQHarkat/t": {
+  "glyph": "Harkat.t",
+  "unicode": "U+E166"
+ },
+ "AnicaKariSAKQHarkat/trademark": {
+  "glyph": "Harkat.trademark",
+  "unicode": "U+E167"
+ },
+ "AnicaKariSAKQHarkat/uacute": {
+  "glyph": "Harkat.uacute",
+  "unicode": "U+E168"
+ },
+ "AnicaKariSAKQHarkat/underscore": {
+  "glyph": "Harkat.underscore",
+  "unicode": "U+E169"
+ },
+ "AnicaKariSAKQHarkat/w": {
+  "glyph": "Harkat.w",
+  "unicode": "U+E16A"
+ },
+ "AnicaKariSAKQHarkat/yen": {
+  "glyph": "Harkat.yen",
+  "unicode": "U+E16B"
+ },
+ "AnicaKariSAKQHarkatExtra/AE": {
+  "glyph": "HarkatExtra.AE",
+  "unicode": "U+E16C"
+ },
+ "AnicaKariSAKQHarkatExtra/Aacute": {
+  "glyph": "HarkatExtra.Aacute",
+  "unicode": "U+E16D"
+ },
+ "AnicaKariSAKQHarkatExtra/Acircumflex": {
+  "glyph": "HarkatExtra.Acircumflex",
+  "unicode": "U+E16E"
+ },
+ "AnicaKariSAKQHarkatExtra/Icircumflex": {
+  "glyph": "HarkatExtra.Icircumflex",
+  "unicode": "U+E16F"
+ },
+ "AnicaKariSAKQHarkatExtra/Idieresis": {
+  "glyph": "HarkatExtra.Idieresis",
+  "unicode": "U+E170"
+ },
+ "AnicaKariSAKQHarkatExtra/Igrave": {
+  "glyph": "HarkatExtra.Igrave",
+  "unicode": "U+E171"
+ },
+ "AnicaKariSAKQHarkatExtra/L": {
+  "glyph": "HarkatExtra.L",
+  "unicode": "U+E172"
+ },
+ "AnicaKariSAKQHarkatExtra/Oacute": {
+  "glyph": "HarkatExtra.Oacute",
+  "unicode": "U+E173"
+ },
+ "AnicaKariSAKQHarkatExtra/Ocircumflex": {
+  "glyph": "HarkatExtra.Ocircumflex",
+  "unicode": "U+E174"
+ },
+ "AnicaKariSAKQHarkatExtra/Ograve": {
+  "glyph": "HarkatExtra.Ograve",
+  "unicode": "U+E175"
+ },
+ "AnicaKariSAKQHarkatExtra/ae": {
+  "glyph": "HarkatExtra.ae",
+  "unicode": "U+E176"
+ },
+ "AnicaKariSAKQHarkatExtra/apple": {
+  "glyph": "HarkatExtra.apple",
+  "unicode": "U+E177"
+ },
+ "AnicaKariSAKQHarkatExtra/atilde": {
+  "glyph": "HarkatExtra.atilde",
+  "unicode": "U+E178"
+ },
+ "AnicaKariSAKQHarkatExtra/divide": {
+  "glyph": "HarkatExtra.divide",
+  "unicode": "U+E179"
+ },
+ "AnicaKariSAKQHarkatExtra/egrave": {
+  "glyph": "HarkatExtra.egrave",
+  "unicode": "U+E17A"
+ },
+ "AnicaKariSAKQHarkatExtra/endash": {
+  "glyph": "HarkatExtra.endash",
+  "unicode": "U+E17B"
+ },
+ "AnicaKariSAKQHarkatExtra/f": {
+  "glyph": "HarkatExtra.f",
+  "unicode": "U+E17C"
+ },
+ "AnicaKariSAKQHarkatExtra/florin": {
+  "glyph": "HarkatExtra.florin",
+  "unicode": "U+E17D"
+ },
+ "AnicaKariSAKQHarkatExtra/hungarumlaut": {
+  "glyph": "HarkatExtra.hungarumlaut",
+  "unicode": "U+E17E"
+ },
+ "AnicaKariSAKQHarkatExtra/lozenge": {
+  "glyph": "HarkatExtra.lozenge",
+  "unicode": "U+E17F"
+ },
+ "AnicaKariSAKQHarkatExtra/notequal": {
+  "glyph": "HarkatExtra.notequal",
+  "unicode": "U+E180"
+ },
+ "AnicaKariSAKQHarkatExtra/o": {
+  "glyph": "HarkatExtra.o",
+  "unicode": "U+E181"
+ },
+ "AnicaKariSAKQHarkatExtra/oe": {
+  "glyph": "HarkatExtra.oe",
+  "unicode": "U+E182"
+ },
+ "AnicaKariSAKQHarkatExtra/ordmasculine": {
+  "glyph": "HarkatExtra.ordmasculine",
+  "unicode": "U+E183"
+ },
+ "AnicaKariSAKQHarkatExtra/question": {
+  "glyph": "HarkatExtra.question",
+  "unicode": "U+E184"
+ },
+ "AnicaKariSAKQHarkatExtra/quotedblright": {
+  "glyph": "HarkatExtra.quotedblright",
+  "unicode": "U+E185"
+ },
+ "AnicaKariSAKQHarkatExtra/quoteleft": {
+  "glyph": "HarkatExtra.quoteleft",
+  "unicode": "U+E186"
+ },
+ "AnicaKariSAKQHarkatExtra/quotesinglbase": {
+  "glyph": "HarkatExtra.quotesinglbase",
+  "unicode": "U+E187"
+ },
+ "AnicaKariSAKQHarkatExtra/r": {
+  "glyph": "HarkatExtra.r",
+  "unicode": "U+E188"
+ },
+ "AnicaKariSAKQHarkatExtra/space": {
+  "glyph": "HarkatExtra.space",
+  "unicode": "U+E189"
+ },
+ "AnicaKariSAKQHarkatSpare/Acircumflex": {
+  "glyph": "HarkatSpare.Acircumflex",
+  "unicode": "U+E18A"
+ },
+ "AnicaKariSAKQHarkatSpare/Agrave": {
+  "glyph": "HarkatSpare.Agrave",
+  "unicode": "U+E18B"
+ },
+ "AnicaKariSAKQHarkatSpare/Edieresis": {
+  "glyph": "HarkatSpare.Edieresis",
+  "unicode": "U+E18C"
+ },
+ "AnicaKariSAKQHarkatSpare/Icircumflex": {
+  "glyph": "HarkatSpare.Icircumflex",
+  "unicode": "U+E18D"
+ },
+ "AnicaKariSAKQHarkatSpare/Idieresis": {
+  "glyph": "HarkatSpare.Idieresis",
+  "unicode": "U+E18E"
+ },
+ "AnicaKariSAKQHarkatSpare/Igrave": {
+  "glyph": "HarkatSpare.Igrave",
+  "unicode": "U+E18F"
+ },
+ "AnicaKariSAKQHarkatSpare/Ocircumflex": {
+  "glyph": "HarkatSpare.Ocircumflex",
+  "unicode": "U+E190"
+ },
+ "AnicaKariSAKQHarkatSpare/Ograve": {
+  "glyph": "HarkatSpare.Ograve",
+  "unicode": "U+E191"
+ },
+ "AnicaKariSAKQHarkatSpare/S": {
+  "glyph": "HarkatSpare.S",
+  "unicode": "U+E192"
+ },
+ "AnicaKariSAKQHarkatSpare/Uacute": {
+  "glyph": "HarkatSpare.Uacute",
+  "unicode": "U+E193"
+ },
+ "AnicaKariSAKQHarkatSpare/Ydieresis": {
+  "glyph": "HarkatSpare.Ydieresis",
+  "unicode": "U+E194"
+ },
+ "AnicaKariSAKQHarkatSpare/Z": {
+  "glyph": "HarkatSpare.Z",
+  "unicode": "U+E195"
+ },
+ "AnicaKariSAKQHarkatSpare/ae": {
+  "glyph": "HarkatSpare.ae",
+  "unicode": "U+E196"
+ },
+ "AnicaKariSAKQHarkatSpare/apple": {
+  "glyph": "HarkatSpare.apple",
+  "unicode": "U+E197"
+ },
+ "AnicaKariSAKQHarkatSpare/approxequal": {
+  "glyph": "HarkatSpare.approxequal",
+  "unicode": "U+E198"
+ },
+ "AnicaKariSAKQHarkatSpare/cedilla": {
+  "glyph": "HarkatSpare.cedilla",
+  "unicode": "U+E199"
+ },
+ "AnicaKariSAKQHarkatSpare/divide": {
+  "glyph": "HarkatSpare.divide",
+  "unicode": "U+E19A"
+ },
+ "AnicaKariSAKQHarkatSpare/emdash": {
+  "glyph": "HarkatSpare.emdash",
+  "unicode": "U+E19B"
+ },
+ "AnicaKariSAKQHarkatSpare/endash": {
+  "glyph": "HarkatSpare.endash",
+  "unicode": "U+E19C"
+ },
+ "AnicaKariSAKQHarkatSpare/f": {
+  "glyph": "HarkatSpare.f",
+  "unicode": "U+E19D"
+ },
+ "AnicaKariSAKQHarkatSpare/florin": {
+  "glyph": "HarkatSpare.florin",
+  "unicode": "U+E19E"
+ },
+ "AnicaKariSAKQHarkatSpare/grave": {
+  "glyph": "HarkatSpare.grave",
+  "unicode": "U+E19F"
+ },
+ "AnicaKariSAKQHarkatSpare/greaterequal": {
+  "glyph": "HarkatSpare.greaterequal",
+  "unicode": "U+E1A0"
+ },
+ "AnicaKariSAKQHarkatSpare/hungarumlaut": {
+  "glyph": "HarkatSpare.hungarumlaut",
+  "unicode": "U+E1A1"
+ },
+ "AnicaKariSAKQHarkatSpare/i": {
+  "glyph": "HarkatSpare.i",
+  "unicode": "U+E1A2"
+ },
+ "AnicaKariSAKQHarkatSpare/l": {
+  "glyph": "HarkatSpare.l",
+  "unicode": "U+E1A3"
+ },
+ "AnicaKariSAKQHarkatSpare/lozenge": {
+  "glyph": "HarkatSpare.lozenge",
+  "unicode": "U+E1A4"
+ },
+ "AnicaKariSAKQHarkatSpare/lslash": {
+  "glyph": "HarkatSpare.lslash",
+  "unicode": "U+E1A5"
+ },
+ "AnicaKariSAKQHarkatSpare/minus": {
+  "glyph": "HarkatSpare.minus",
+  "unicode": "U+E1A6"
+ },
+ "AnicaKariSAKQHarkatSpare/oe": {
+  "glyph": "HarkatSpare.oe",
+  "unicode": "U+E1A7"
+ },
+ "AnicaKariSAKQHarkatSpare/ordmasculine": {
+  "glyph": "HarkatSpare.ordmasculine",
+  "unicode": "U+E1A8"
+ },
+ "AnicaKariSAKQHarkatSpare/question": {
+  "glyph": "HarkatSpare.question",
+  "unicode": "U+E1A9"
+ },
+ "AnicaKariSAKQHarkatSpare/quotedblleft": {
+  "glyph": "HarkatSpare.quotedblleft",
+  "unicode": "U+E1AA"
+ },
+ "AnicaKariSAKQHarkatSpare/quotedblright": {
+  "glyph": "HarkatSpare.quotedblright",
+  "unicode": "U+E1AB"
+ },
+ "AnicaKariSAKQHarkatSpare/quoteleft": {
+  "glyph": "HarkatSpare.quoteleft",
+  "unicode": "U+E1AC"
+ },
+ "AnicaKariSAKQHarkatSpare/space": {
+  "glyph": "HarkatSpare.space",
+  "unicode": "U+E1AD"
+ },
+ "AnicaKariSAKQS1/Icircumflex": {
+  "glyph": "S1.Icircumflex",
+  "unicode": "U+E1AE"
+ },
+ "AnicaKariSAKQS1/Idieresis": {
+  "glyph": "S1.Idieresis",
+  "unicode": "U+E1AF"
+ },
+ "AnicaKariSAKQS1/Igrave": {
+  "glyph": "S1.Igrave",
+  "unicode": "U+E1B0"
+ },
+ "AnicaKariSAKQS1/Oacute": {
+  "glyph": "S1.Oacute",
+  "unicode": "U+E1B1"
+ },
+ "AnicaKariSAKQS1/Ocircumflex": {
+  "glyph": "S1.Ocircumflex",
+  "unicode": "U+E1B2"
+ },
+ "AnicaKariSAKQS1/Ograve": {
+  "glyph": "S1.Ograve",
+  "unicode": "U+E1B3"
+ },
+ "AnicaKariSAKQS1/Uacute": {
+  "glyph": "S1.Uacute",
+  "unicode": "U+E1B4"
+ },
+ "AnicaKariSAKQS1/ae": {
+  "glyph": "S1.ae",
+  "unicode": "U+E1B5"
+ },
+ "AnicaKariSAKQS1/apple": {
+  "glyph": "S1.apple",
+  "unicode": "U+E1B6"
+ },
+ "AnicaKariSAKQS1/endash": {
+  "glyph": "S1.endash",
+  "unicode": "U+E1B7"
+ },
+ "AnicaKariSAKQS1/greater": {
+  "glyph": "S1.greater",
+  "unicode": "U+E1B8"
+ },
+ "AnicaKariSAKQS1/greaterequal": {
+  "glyph": "S1.greaterequal",
+  "unicode": "U+E1B9"
+ },
+ "AnicaKariSAKQS1/lessequal": {
+  "glyph": "S1.lessequal",
+  "unicode": "U+E1BA"
+ },
+ "AnicaKariSAKQS1/ordmasculine": {
+  "glyph": "S1.ordmasculine",
+  "unicode": "U+E1BB"
+ },
+ "AnicaKariSAKQS1/oslash": {
+  "glyph": "S1.oslash",
+  "unicode": "U+E1BC"
+ },
+ "AnicaKariSAKQS1/question": {
+  "glyph": "S1.question",
+  "unicode": "U+E1BD"
+ },
+ "AnicaKariSAKQS1/space": {
+  "glyph": "S1.space",
+  "unicode": "U+E1BE"
+ },
+ "AnicaKariSAKQS1/yen": {
+  "glyph": "S1.yen",
+  "unicode": "U+E1BF"
+ },
+ "AnicaKariSAKQS2/Icircumflex": {
+  "glyph": "S2.Icircumflex",
+  "unicode": "U+E1C0"
+ },
+ "AnicaKariSAKQS2/Idieresis": {
+  "glyph": "S2.Idieresis",
+  "unicode": "U+E1C1"
+ },
+ "AnicaKariSAKQS2/Igrave": {
+  "glyph": "S2.Igrave",
+  "unicode": "U+E1C2"
+ },
+ "AnicaKariSAKQS2/Oacute": {
+  "glyph": "S2.Oacute",
+  "unicode": "U+E1C3"
+ },
+ "AnicaKariSAKQS2/Ocircumflex": {
+  "glyph": "S2.Ocircumflex",
+  "unicode": "U+E1C4"
+ },
+ "AnicaKariSAKQS2/Ograve": {
+  "glyph": "S2.Ograve",
+  "unicode": "U+E1C5"
+ },
+ "AnicaKariSAKQS2/Uacute": {
+  "glyph": "S2.Uacute",
+  "unicode": "U+E1C6"
+ },
+ "AnicaKariSAKQS2/ae": {
+  "glyph": "S2.ae",
+  "unicode": "U+E1C7"
+ },
+ "AnicaKariSAKQS2/apple": {
+  "glyph": "S2.apple",
+  "unicode": "U+E1C8"
+ },
+ "AnicaKariSAKQS2/space": {
+  "glyph": "S2.space",
+  "unicode": "U+E1C9"
+ },
+ "AnicaKariSAKQS3/Icircumflex": {
+  "glyph": "S3.Icircumflex",
+  "unicode": "U+E1CA"
+ },
+ "AnicaKariSAKQS3/Idieresis": {
+  "glyph": "S3.Idieresis",
+  "unicode": "U+E1CB"
+ },
+ "AnicaKariSAKQS3/Igrave": {
+  "glyph": "S3.Igrave",
+  "unicode": "U+E1CC"
+ },
+ "AnicaKariSAKQS3/Oacute": {
+  "glyph": "S3.Oacute",
+  "unicode": "U+E1CD"
+ },
+ "AnicaKariSAKQS3/Ocircumflex": {
+  "glyph": "S3.Ocircumflex",
+  "unicode": "U+E1CE"
+ },
+ "AnicaKariSAKQS3/Ograve": {
+  "glyph": "S3.Ograve",
+  "unicode": "U+E1CF"
+ },
+ "AnicaKariSAKQS3/Uacute": {
+  "glyph": "S3.Uacute",
+  "unicode": "U+E1D0"
+ },
+ "AnicaKariSAKQS3/apple": {
+  "glyph": "S3.apple",
+  "unicode": "U+E1D1"
+ },
+ "AnicaKariSAKQS3/oslash": {
+  "glyph": "S3.oslash",
+  "unicode": "U+E1D2"
+ },
+ "AnicaKariSAKQS3/summation": {
+  "glyph": "S3.summation",
+  "unicode": "U+E1D3"
+ },
+ "AnicaKariSAKQS4/Icircumflex": {
+  "glyph": "S4.Icircumflex",
+  "unicode": "U+E1D4"
+ },
+ "AnicaKariSAKQS4/Igrave": {
+  "glyph": "S4.Igrave",
+  "unicode": "U+E1D5"
+ },
+ "AnicaKariSAKQS4/Oacute": {
+  "glyph": "S4.Oacute",
+  "unicode": "U+E1D6"
+ },
+ "AnicaKariSAKQS4/apple": {
+  "glyph": "S4.apple",
+  "unicode": "U+E1D7"
+ },
+ "AnicaKariSAKQA1/AE": {
+  "glyph": "A1.AE",
+  "unicode": "U+E1D8"
+ },
+ "AnicaKariSAKQA1/Aacute": {
+  "glyph": "A1.Aacute",
+  "unicode": "U+E1D9"
+ },
+ "AnicaKariSAKQA1/Acircumflex": {
+  "glyph": "A1.Acircumflex",
+  "unicode": "U+E1DA"
+ },
+ "AnicaKariSAKQA1/Adieresis": {
+  "glyph": "A1.Adieresis",
+  "unicode": "U+E1DB"
+ },
+ "AnicaKariSAKQA1/Agrave": {
+  "glyph": "A1.Agrave",
+  "unicode": "U+E1DC"
+ },
+ "AnicaKariSAKQA1/Atilde": {
+  "glyph": "A1.Atilde",
+  "unicode": "U+E1DD"
+ },
+ "AnicaKariSAKQA1/Ccedilla": {
+  "glyph": "A1.Ccedilla",
+  "unicode": "U+E1DE"
+ },
+ "AnicaKariSAKQA1/DC1": {
+  "glyph": "A1.DC1",
+  "unicode": "U+E1DF"
+ },
+ "AnicaKariSAKQA1/DC2": {
+  "glyph": "A1.DC2",
+  "unicode": "U+E1E0"
+ },
+ "AnicaKariSAKQA1/DC3": {
+  "glyph": "A1.DC3",
+  "unicode": "U+E1E1"
+ },
+ "AnicaKariSAKQA1/DC4": {
+  "glyph": "A1.DC4",
+  "unicode": "U+E1E2"
+ },
+ "AnicaKariSAKQA1/DEL": {
+  "glyph": "A1.DEL",
+  "unicode": "U+E1E3"
+ },
+ "AnicaKariSAKQA1/DLE": {
+  "glyph": "A1.DLE",
+  "unicode": "U+E1E4"
+ },
+ "AnicaKariSAKQA1/Delta": {
+  "glyph": "A1.Delta",
+  "unicode": "U+E1E5"
+ },
+ "AnicaKariSAKQA1/Eacute": {
+  "glyph": "A1.Eacute",
+  "unicode": "U+E1E6"
+ },
+ "AnicaKariSAKQA1/Ecircumflex": {
+  "glyph": "A1.Ecircumflex",
+  "unicode": "U+E1E7"
+ },
+ "AnicaKariSAKQA1/Edieresis": {
+  "glyph": "A1.Edieresis",
+  "unicode": "U+E1E8"
+ },
+ "AnicaKariSAKQA1/Egrave": {
+  "glyph": "A1.Egrave",
+  "unicode": "U+E1E9"
+ },
+ "AnicaKariSAKQA1/Eth": {
+  "glyph": "A1.Eth",
+  "unicode": "U+E1EA"
+ },
+ "AnicaKariSAKQA1/Iacute": {
+  "glyph": "A1.Iacute",
+  "unicode": "U+E1EB"
+ },
+ "AnicaKariSAKQA1/Icircumflex": {
+  "glyph": "A1.Icircumflex",
+  "unicode": "U+E1EC"
+ },
+ "AnicaKariSAKQA1/Idieresis": {
+  "glyph": "A1.Idieresis",
+  "unicode": "U+E1ED"
+ },
+ "AnicaKariSAKQA1/Igrave": {
+  "glyph": "A1.Igrave",
+  "unicode": "U+E1EE"
+ },
+ "AnicaKariSAKQA1/Lslash": {
+  "glyph": "A1.Lslash",
+  "unicode": "U+E1EF"
+ },
+ "AnicaKariSAKQA1/Ntilde": {
+  "glyph": "A1.Ntilde",
+  "unicode": "U+E1F0"
+ },
+ "AnicaKariSAKQA1/OE": {
+  "glyph": "A1.OE",
+  "unicode": "U+E1F1"
+ },
+ "AnicaKariSAKQA1/Oacute": {
+  "glyph": "A1.Oacute",
+  "unicode": "U+E1F2"
+ },
+ "AnicaKariSAKQA1/Ocircumflex": {
+  "glyph": "A1.Ocircumflex",
+  "unicode": "U+E1F3"
+ },
+ "AnicaKariSAKQA1/Odieresis": {
+  "glyph": "A1.Odieresis",
+  "unicode": "U+E1F4"
+ },
+ "AnicaKariSAKQA1/Ograve": {
+  "glyph": "A1.Ograve",
+  "unicode": "U+E1F5"
+ },
+ "AnicaKariSAKQA1/Omega": {
+  "glyph": "A1.Omega",
+  "unicode": "U+E1F6"
+ },
+ "AnicaKariSAKQA1/Oslash": {
+  "glyph": "A1.Oslash",
+  "unicode": "U+E1F7"
+ },
+ "AnicaKariSAKQA1/Otilde": {
+  "glyph": "A1.Otilde",
+  "unicode": "U+E1F8"
+ },
+ "AnicaKariSAKQA1/Scaron": {
+  "glyph": "A1.Scaron",
+  "unicode": "U+E1F9"
+ },
+ "AnicaKariSAKQA1/Thorn": {
+  "glyph": "A1.Thorn",
+  "unicode": "U+E1FA"
+ },
+ "AnicaKariSAKQA1/Uacute": {
+  "glyph": "A1.Uacute",
+  "unicode": "U+E1FB"
+ },
+ "AnicaKariSAKQA1/Ucircumflex": {
+  "glyph": "A1.Ucircumflex",
+  "unicode": "U+E1FC"
+ },
+ "AnicaKariSAKQA1/Udieresis": {
+  "glyph": "A1.Udieresis",
+  "unicode": "U+E1FD"
+ },
+ "AnicaKariSAKQA1/Ugrave": {
+  "glyph": "A1.Ugrave",
+  "unicode": "U+E1FE"
+ },
+ "AnicaKariSAKQA1/Yacute": {
+  "glyph": "A1.Yacute",
+  "unicode": "U+E1FF"
+ },
+ "AnicaKariSAKQA1/Ydieresis": {
+  "glyph": "A1.Ydieresis",
+  "unicode": "U+E200"
+ },
+ "AnicaKariSAKQA1/Zcaron": {
+  "glyph": "A1.Zcaron",
+  "unicode": "U+E201"
+ },
+ "AnicaKariSAKQA1/acute": {
+  "glyph": "A1.acute",
+  "unicode": "U+E202"
+ },
+ "AnicaKariSAKQA1/ae": {
+  "glyph": "A1.ae",
+  "unicode": "U+E203"
+ },
+ "AnicaKariSAKQA1/apple": {
+  "glyph": "A1.apple",
+  "unicode": "U+E204"
+ },
+ "AnicaKariSAKQA1/approxequal": {
+  "glyph": "A1.approxequal",
+  "unicode": "U+E205"
+ },
+ "AnicaKariSAKQA1/aring": {
+  "glyph": "A1.aring",
+  "unicode": "U+E206"
+ },
+ "AnicaKariSAKQA1/atilde": {
+  "glyph": "A1.atilde",
+  "unicode": "U+E207"
+ },
+ "AnicaKariSAKQA1/braceleft": {
+  "glyph": "A1.braceleft",
+  "unicode": "U+E208"
+ },
+ "AnicaKariSAKQA1/breve": {
+  "glyph": "A1.breve",
+  "unicode": "U+E209"
+ },
+ "AnicaKariSAKQA1/bullet": {
+  "glyph": "A1.bullet",
+  "unicode": "U+E20A"
+ },
+ "AnicaKariSAKQA1/caron": {
+  "glyph": "A1.caron",
+  "unicode": "U+E20B"
+ },
+ "AnicaKariSAKQA1/cedilla": {
+  "glyph": "A1.cedilla",
+  "unicode": "U+E20C"
+ },
+ "AnicaKariSAKQA1/circumflex": {
+  "glyph": "A1.circumflex",
+  "unicode": "U+E20D"
+ },
+ "AnicaKariSAKQA1/copyright": {
+  "glyph": "A1.copyright",
+  "unicode": "U+E20E"
+ },
+ "AnicaKariSAKQA1/currency": {
+  "glyph": "A1.currency",
+  "unicode": "U+E20F"
+ },
+ "AnicaKariSAKQA1/dagger": {
+  "glyph": "A1.dagger",
+  "unicode": "U+E210"
+ },
+ "AnicaKariSAKQA1/degree": {
+  "glyph": "A1.degree",
+  "unicode": "U+E211"
+ },
+ "AnicaKariSAKQA1/dieresis": {
+  "glyph": "A1.dieresis",
+  "unicode": "U+E212"
+ },
+ "AnicaKariSAKQA1/divide": {
+  "glyph": "A1.divide",
+  "unicode": "U+E213"
+ },
+ "AnicaKariSAKQA1/dotaccent": {
+  "glyph": "A1.dotaccent",
+  "unicode": "U+E214"
+ },
+ "AnicaKariSAKQA1/dotlessi": {
+  "glyph": "A1.dotlessi",
+  "unicode": "U+E215"
+ },
+ "AnicaKariSAKQA1/ellipsis": {
+  "glyph": "A1.ellipsis",
+  "unicode": "U+E216"
+ },
+ "AnicaKariSAKQA1/emdash": {
+  "glyph": "A1.emdash",
+  "unicode": "U+E217"
+ },
+ "AnicaKariSAKQA1/endash": {
+  "glyph": "A1.endash",
+  "unicode": "U+E218"
+ },
+ "AnicaKariSAKQA1/eth": {
+  "glyph": "A1.eth",
+  "unicode": "U+E219"
+ },
+ "AnicaKariSAKQA1/exclamdown": {
+  "glyph": "A1.exclamdown",
+  "unicode": "U+E21A"
+ },
+ "AnicaKariSAKQA1/fi": {
+  "glyph": "A1.fi",
+  "unicode": "U+E21B"
+ },
+ "AnicaKariSAKQA1/florin": {
+  "glyph": "A1.florin",
+  "unicode": "U+E21C"
+ },
+ "AnicaKariSAKQA1/fraction": {
+  "glyph": "A1.fraction",
+  "unicode": "U+E21D"
+ },
+ "AnicaKariSAKQA1/greaterequal": {
+  "glyph": "A1.greaterequal",
+  "unicode": "U+E21E"
+ },
+ "AnicaKariSAKQA1/guillemotleft": {
+  "glyph": "A1.guillemotleft",
+  "unicode": "U+E21F"
+ },
+ "AnicaKariSAKQA1/guillemotright": {
+  "glyph": "A1.guillemotright",
+  "unicode": "U+E220"
+ },
+ "AnicaKariSAKQA1/guilsinglleft": {
+  "glyph": "A1.guilsinglleft",
+  "unicode": "U+E221"
+ },
+ "AnicaKariSAKQA1/guilsinglright": {
+  "glyph": "A1.guilsinglright",
+  "unicode": "U+E222"
+ },
+ "AnicaKariSAKQA1/hungarumlaut": {
+  "glyph": "A1.hungarumlaut",
+  "unicode": "U+E223"
+ },
+ "AnicaKariSAKQA1/igrave": {
+  "glyph": "A1.igrave",
+  "unicode": "U+E224"
+ },
+ "AnicaKariSAKQA1/infinity": {
+  "glyph": "A1.infinity",
+  "unicode": "U+E225"
+ },
+ "AnicaKariSAKQA1/integral": {
+  "glyph": "A1.integral",
+  "unicode": "U+E226"
+ },
+ "AnicaKariSAKQA1/lessequal": {
+  "glyph": "A1.lessequal",
+  "unicode": "U+E227"
+ },
+ "AnicaKariSAKQA1/logicalnot": {
+  "glyph": "A1.logicalnot",
+  "unicode": "U+E228"
+ },
+ "AnicaKariSAKQA1/lozenge": {
+  "glyph": "A1.lozenge",
+  "unicode": "U+E229"
+ },
+ "AnicaKariSAKQA1/lslash": {
+  "glyph": "A1.lslash",
+  "unicode": "U+E22A"
+ },
+ "AnicaKariSAKQA1/macron": {
+  "glyph": "A1.macron",
+  "unicode": "U+E22B"
+ },
+ "AnicaKariSAKQA1/mu": {
+  "glyph": "A1.mu",
+  "unicode": "U+E22C"
+ },
+ "AnicaKariSAKQA1/nbspace": {
+  "glyph": "A1.nbspace",
+  "unicode": "U+E22D"
+ },
+ "AnicaKariSAKQA1/notequal": {
+  "glyph": "A1.notequal",
+  "unicode": "U+E22E"
+ },
+ "AnicaKariSAKQA1/ocircumflex": {
+  "glyph": "A1.ocircumflex",
+  "unicode": "U+E22F"
+ },
+ "AnicaKariSAKQA1/oe": {
+  "glyph": "A1.oe",
+  "unicode": "U+E230"
+ },
+ "AnicaKariSAKQA1/ogonek": {
+  "glyph": "A1.ogonek",
+  "unicode": "U+E231"
+ },
+ "AnicaKariSAKQA1/ograve": {
+  "glyph": "A1.ograve",
+  "unicode": "U+E232"
+ },
+ "AnicaKariSAKQA1/onehalf": {
+  "glyph": "A1.onehalf",
+  "unicode": "U+E233"
+ },
+ "AnicaKariSAKQA1/onequarter": {
+  "glyph": "A1.onequarter",
+  "unicode": "U+E234"
+ },
+ "AnicaKariSAKQA1/onesuperior": {
+  "glyph": "A1.onesuperior",
+  "unicode": "U+E235"
+ },
+ "AnicaKariSAKQA1/ordfeminine": {
+  "glyph": "A1.ordfeminine",
+  "unicode": "U+E236"
+ },
+ "AnicaKariSAKQA1/ordmasculine": {
+  "glyph": "A1.ordmasculine",
+  "unicode": "U+E237"
+ },
+ "AnicaKariSAKQA1/oslash": {
+  "glyph": "A1.oslash",
+  "unicode": "U+E238"
+ },
+ "AnicaKariSAKQA1/partialdiff": {
+  "glyph": "A1.partialdiff",
+  "unicode": "U+E239"
+ },
+ "AnicaKariSAKQA1/periodcentered": {
+  "glyph": "A1.periodcentered",
+  "unicode": "U+E23A"
+ },
+ "AnicaKariSAKQA1/perthousand": {
+  "glyph": "A1.perthousand",
+  "unicode": "U+E23B"
+ },
+ "AnicaKariSAKQA1/pi": {
+  "glyph": "A1.pi",
+  "unicode": "U+E23C"
+ },
+ "AnicaKariSAKQA1/plusminus": {
+  "glyph": "A1.plusminus",
+  "unicode": "U+E23D"
+ },
+ "AnicaKariSAKQA1/product": {
+  "glyph": "A1.product",
+  "unicode": "U+E23E"
+ },
+ "AnicaKariSAKQA1/quotedblbase": {
+  "glyph": "A1.quotedblbase",
+  "unicode": "U+E23F"
+ },
+ "AnicaKariSAKQA1/quotedblleft": {
+  "glyph": "A1.quotedblleft",
+  "unicode": "U+E240"
+ },
+ "AnicaKariSAKQA1/quotedblright": {
+  "glyph": "A1.quotedblright",
+  "unicode": "U+E241"
+ },
+ "AnicaKariSAKQA1/quoteleft": {
+  "glyph": "A1.quoteleft",
+  "unicode": "U+E242"
+ },
+ "AnicaKariSAKQA1/quoteright": {
+  "glyph": "A1.quoteright",
+  "unicode": "U+E243"
+ },
+ "AnicaKariSAKQA1/quotesinglbase": {
+  "glyph": "A1.quotesinglbase",
+  "unicode": "U+E244"
+ },
+ "AnicaKariSAKQA1/radical": {
+  "glyph": "A1.radical",
+  "unicode": "U+E245"
+ },
+ "AnicaKariSAKQA1/registered": {
+  "glyph": "A1.registered",
+  "unicode": "U+E246"
+ },
+ "AnicaKariSAKQA1/ring": {
+  "glyph": "A1.ring",
+  "unicode": "U+E247"
+ },
+ "AnicaKariSAKQA1/scaron": {
+  "glyph": "A1.scaron",
+  "unicode": "U+E248"
+ },
+ "AnicaKariSAKQA1/section": {
+  "glyph": "A1.section",
+  "unicode": "U+E249"
+ },
+ "AnicaKariSAKQA1/space": {
+  "glyph": "A1.space",
+  "unicode": "U+E24A"
+ },
+ "AnicaKariSAKQA1/sterling": {
+  "glyph": "A1.sterling",
+  "unicode": "U+E24B"
+ },
+ "AnicaKariSAKQA1/summation": {
+  "glyph": "A1.summation",
+  "unicode": "U+E24C"
+ },
+ "AnicaKariSAKQA1/thorn": {
+  "glyph": "A1.thorn",
+  "unicode": "U+E24D"
+ },
+ "AnicaKariSAKQA1/tilde": {
+  "glyph": "A1.tilde",
+  "unicode": "U+E24E"
+ },
+ "AnicaKariSAKQA1/trademark": {
+  "glyph": "A1.trademark",
+  "unicode": "U+E24F"
+ },
+ "AnicaKariSAKQA1/yacute": {
+  "glyph": "A1.yacute",
+  "unicode": "U+E250"
+ },
+ "AnicaKariSAKQA1/ydieresis": {
+  "glyph": "A1.ydieresis",
+  "unicode": "U+E251"
+ },
+ "AnicaKariSAKQA1/yen": {
+  "glyph": "A1.yen",
+  "unicode": "U+E252"
+ },
+ "AnicaKariSAKQA1/z": {
+  "glyph": "A1.z",
+  "unicode": "U+E253"
+ },
+ "AnicaKariSAKQA1/zcaron": {
+  "glyph": "A1.zcaron",
+  "unicode": "U+E254"
+ },
+ "AnicaKariSAKQA2/AE": {
+  "glyph": "A2.AE",
+  "unicode": "U+E255"
+ },
+ "AnicaKariSAKQA2/Aacute": {
+  "glyph": "A2.Aacute",
+  "unicode": "U+E256"
+ },
+ "AnicaKariSAKQA2/Acircumflex": {
+  "glyph": "A2.Acircumflex",
+  "unicode": "U+E257"
+ },
+ "AnicaKariSAKQA2/Adieresis": {
+  "glyph": "A2.Adieresis",
+  "unicode": "U+E258"
+ },
+ "AnicaKariSAKQA2/Agrave": {
+  "glyph": "A2.Agrave",
+  "unicode": "U+E259"
+ },
+ "AnicaKariSAKQA2/Atilde": {
+  "glyph": "A2.Atilde",
+  "unicode": "U+E25A"
+ },
+ "AnicaKariSAKQA2/Ccedilla": {
+  "glyph": "A2.Ccedilla",
+  "unicode": "U+E25B"
+ },
+ "AnicaKariSAKQA2/D": {
+  "glyph": "A2.D",
+  "unicode": "U+E25C"
+ },
+ "AnicaKariSAKQA2/DC1": {
+  "glyph": "A2.DC1",
+  "unicode": "U+E25D"
+ },
+ "AnicaKariSAKQA2/DC3": {
+  "glyph": "A2.DC3",
+  "unicode": "U+E25E"
+ },
+ "AnicaKariSAKQA2/DC4": {
+  "glyph": "A2.DC4",
+  "unicode": "U+E25F"
+ },
+ "AnicaKariSAKQA2/DEL": {
+  "glyph": "A2.DEL",
+  "unicode": "U+E260"
+ },
+ "AnicaKariSAKQA2/DLE": {
+  "glyph": "A2.DLE",
+  "unicode": "U+E261"
+ },
+ "AnicaKariSAKQA2/Delta": {
+  "glyph": "A2.Delta",
+  "unicode": "U+E262"
+ },
+ "AnicaKariSAKQA2/Eacute": {
+  "glyph": "A2.Eacute",
+  "unicode": "U+E263"
+ },
+ "AnicaKariSAKQA2/Ecircumflex": {
+  "glyph": "A2.Ecircumflex",
+  "unicode": "U+E264"
+ },
+ "AnicaKariSAKQA2/Edieresis": {
+  "glyph": "A2.Edieresis",
+  "unicode": "U+E265"
+ },
+ "AnicaKariSAKQA2/Eth": {
+  "glyph": "A2.Eth",
+  "unicode": "U+E266"
+ },
+ "AnicaKariSAKQA2/Iacute": {
+  "glyph": "A2.Iacute",
+  "unicode": "U+E267"
+ },
+ "AnicaKariSAKQA2/Icircumflex": {
+  "glyph": "A2.Icircumflex",
+  "unicode": "U+E268"
+ },
+ "AnicaKariSAKQA2/Idieresis": {
+  "glyph": "A2.Idieresis",
+  "unicode": "U+E269"
+ },
+ "AnicaKariSAKQA2/Igrave": {
+  "glyph": "A2.Igrave",
+  "unicode": "U+E26A"
+ },
+ "AnicaKariSAKQA2/Lslash": {
+  "glyph": "A2.Lslash",
+  "unicode": "U+E26B"
+ },
+ "AnicaKariSAKQA2/OE": {
+  "glyph": "A2.OE",
+  "unicode": "U+E26C"
+ },
+ "AnicaKariSAKQA2/Oacute": {
+  "glyph": "A2.Oacute",
+  "unicode": "U+E26D"
+ },
+ "AnicaKariSAKQA2/Ocircumflex": {
+  "glyph": "A2.Ocircumflex",
+  "unicode": "U+E26E"
+ },
+ "AnicaKariSAKQA2/Ograve": {
+  "glyph": "A2.Ograve",
+  "unicode": "U+E26F"
+ },
+ "AnicaKariSAKQA2/Omega": {
+  "glyph": "A2.Omega",
+  "unicode": "U+E270"
+ },
+ "AnicaKariSAKQA2/Oslash": {
+  "glyph": "A2.Oslash",
+  "unicode": "U+E271"
+ },
+ "AnicaKariSAKQA2/Otilde": {
+  "glyph": "A2.Otilde",
+  "unicode": "U+E272"
+ },
+ "AnicaKariSAKQA2/Scaron": {
+  "glyph": "A2.Scaron",
+  "unicode": "U+E273"
+ },
+ "AnicaKariSAKQA2/Thorn": {
+  "glyph": "A2.Thorn",
+  "unicode": "U+E274"
+ },
+ "AnicaKariSAKQA2/Uacute": {
+  "glyph": "A2.Uacute",
+  "unicode": "U+E275"
+ },
+ "AnicaKariSAKQA2/Ucircumflex": {
+  "glyph": "A2.Ucircumflex",
+  "unicode": "U+E276"
+ },
+ "AnicaKariSAKQA2/Ugrave": {
+  "glyph": "A2.Ugrave",
+  "unicode": "U+E277"
+ },
+ "AnicaKariSAKQA2/Yacute": {
+  "glyph": "A2.Yacute",
+  "unicode": "U+E278"
+ },
+ "AnicaKariSAKQA2/Ydieresis": {
+  "glyph": "A2.Ydieresis",
+  "unicode": "U+E279"
+ },
+ "AnicaKariSAKQA2/Zcaron": {
+  "glyph": "A2.Zcaron",
+  "unicode": "U+E27A"
+ },
+ "AnicaKariSAKQA2/acute": {
+  "glyph": "A2.acute",
+  "unicode": "U+E27B"
+ },
+ "AnicaKariSAKQA2/ae": {
+  "glyph": "A2.ae",
+  "unicode": "U+E27C"
+ },
+ "AnicaKariSAKQA2/apple": {
+  "glyph": "A2.apple",
+  "unicode": "U+E27D"
+ },
+ "AnicaKariSAKQA2/approxequal": {
+  "glyph": "A2.approxequal",
+  "unicode": "U+E27E"
+ },
+ "AnicaKariSAKQA2/aring": {
+  "glyph": "A2.aring",
+  "unicode": "U+E27F"
+ },
+ "AnicaKariSAKQA2/atilde": {
+  "glyph": "A2.atilde",
+  "unicode": "U+E280"
+ },
+ "AnicaKariSAKQA2/b": {
+  "glyph": "A2.b",
+  "unicode": "U+E281"
+ },
+ "AnicaKariSAKQA2/braceleft": {
+  "glyph": "A2.braceleft",
+  "unicode": "U+E282"
+ },
+ "AnicaKariSAKQA2/breve": {
+  "glyph": "A2.breve",
+  "unicode": "U+E283"
+ },
+ "AnicaKariSAKQA2/bullet": {
+  "glyph": "A2.bullet",
+  "unicode": "U+E284"
+ },
+ "AnicaKariSAKQA2/caron": {
+  "glyph": "A2.caron",
+  "unicode": "U+E285"
+ },
+ "AnicaKariSAKQA2/cedilla": {
+  "glyph": "A2.cedilla",
+  "unicode": "U+E286"
+ },
+ "AnicaKariSAKQA2/circumflex": {
+  "glyph": "A2.circumflex",
+  "unicode": "U+E287"
+ },
+ "AnicaKariSAKQA2/copyright": {
+  "glyph": "A2.copyright",
+  "unicode": "U+E288"
+ },
+ "AnicaKariSAKQA2/currency": {
+  "glyph": "A2.currency",
+  "unicode": "U+E289"
+ },
+ "AnicaKariSAKQA2/degree": {
+  "glyph": "A2.degree",
+  "unicode": "U+E28A"
+ },
+ "AnicaKariSAKQA2/dieresis": {
+  "glyph": "A2.dieresis",
+  "unicode": "U+E28B"
+ },
+ "AnicaKariSAKQA2/divide": {
+  "glyph": "A2.divide",
+  "unicode": "U+E28C"
+ },
+ "AnicaKariSAKQA2/dotaccent": {
+  "glyph": "A2.dotaccent",
+  "unicode": "U+E28D"
+ },
+ "AnicaKariSAKQA2/dotlessi": {
+  "glyph": "A2.dotlessi",
+  "unicode": "U+E28E"
+ },
+ "AnicaKariSAKQA2/ellipsis": {
+  "glyph": "A2.ellipsis",
+  "unicode": "U+E28F"
+ },
+ "AnicaKariSAKQA2/emdash": {
+  "glyph": "A2.emdash",
+  "unicode": "U+E290"
+ },
+ "AnicaKariSAKQA2/endash": {
+  "glyph": "A2.endash",
+  "unicode": "U+E291"
+ },
+ "AnicaKariSAKQA2/eth": {
+  "glyph": "A2.eth",
+  "unicode": "U+E292"
+ },
+ "AnicaKariSAKQA2/exclamdown": {
+  "glyph": "A2.exclamdown",
+  "unicode": "U+E293"
+ },
+ "AnicaKariSAKQA2/fi": {
+  "glyph": "A2.fi",
+  "unicode": "U+E294"
+ },
+ "AnicaKariSAKQA2/florin": {
+  "glyph": "A2.florin",
+  "unicode": "U+E295"
+ },
+ "AnicaKariSAKQA2/fraction": {
+  "glyph": "A2.fraction",
+  "unicode": "U+E296"
+ },
+ "AnicaKariSAKQA2/greaterequal": {
+  "glyph": "A2.greaterequal",
+  "unicode": "U+E297"
+ },
+ "AnicaKariSAKQA2/guillemotleft": {
+  "glyph": "A2.guillemotleft",
+  "unicode": "U+E298"
+ },
+ "AnicaKariSAKQA2/guillemotright": {
+  "glyph": "A2.guillemotright",
+  "unicode": "U+E299"
+ },
+ "AnicaKariSAKQA2/guilsinglleft": {
+  "glyph": "A2.guilsinglleft",
+  "unicode": "U+E29A"
+ },
+ "AnicaKariSAKQA2/guilsinglright": {
+  "glyph": "A2.guilsinglright",
+  "unicode": "U+E29B"
+ },
+ "AnicaKariSAKQA2/hungarumlaut": {
+  "glyph": "A2.hungarumlaut",
+  "unicode": "U+E29C"
+ },
+ "AnicaKariSAKQA2/igrave": {
+  "glyph": "A2.igrave",
+  "unicode": "U+E29D"
+ },
+ "AnicaKariSAKQA2/infinity": {
+  "glyph": "A2.infinity",
+  "unicode": "U+E29E"
+ },
+ "AnicaKariSAKQA2/integral": {
+  "glyph": "A2.integral",
+  "unicode": "U+E29F"
+ },
+ "AnicaKariSAKQA2/lessequal": {
+  "glyph": "A2.lessequal",
+  "unicode": "U+E2A0"
+ },
+ "AnicaKariSAKQA2/logicalnot": {
+  "glyph": "A2.logicalnot",
+  "unicode": "U+E2A1"
+ },
+ "AnicaKariSAKQA2/lozenge": {
+  "glyph": "A2.lozenge",
+  "unicode": "U+E2A2"
+ },
+ "AnicaKariSAKQA2/lslash": {
+  "glyph": "A2.lslash",
+  "unicode": "U+E2A3"
+ },
+ "AnicaKariSAKQA2/macron": {
+  "glyph": "A2.macron",
+  "unicode": "U+E2A4"
+ },
+ "AnicaKariSAKQA2/mu": {
+  "glyph": "A2.mu",
+  "unicode": "U+E2A5"
+ },
+ "AnicaKariSAKQA2/nbspace": {
+  "glyph": "A2.nbspace",
+  "unicode": "U+E2A6"
+ },
+ "AnicaKariSAKQA2/notequal": {
+  "glyph": "A2.notequal",
+  "unicode": "U+E2A7"
+ },
+ "AnicaKariSAKQA2/ocircumflex": {
+  "glyph": "A2.ocircumflex",
+  "unicode": "U+E2A8"
+ },
+ "AnicaKariSAKQA2/oe": {
+  "glyph": "A2.oe",
+  "unicode": "U+E2A9"
+ },
+ "AnicaKariSAKQA2/ogonek": {
+  "glyph": "A2.ogonek",
+  "unicode": "U+E2AA"
+ },
+ "AnicaKariSAKQA2/ograve": {
+  "glyph": "A2.ograve",
+  "unicode": "U+E2AB"
+ },
+ "AnicaKariSAKQA2/onehalf": {
+  "glyph": "A2.onehalf",
+  "unicode": "U+E2AC"
+ },
+ "AnicaKariSAKQA2/onequarter": {
+  "glyph": "A2.onequarter",
+  "unicode": "U+E2AD"
+ },
+ "AnicaKariSAKQA2/ordfeminine": {
+  "glyph": "A2.ordfeminine",
+  "unicode": "U+E2AE"
+ },
+ "AnicaKariSAKQA2/ordmasculine": {
+  "glyph": "A2.ordmasculine",
+  "unicode": "U+E2AF"
+ },
+ "AnicaKariSAKQA2/oslash": {
+  "glyph": "A2.oslash",
+  "unicode": "U+E2B0"
+ },
+ "AnicaKariSAKQA2/partialdiff": {
+  "glyph": "A2.partialdiff",
+  "unicode": "U+E2B1"
+ },
+ "AnicaKariSAKQA2/periodcentered": {
+  "glyph": "A2.periodcentered",
+  "unicode": "U+E2B2"
+ },
+ "AnicaKariSAKQA2/perthousand": {
+  "glyph": "A2.perthousand",
+  "unicode": "U+E2B3"
+ },
+ "AnicaKariSAKQA2/pi": {
+  "glyph": "A2.pi",
+  "unicode": "U+E2B4"
+ },
+ "AnicaKariSAKQA2/plusminus": {
+  "glyph": "A2.plusminus",
+  "unicode": "U+E2B5"
+ },
+ "AnicaKariSAKQA2/product": {
+  "glyph": "A2.product",
+  "unicode": "U+E2B6"
+ },
+ "AnicaKariSAKQA2/quotedblbase": {
+  "glyph": "A2.quotedblbase",
+  "unicode": "U+E2B7"
+ },
+ "AnicaKariSAKQA2/quotedblleft": {
+  "glyph": "A2.quotedblleft",
+  "unicode": "U+E2B8"
+ },
+ "AnicaKariSAKQA2/quotedblright": {
+  "glyph": "A2.quotedblright",
+  "unicode": "U+E2B9"
+ },
+ "AnicaKariSAKQA2/quoteleft": {
+  "glyph": "A2.quoteleft",
+  "unicode": "U+E2BA"
+ },
+ "AnicaKariSAKQA2/quoteright": {
+  "glyph": "A2.quoteright",
+  "unicode": "U+E2BB"
+ },
+ "AnicaKariSAKQA2/quotesinglbase": {
+  "glyph": "A2.quotesinglbase",
+  "unicode": "U+E2BC"
+ },
+ "AnicaKariSAKQA2/radical": {
+  "glyph": "A2.radical",
+  "unicode": "U+E2BD"
+ },
+ "AnicaKariSAKQA2/registered": {
+  "glyph": "A2.registered",
+  "unicode": "U+E2BE"
+ },
+ "AnicaKariSAKQA2/ring": {
+  "glyph": "A2.ring",
+  "unicode": "U+E2BF"
+ },
+ "AnicaKariSAKQA2/scaron": {
+  "glyph": "A2.scaron",
+  "unicode": "U+E2C0"
+ },
+ "AnicaKariSAKQA2/section": {
+  "glyph": "A2.section",
+  "unicode": "U+E2C1"
+ },
+ "AnicaKariSAKQA2/space": {
+  "glyph": "A2.space",
+  "unicode": "U+E2C2"
+ },
+ "AnicaKariSAKQA2/sterling": {
+  "glyph": "A2.sterling",
+  "unicode": "U+E2C3"
+ },
+ "AnicaKariSAKQA2/summation": {
+  "glyph": "A2.summation",
+  "unicode": "U+E2C4"
+ },
+ "AnicaKariSAKQA2/thorn": {
+  "glyph": "A2.thorn",
+  "unicode": "U+E2C5"
+ },
+ "AnicaKariSAKQA2/tilde": {
+  "glyph": "A2.tilde",
+  "unicode": "U+E2C6"
+ },
+ "AnicaKariSAKQA2/trademark": {
+  "glyph": "A2.trademark",
+  "unicode": "U+E2C7"
+ },
+ "AnicaKariSAKQA2/yacute": {
+  "glyph": "A2.yacute",
+  "unicode": "U+E2C8"
+ },
+ "AnicaKariSAKQA2/ydieresis": {
+  "glyph": "A2.ydieresis",
+  "unicode": "U+E2C9"
+ },
+ "AnicaKariSAKQA2/yen": {
+  "glyph": "A2.yen",
+  "unicode": "U+E2CA"
+ },
+ "AnicaKariSAKQA2/zcaron": {
+  "glyph": "A2.zcaron",
+  "unicode": "U+E2CB"
+ },
+ "AnicaKariSAKQA3/AE": {
+  "glyph": "A3.AE",
+  "unicode": "U+E2CC"
+ },
+ "AnicaKariSAKQA3/Aacute": {
+  "glyph": "A3.Aacute",
+  "unicode": "U+E2CD"
+ },
+ "AnicaKariSAKQA3/Acircumflex": {
+  "glyph": "A3.Acircumflex",
+  "unicode": "U+E2CE"
+ },
+ "AnicaKariSAKQA3/Adieresis": {
+  "glyph": "A3.Adieresis",
+  "unicode": "U+E2CF"
+ },
+ "AnicaKariSAKQA3/Agrave": {
+  "glyph": "A3.Agrave",
+  "unicode": "U+E2D0"
+ },
+ "AnicaKariSAKQA3/Atilde": {
+  "glyph": "A3.Atilde",
+  "unicode": "U+E2D1"
+ },
+ "AnicaKariSAKQA3/DC1": {
+  "glyph": "A3.DC1",
+  "unicode": "U+E2D2"
+ },
+ "AnicaKariSAKQA3/DEL": {
+  "glyph": "A3.DEL",
+  "unicode": "U+E2D3"
+ },
+ "AnicaKariSAKQA3/DLE": {
+  "glyph": "A3.DLE",
+  "unicode": "U+E2D4"
+ },
+ "AnicaKariSAKQA3/Ecircumflex": {
+  "glyph": "A3.Ecircumflex",
+  "unicode": "U+E2D5"
+ },
+ "AnicaKariSAKQA3/Edieresis": {
+  "glyph": "A3.Edieresis",
+  "unicode": "U+E2D6"
+ },
+ "AnicaKariSAKQA3/Iacute": {
+  "glyph": "A3.Iacute",
+  "unicode": "U+E2D7"
+ },
+ "AnicaKariSAKQA3/Icircumflex": {
+  "glyph": "A3.Icircumflex",
+  "unicode": "U+E2D8"
+ },
+ "AnicaKariSAKQA3/Idieresis": {
+  "glyph": "A3.Idieresis",
+  "unicode": "U+E2D9"
+ },
+ "AnicaKariSAKQA3/Igrave": {
+  "glyph": "A3.Igrave",
+  "unicode": "U+E2DA"
+ },
+ "AnicaKariSAKQA3/Lslash": {
+  "glyph": "A3.Lslash",
+  "unicode": "U+E2DB"
+ },
+ "AnicaKariSAKQA3/OE": {
+  "glyph": "A3.OE",
+  "unicode": "U+E2DC"
+ },
+ "AnicaKariSAKQA3/Oacute": {
+  "glyph": "A3.Oacute",
+  "unicode": "U+E2DD"
+ },
+ "AnicaKariSAKQA3/Ocircumflex": {
+  "glyph": "A3.Ocircumflex",
+  "unicode": "U+E2DE"
+ },
+ "AnicaKariSAKQA3/Odieresis": {
+  "glyph": "A3.Odieresis",
+  "unicode": "U+E2DF"
+ },
+ "AnicaKariSAKQA3/Ograve": {
+  "glyph": "A3.Ograve",
+  "unicode": "U+E2E0"
+ },
+ "AnicaKariSAKQA3/Omega": {
+  "glyph": "A3.Omega",
+  "unicode": "U+E2E1"
+ },
+ "AnicaKariSAKQA3/Oslash": {
+  "glyph": "A3.Oslash",
+  "unicode": "U+E2E2"
+ },
+ "AnicaKariSAKQA3/Otilde": {
+  "glyph": "A3.Otilde",
+  "unicode": "U+E2E3"
+ },
+ "AnicaKariSAKQA3/Scaron": {
+  "glyph": "A3.Scaron",
+  "unicode": "U+E2E4"
+ },
+ "AnicaKariSAKQA3/Uacute": {
+  "glyph": "A3.Uacute",
+  "unicode": "U+E2E5"
+ },
+ "AnicaKariSAKQA3/Ugrave": {
+  "glyph": "A3.Ugrave",
+  "unicode": "U+E2E6"
+ },
+ "AnicaKariSAKQA3/Yacute": {
+  "glyph": "A3.Yacute",
+  "unicode": "U+E2E7"
+ },
+ "AnicaKariSAKQA3/Ydieresis": {
+  "glyph": "A3.Ydieresis",
+  "unicode": "U+E2E8"
+ },
+ "AnicaKariSAKQA3/Zcaron": {
+  "glyph": "A3.Zcaron",
+  "unicode": "U+E2E9"
+ },
+ "AnicaKariSAKQA3/acute": {
+  "glyph": "A3.acute",
+  "unicode": "U+E2EA"
+ },
+ "AnicaKariSAKQA3/ae": {
+  "glyph": "A3.ae",
+  "unicode": "U+E2EB"
+ },
+ "AnicaKariSAKQA3/apple": {
+  "glyph": "A3.apple",
+  "unicode": "U+E2EC"
+ },
+ "AnicaKariSAKQA3/approxequal": {
+  "glyph": "A3.approxequal",
+  "unicode": "U+E2ED"
+ },
+ "AnicaKariSAKQA3/aring": {
+  "glyph": "A3.aring",
+  "unicode": "U+E2EE"
+ },
+ "AnicaKariSAKQA3/atilde": {
+  "glyph": "A3.atilde",
+  "unicode": "U+E2EF"
+ },
+ "AnicaKariSAKQA3/braceleft": {
+  "glyph": "A3.braceleft",
+  "unicode": "U+E2F0"
+ },
+ "AnicaKariSAKQA3/bullet": {
+  "glyph": "A3.bullet",
+  "unicode": "U+E2F1"
+ },
+ "AnicaKariSAKQA3/caron": {
+  "glyph": "A3.caron",
+  "unicode": "U+E2F2"
+ },
+ "AnicaKariSAKQA3/cedilla": {
+  "glyph": "A3.cedilla",
+  "unicode": "U+E2F3"
+ },
+ "AnicaKariSAKQA3/circumflex": {
+  "glyph": "A3.circumflex",
+  "unicode": "U+E2F4"
+ },
+ "AnicaKariSAKQA3/copyright": {
+  "glyph": "A3.copyright",
+  "unicode": "U+E2F5"
+ },
+ "AnicaKariSAKQA3/currency": {
+  "glyph": "A3.currency",
+  "unicode": "U+E2F6"
+ },
+ "AnicaKariSAKQA3/degree": {
+  "glyph": "A3.degree",
+  "unicode": "U+E2F7"
+ },
+ "AnicaKariSAKQA3/dieresis": {
+  "glyph": "A3.dieresis",
+  "unicode": "U+E2F8"
+ },
+ "AnicaKariSAKQA3/divide": {
+  "glyph": "A3.divide",
+  "unicode": "U+E2F9"
+ },
+ "AnicaKariSAKQA3/dotlessi": {
+  "glyph": "A3.dotlessi",
+  "unicode": "U+E2FA"
+ },
+ "AnicaKariSAKQA3/ellipsis": {
+  "glyph": "A3.ellipsis",
+  "unicode": "U+E2FB"
+ },
+ "AnicaKariSAKQA3/emdash": {
+  "glyph": "A3.emdash",
+  "unicode": "U+E2FC"
+ },
+ "AnicaKariSAKQA3/endash": {
+  "glyph": "A3.endash",
+  "unicode": "U+E2FD"
+ },
+ "AnicaKariSAKQA3/exclamdown": {
+  "glyph": "A3.exclamdown",
+  "unicode": "U+E2FE"
+ },
+ "AnicaKariSAKQA3/fi": {
+  "glyph": "A3.fi",
+  "unicode": "U+E2FF"
+ },
+ "AnicaKariSAKQA3/florin": {
+  "glyph": "A3.florin",
+  "unicode": "U+E300"
+ },
+ "AnicaKariSAKQA3/fraction": {
+  "glyph": "A3.fraction",
+  "unicode": "U+E301"
+ },
+ "AnicaKariSAKQA3/greaterequal": {
+  "glyph": "A3.greaterequal",
+  "unicode": "U+E302"
+ },
+ "AnicaKariSAKQA3/guillemotleft": {
+  "glyph": "A3.guillemotleft",
+  "unicode": "U+E303"
+ },
+ "AnicaKariSAKQA3/guillemotright": {
+  "glyph": "A3.guillemotright",
+  "unicode": "U+E304"
+ },
+ "AnicaKariSAKQA3/guilsinglleft": {
+  "glyph": "A3.guilsinglleft",
+  "unicode": "U+E305"
+ },
+ "AnicaKariSAKQA3/guilsinglright": {
+  "glyph": "A3.guilsinglright",
+  "unicode": "U+E306"
+ },
+ "AnicaKariSAKQA3/hungarumlaut": {
+  "glyph": "A3.hungarumlaut",
+  "unicode": "U+E307"
+ },
+ "AnicaKariSAKQA3/infinity": {
+  "glyph": "A3.infinity",
+  "unicode": "U+E308"
+ },
+ "AnicaKariSAKQA3/integral": {
+  "glyph": "A3.integral",
+  "unicode": "U+E309"
+ },
+ "AnicaKariSAKQA3/lessequal": {
+  "glyph": "A3.lessequal",
+  "unicode": "U+E30A"
+ },
+ "AnicaKariSAKQA3/logicalnot": {
+  "glyph": "A3.logicalnot",
+  "unicode": "U+E30B"
+ },
+ "AnicaKariSAKQA3/lozenge": {
+  "glyph": "A3.lozenge",
+  "unicode": "U+E30C"
+ },
+ "AnicaKariSAKQA3/lslash": {
+  "glyph": "A3.lslash",
+  "unicode": "U+E30D"
+ },
+ "AnicaKariSAKQA3/mu": {
+  "glyph": "A3.mu",
+  "unicode": "U+E30E"
+ },
+ "AnicaKariSAKQA3/nbspace": {
+  "glyph": "A3.nbspace",
+  "unicode": "U+E30F"
+ },
+ "AnicaKariSAKQA3/notequal": {
+  "glyph": "A3.notequal",
+  "unicode": "U+E310"
+ },
+ "AnicaKariSAKQA3/oe": {
+  "glyph": "A3.oe",
+  "unicode": "U+E311"
+ },
+ "AnicaKariSAKQA3/ograve": {
+  "glyph": "A3.ograve",
+  "unicode": "U+E312"
+ },
+ "AnicaKariSAKQA3/ordfeminine": {
+  "glyph": "A3.ordfeminine",
+  "unicode": "U+E313"
+ },
+ "AnicaKariSAKQA3/ordmasculine": {
+  "glyph": "A3.ordmasculine",
+  "unicode": "U+E314"
+ },
+ "AnicaKariSAKQA3/oslash": {
+  "glyph": "A3.oslash",
+  "unicode": "U+E315"
+ },
+ "AnicaKariSAKQA3/partialdiff": {
+  "glyph": "A3.partialdiff",
+  "unicode": "U+E316"
+ },
+ "AnicaKariSAKQA3/periodcentered": {
+  "glyph": "A3.periodcentered",
+  "unicode": "U+E317"
+ },
+ "AnicaKariSAKQA3/perthousand": {
+  "glyph": "A3.perthousand",
+  "unicode": "U+E318"
+ },
+ "AnicaKariSAKQA3/pi": {
+  "glyph": "A3.pi",
+  "unicode": "U+E319"
+ },
+ "AnicaKariSAKQA3/plusminus": {
+  "glyph": "A3.plusminus",
+  "unicode": "U+E31A"
+ },
+ "AnicaKariSAKQA3/product": {
+  "glyph": "A3.product",
+  "unicode": "U+E31B"
+ },
+ "AnicaKariSAKQA3/quotedblbase": {
+  "glyph": "A3.quotedblbase",
+  "unicode": "U+E31C"
+ },
+ "AnicaKariSAKQA3/quotedblleft": {
+  "glyph": "A3.quotedblleft",
+  "unicode": "U+E31D"
+ },
+ "AnicaKariSAKQA3/quotedblright": {
+  "glyph": "A3.quotedblright",
+  "unicode": "U+E31E"
+ },
+ "AnicaKariSAKQA3/quoteleft": {
+  "glyph": "A3.quoteleft",
+  "unicode": "U+E31F"
+ },
+ "AnicaKariSAKQA3/quoteright": {
+  "glyph": "A3.quoteright",
+  "unicode": "U+E320"
+ },
+ "AnicaKariSAKQA3/radical": {
+  "glyph": "A3.radical",
+  "unicode": "U+E321"
+ },
+ "AnicaKariSAKQA3/registered": {
+  "glyph": "A3.registered",
+  "unicode": "U+E322"
+ },
+ "AnicaKariSAKQA3/ring": {
+  "glyph": "A3.ring",
+  "unicode": "U+E323"
+ },
+ "AnicaKariSAKQA3/scaron": {
+  "glyph": "A3.scaron",
+  "unicode": "U+E324"
+ },
+ "AnicaKariSAKQA3/section": {
+  "glyph": "A3.section",
+  "unicode": "U+E325"
+ },
+ "AnicaKariSAKQA3/space": {
+  "glyph": "A3.space",
+  "unicode": "U+E326"
+ },
+ "AnicaKariSAKQA3/sterling": {
+  "glyph": "A3.sterling",
+  "unicode": "U+E327"
+ },
+ "AnicaKariSAKQA3/summation": {
+  "glyph": "A3.summation",
+  "unicode": "U+E328"
+ },
+ "AnicaKariSAKQA3/tilde": {
+  "glyph": "A3.tilde",
+  "unicode": "U+E329"
+ },
+ "AnicaKariSAKQA3/trademark": {
+  "glyph": "A3.trademark",
+  "unicode": "U+E32A"
+ },
+ "AnicaKariSAKQA3/yacute": {
+  "glyph": "A3.yacute",
+  "unicode": "U+E32B"
+ },
+ "AnicaKariSAKQA3/ydieresis": {
+  "glyph": "A3.ydieresis",
+  "unicode": "U+E32C"
+ },
+ "AnicaKariSAKQA3/yen": {
+  "glyph": "A3.yen",
+  "unicode": "U+E32D"
+ },
+ "AnicaKariSAKQA3/z": {
+  "glyph": "A3.z",
+  "unicode": "U+E32E"
+ },
+ "AnicaKariSAKQA3/zcaron": {
+  "glyph": "A3.zcaron",
+  "unicode": "U+E32F"
+ },
+ "AnicaKariSAKQA4/Aacute": {
+  "glyph": "A4.Aacute",
+  "unicode": "U+E330"
+ },
+ "AnicaKariSAKQA4/Agrave": {
+  "glyph": "A4.Agrave",
+  "unicode": "U+E331"
+ },
+ "AnicaKariSAKQA4/Icircumflex": {
+  "glyph": "A4.Icircumflex",
+  "unicode": "U+E332"
+ },
+ "AnicaKariSAKQA4/Idieresis": {
+  "glyph": "A4.Idieresis",
+  "unicode": "U+E333"
+ },
+ "AnicaKariSAKQA4/Igrave": {
+  "glyph": "A4.Igrave",
+  "unicode": "U+E334"
+ },
+ "AnicaKariSAKQA4/Lslash": {
+  "glyph": "A4.Lslash",
+  "unicode": "U+E335"
+ },
+ "AnicaKariSAKQA4/OE": {
+  "glyph": "A4.OE",
+  "unicode": "U+E336"
+ },
+ "AnicaKariSAKQA4/Oacute": {
+  "glyph": "A4.Oacute",
+  "unicode": "U+E337"
+ },
+ "AnicaKariSAKQA4/Ocircumflex": {
+  "glyph": "A4.Ocircumflex",
+  "unicode": "U+E338"
+ },
+ "AnicaKariSAKQA4/Ograve": {
+  "glyph": "A4.Ograve",
+  "unicode": "U+E339"
+ },
+ "AnicaKariSAKQA4/Otilde": {
+  "glyph": "A4.Otilde",
+  "unicode": "U+E33A"
+ },
+ "AnicaKariSAKQA4/Uacute": {
+  "glyph": "A4.Uacute",
+  "unicode": "U+E33B"
+ },
+ "AnicaKariSAKQA4/Ydieresis": {
+  "glyph": "A4.Ydieresis",
+  "unicode": "U+E33C"
+ },
+ "AnicaKariSAKQA4/ae": {
+  "glyph": "A4.ae",
+  "unicode": "U+E33D"
+ },
+ "AnicaKariSAKQA4/apple": {
+  "glyph": "A4.apple",
+  "unicode": "U+E33E"
+ },
+ "AnicaKariSAKQA4/divide": {
+  "glyph": "A4.divide",
+  "unicode": "U+E33F"
+ },
+ "AnicaKariSAKQA4/fi": {
+  "glyph": "A4.fi",
+  "unicode": "U+E340"
+ },
+ "AnicaKariSAKQA4/fraction": {
+  "glyph": "A4.fraction",
+  "unicode": "U+E341"
+ },
+ "AnicaKariSAKQA4/greaterequal": {
+  "glyph": "A4.greaterequal",
+  "unicode": "U+E342"
+ },
+ "AnicaKariSAKQA4/infinity": {
+  "glyph": "A4.infinity",
+  "unicode": "U+E343"
+ },
+ "AnicaKariSAKQA4/lessequal": {
+  "glyph": "A4.lessequal",
+  "unicode": "U+E344"
+ },
+ "AnicaKariSAKQA4/mu": {
+  "glyph": "A4.mu",
+  "unicode": "U+E345"
+ },
+ "AnicaKariSAKQA4/onequarter": {
+  "glyph": "A4.onequarter",
+  "unicode": "U+E346"
+ },
+ "AnicaKariSAKQA4/ordmasculine": {
+  "glyph": "A4.ordmasculine",
+  "unicode": "U+E347"
+ },
+ "AnicaKariSAKQA4/partialdiff": {
+  "glyph": "A4.partialdiff",
+  "unicode": "U+E348"
+ },
+ "AnicaKariSAKQA4/periodcentered": {
+  "glyph": "A4.periodcentered",
+  "unicode": "U+E349"
+ },
+ "AnicaKariSAKQA4/pi": {
+  "glyph": "A4.pi",
+  "unicode": "U+E34A"
+ },
+ "AnicaKariSAKQA4/plusminus": {
+  "glyph": "A4.plusminus",
+  "unicode": "U+E34B"
+ },
+ "AnicaKariSAKQA4/product": {
+  "glyph": "A4.product",
+  "unicode": "U+E34C"
+ },
+ "AnicaKariSAKQA4/question": {
+  "glyph": "A4.question",
+  "unicode": "U+E34D"
+ },
+ "AnicaKariSAKQA4/quoteright": {
+  "glyph": "A4.quoteright",
+  "unicode": "U+E34E"
+ },
+ "AnicaKariSAKQA4/quotesinglbase": {
+  "glyph": "A4.quotesinglbase",
+  "unicode": "U+E34F"
+ },
+ "AnicaKariSAKQA4/space": {
+  "glyph": "A4.space",
+  "unicode": "U+E350"
+ },
+ "AnicaKariSAKQA4/summation": {
+  "glyph": "A4.summation",
+  "unicode": "U+E351"
+ },
+ "AnicaKariSAKQA4/yen": {
+  "glyph": "A4.yen",
+  "unicode": "U+E352"
+ },
+ "AnicaKariSAKQA4/zcaron": {
+  "glyph": "A4.zcaron",
+  "unicode": "U+E353"
+ },
+ "AnicaKariSAKQAW/AE": {
+  "glyph": "AW.AE",
+  "unicode": "U+E354"
+ },
+ "AnicaKariSAKQAW/Agrave": {
+  "glyph": "AW.Agrave",
+  "unicode": "U+E355"
+ },
+ "AnicaKariSAKQAW/Atilde": {
+  "glyph": "AW.Atilde",
+  "unicode": "U+E356"
+ },
+ "AnicaKariSAKQAW/DC2": {
+  "glyph": "AW.DC2",
+  "unicode": "U+E357"
+ },
+ "AnicaKariSAKQAW/DC4": {
+  "glyph": "AW.DC4",
+  "unicode": "U+E358"
+ },
+ "AnicaKariSAKQAW/Ecircumflex": {
+  "glyph": "AW.Ecircumflex",
+  "unicode": "U+E359"
+ },
+ "AnicaKariSAKQAW/F": {
+  "glyph": "AW.F",
+  "unicode": "U+E35A"
+ },
+ "AnicaKariSAKQAW/Lslash": {
+  "glyph": "AW.Lslash",
+  "unicode": "U+E35B"
+ },
+ "AnicaKariSAKQAW/OE": {
+  "glyph": "AW.OE",
+  "unicode": "U+E35C"
+ },
+ "AnicaKariSAKQAW/Ocircumflex": {
+  "glyph": "AW.Ocircumflex",
+  "unicode": "U+E35D"
+ },
+ "AnicaKariSAKQAW/Omega": {
+  "glyph": "AW.Omega",
+  "unicode": "U+E35E"
+ },
+ "AnicaKariSAKQAW/Oslash": {
+  "glyph": "AW.Oslash",
+  "unicode": "U+E35F"
+ },
+ "AnicaKariSAKQAW/Otilde": {
+  "glyph": "AW.Otilde",
+  "unicode": "U+E360"
+ },
+ "AnicaKariSAKQAW/S": {
+  "glyph": "AW.S",
+  "unicode": "U+E361"
+ },
+ "AnicaKariSAKQAW/T": {
+  "glyph": "AW.T",
+  "unicode": "U+E362"
+ },
+ "AnicaKariSAKQAW/U": {
+  "glyph": "AW.U",
+  "unicode": "U+E363"
+ },
+ "AnicaKariSAKQAW/Udieresis": {
+  "glyph": "AW.Udieresis",
+  "unicode": "U+E364"
+ },
+ "AnicaKariSAKQAW/Ugrave": {
+  "glyph": "AW.Ugrave",
+  "unicode": "U+E365"
+ },
+ "AnicaKariSAKQAW/W": {
+  "glyph": "AW.W",
+  "unicode": "U+E366"
+ },
+ "AnicaKariSAKQAW/X": {
+  "glyph": "AW.X",
+  "unicode": "U+E367"
+ },
+ "AnicaKariSAKQAW/Y": {
+  "glyph": "AW.Y",
+  "unicode": "U+E368"
+ },
+ "AnicaKariSAKQAW/Yacute": {
+  "glyph": "AW.Yacute",
+  "unicode": "U+E369"
+ },
+ "AnicaKariSAKQAW/Ydieresis": {
+  "glyph": "AW.Ydieresis",
+  "unicode": "U+E36A"
+ },
+ "AnicaKariSAKQAW/Z": {
+  "glyph": "AW.Z",
+  "unicode": "U+E36B"
+ },
+ "AnicaKariSAKQAW/Zcaron": {
+  "glyph": "AW.Zcaron",
+  "unicode": "U+E36C"
+ },
+ "AnicaKariSAKQAW/a": {
+  "glyph": "AW.a",
+  "unicode": "U+E36D"
+ },
+ "AnicaKariSAKQAW/aacute": {
+  "glyph": "AW.aacute",
+  "unicode": "U+E36E"
+ },
+ "AnicaKariSAKQAW/ae": {
+  "glyph": "AW.ae",
+  "unicode": "U+E36F"
+ },
+ "AnicaKariSAKQAW/apple": {
+  "glyph": "AW.apple",
+  "unicode": "U+E370"
+ },
+ "AnicaKariSAKQAW/approxequal": {
+  "glyph": "AW.approxequal",
+  "unicode": "U+E371"
+ },
+ "AnicaKariSAKQAW/atilde": {
+  "glyph": "AW.atilde",
+  "unicode": "U+E372"
+ },
+ "AnicaKariSAKQAW/brokenbar": {
+  "glyph": "AW.brokenbar",
+  "unicode": "U+E373"
+ },
+ "AnicaKariSAKQAW/caron": {
+  "glyph": "AW.caron",
+  "unicode": "U+E374"
+ },
+ "AnicaKariSAKQAW/cedilla": {
+  "glyph": "AW.cedilla",
+  "unicode": "U+E375"
+ },
+ "AnicaKariSAKQAW/currency": {
+  "glyph": "AW.currency",
+  "unicode": "U+E376"
+ },
+ "AnicaKariSAKQAW/d": {
+  "glyph": "AW.d",
+  "unicode": "U+E377"
+ },
+ "AnicaKariSAKQAW/degree": {
+  "glyph": "AW.degree",
+  "unicode": "U+E378"
+ },
+ "AnicaKariSAKQAW/dieresis": {
+  "glyph": "AW.dieresis",
+  "unicode": "U+E379"
+ },
+ "AnicaKariSAKQAW/dotaccent": {
+  "glyph": "AW.dotaccent",
+  "unicode": "U+E37A"
+ },
+ "AnicaKariSAKQAW/e": {
+  "glyph": "AW.e",
+  "unicode": "U+E37B"
+ },
+ "AnicaKariSAKQAW/eacute": {
+  "glyph": "AW.eacute",
+  "unicode": "U+E37C"
+ },
+ "AnicaKariSAKQAW/egrave": {
+  "glyph": "AW.egrave",
+  "unicode": "U+E37D"
+ },
+ "AnicaKariSAKQAW/eight": {
+  "glyph": "AW.eight",
+  "unicode": "U+E37E"
+ },
+ "AnicaKariSAKQAW/ellipsis": {
+  "glyph": "AW.ellipsis",
+  "unicode": "U+E37F"
+ },
+ "AnicaKariSAKQAW/emdash": {
+  "glyph": "AW.emdash",
+  "unicode": "U+E380"
+ },
+ "AnicaKariSAKQAW/endash": {
+  "glyph": "AW.endash",
+  "unicode": "U+E381"
+ },
+ "AnicaKariSAKQAW/exclamdown": {
+  "glyph": "AW.exclamdown",
+  "unicode": "U+E382"
+ },
+ "AnicaKariSAKQAW/f": {
+  "glyph": "AW.f",
+  "unicode": "U+E383"
+ },
+ "AnicaKariSAKQAW/fi": {
+  "glyph": "AW.fi",
+  "unicode": "U+E384"
+ },
+ "AnicaKariSAKQAW/grave": {
+  "glyph": "AW.grave",
+  "unicode": "U+E385"
+ },
+ "AnicaKariSAKQAW/greaterequal": {
+  "glyph": "AW.greaterequal",
+  "unicode": "U+E386"
+ },
+ "AnicaKariSAKQAW/guillemotleft": {
+  "glyph": "AW.guillemotleft",
+  "unicode": "U+E387"
+ },
+ "AnicaKariSAKQAW/guilsinglleft": {
+  "glyph": "AW.guilsinglleft",
+  "unicode": "U+E388"
+ },
+ "AnicaKariSAKQAW/guilsinglright": {
+  "glyph": "AW.guilsinglright",
+  "unicode": "U+E389"
+ },
+ "AnicaKariSAKQAW/h": {
+  "glyph": "AW.h",
+  "unicode": "U+E38A"
+ },
+ "AnicaKariSAKQAW/hungarumlaut": {
+  "glyph": "AW.hungarumlaut",
+  "unicode": "U+E38B"
+ },
+ "AnicaKariSAKQAW/infinity": {
+  "glyph": "AW.infinity",
+  "unicode": "U+E38C"
+ },
+ "AnicaKariSAKQAW/l": {
+  "glyph": "AW.l",
+  "unicode": "U+E38D"
+ },
+ "AnicaKariSAKQAW/lozenge": {
+  "glyph": "AW.lozenge",
+  "unicode": "U+E38E"
+ },
+ "AnicaKariSAKQAW/lslash": {
+  "glyph": "AW.lslash",
+  "unicode": "U+E38F"
+ },
+ "AnicaKariSAKQAW/minus": {
+  "glyph": "AW.minus",
+  "unicode": "U+E390"
+ },
+ "AnicaKariSAKQAW/mu": {
+  "glyph": "AW.mu",
+  "unicode": "U+E391"
+ },
+ "AnicaKariSAKQAW/n": {
+  "glyph": "AW.n",
+  "unicode": "U+E392"
+ },
+ "AnicaKariSAKQAW/nbspace": {
+  "glyph": "AW.nbspace",
+  "unicode": "U+E393"
+ },
+ "AnicaKariSAKQAW/notequal": {
+  "glyph": "AW.notequal",
+  "unicode": "U+E394"
+ },
+ "AnicaKariSAKQAW/ntilde": {
+  "glyph": "AW.ntilde",
+  "unicode": "U+E395"
+ },
+ "AnicaKariSAKQAW/o": {
+  "glyph": "AW.o",
+  "unicode": "U+E396"
+ },
+ "AnicaKariSAKQAW/oacute": {
+  "glyph": "AW.oacute",
+  "unicode": "U+E397"
+ },
+ "AnicaKariSAKQAW/ograve": {
+  "glyph": "AW.ograve",
+  "unicode": "U+E398"
+ },
+ "AnicaKariSAKQAW/ordfeminine": {
+  "glyph": "AW.ordfeminine",
+  "unicode": "U+E399"
+ },
+ "AnicaKariSAKQAW/ordmasculine": {
+  "glyph": "AW.ordmasculine",
+  "unicode": "U+E39A"
+ },
+ "AnicaKariSAKQAW/oslash": {
+  "glyph": "AW.oslash",
+  "unicode": "U+E39B"
+ },
+ "AnicaKariSAKQAW/p": {
+  "glyph": "AW.p",
+  "unicode": "U+E39C"
+ },
+ "AnicaKariSAKQAW/periodcentered": {
+  "glyph": "AW.periodcentered",
+  "unicode": "U+E39D"
+ },
+ "AnicaKariSAKQAW/pi": {
+  "glyph": "AW.pi",
+  "unicode": "U+E39E"
+ },
+ "AnicaKariSAKQAW/plusminus": {
+  "glyph": "AW.plusminus",
+  "unicode": "U+E39F"
+ },
+ "AnicaKariSAKQAW/product": {
+  "glyph": "AW.product",
+  "unicode": "U+E3A0"
+ },
+ "AnicaKariSAKQAW/question": {
+  "glyph": "AW.question",
+  "unicode": "U+E3A1"
+ },
+ "AnicaKariSAKQAW/quotedblbase": {
+  "glyph": "AW.quotedblbase",
+  "unicode": "U+E3A2"
+ },
+ "AnicaKariSAKQAW/quotedblleft": {
+  "glyph": "AW.quotedblleft",
+  "unicode": "U+E3A3"
+ },
+ "AnicaKariSAKQAW/quotedblright": {
+  "glyph": "AW.quotedblright",
+  "unicode": "U+E3A4"
+ },
+ "AnicaKariSAKQAW/quoteleft": {
+  "glyph": "AW.quoteleft",
+  "unicode": "U+E3A5"
+ },
+ "AnicaKariSAKQAW/quoteright": {
+  "glyph": "AW.quoteright",
+  "unicode": "U+E3A6"
+ },
+ "AnicaKariSAKQAW/quotesinglbase": {
+  "glyph": "AW.quotesinglbase",
+  "unicode": "U+E3A7"
+ },
+ "AnicaKariSAKQAW/s": {
+  "glyph": "AW.s",
+  "unicode": "U+E3A8"
+ },
+ "AnicaKariSAKQAW/space": {
+  "glyph": "AW.space",
+  "unicode": "U+E3A9"
+ },
+ "AnicaKariSAKQAW/sterling": {
+  "glyph": "AW.sterling",
+  "unicode": "U+E3AA"
+ },
+ "AnicaKariSAKQAW/yacute": {
+  "glyph": "AW.yacute",
+  "unicode": "U+E3AB"
+ },
+ "AnicaKariSAKQLW/Agrave": {
+  "glyph": "LW.Agrave",
+  "unicode": "U+E3AC"
+ },
+ "AnicaKariSAKQLW/Atilde": {
+  "glyph": "LW.Atilde",
+  "unicode": "U+E3AD"
+ },
+ "AnicaKariSAKQLW/DC1": {
+  "glyph": "LW.DC1",
+  "unicode": "U+E3AE"
+ },
+ "AnicaKariSAKQLW/DC2": {
+  "glyph": "LW.DC2",
+  "unicode": "U+E3AF"
+ },
+ "AnicaKariSAKQLW/Delta": {
+  "glyph": "LW.Delta",
+  "unicode": "U+E3B0"
+ },
+ "AnicaKariSAKQLW/Ecircumflex": {
+  "glyph": "LW.Ecircumflex",
+  "unicode": "U+E3B1"
+ },
+ "AnicaKariSAKQLW/Iacute": {
+  "glyph": "LW.Iacute",
+  "unicode": "U+E3B2"
+ },
+ "AnicaKariSAKQLW/Icircumflex": {
+  "glyph": "LW.Icircumflex",
+  "unicode": "U+E3B3"
+ },
+ "AnicaKariSAKQLW/Idieresis": {
+  "glyph": "LW.Idieresis",
+  "unicode": "U+E3B4"
+ },
+ "AnicaKariSAKQLW/Igrave": {
+  "glyph": "LW.Igrave",
+  "unicode": "U+E3B5"
+ },
+ "AnicaKariSAKQLW/Lslash": {
+  "glyph": "LW.Lslash",
+  "unicode": "U+E3B6"
+ },
+ "AnicaKariSAKQLW/Oacute": {
+  "glyph": "LW.Oacute",
+  "unicode": "U+E3B7"
+ },
+ "AnicaKariSAKQLW/Ocircumflex": {
+  "glyph": "LW.Ocircumflex",
+  "unicode": "U+E3B8"
+ },
+ "AnicaKariSAKQLW/Omega": {
+  "glyph": "LW.Omega",
+  "unicode": "U+E3B9"
+ },
+ "AnicaKariSAKQLW/P": {
+  "glyph": "LW.P",
+  "unicode": "U+E3BA"
+ },
+ "AnicaKariSAKQLW/Q": {
+  "glyph": "LW.Q",
+  "unicode": "U+E3BB"
+ },
+ "AnicaKariSAKQLW/S": {
+  "glyph": "LW.S",
+  "unicode": "U+E3BC"
+ },
+ "AnicaKariSAKQLW/T": {
+  "glyph": "LW.T",
+  "unicode": "U+E3BD"
+ },
+ "AnicaKariSAKQLW/W": {
+  "glyph": "LW.W",
+  "unicode": "U+E3BE"
+ },
+ "AnicaKariSAKQLW/Yacute": {
+  "glyph": "LW.Yacute",
+  "unicode": "U+E3BF"
+ },
+ "AnicaKariSAKQLW/ae": {
+  "glyph": "LW.ae",
+  "unicode": "U+E3C0"
+ },
+ "AnicaKariSAKQLW/apple": {
+  "glyph": "LW.apple",
+  "unicode": "U+E3C1"
+ },
+ "AnicaKariSAKQLW/approxequal": {
+  "glyph": "LW.approxequal",
+  "unicode": "U+E3C2"
+ },
+ "AnicaKariSAKQLW/aring": {
+  "glyph": "LW.aring",
+  "unicode": "U+E3C3"
+ },
+ "AnicaKariSAKQLW/bullet": {
+  "glyph": "LW.bullet",
+  "unicode": "U+E3C4"
+ },
+ "AnicaKariSAKQLW/copyright": {
+  "glyph": "LW.copyright",
+  "unicode": "U+E3C5"
+ },
+ "AnicaKariSAKQLW/d": {
+  "glyph": "LW.d",
+  "unicode": "U+E3C6"
+ },
+ "AnicaKariSAKQLW/degree": {
+  "glyph": "LW.degree",
+  "unicode": "U+E3C7"
+ },
+ "AnicaKariSAKQLW/emdash": {
+  "glyph": "LW.emdash",
+  "unicode": "U+E3C8"
+ },
+ "AnicaKariSAKQLW/g": {
+  "glyph": "LW.g",
+  "unicode": "U+E3C9"
+ },
+ "AnicaKariSAKQLW/greaterequal": {
+  "glyph": "LW.greaterequal",
+  "unicode": "U+E3CA"
+ },
+ "AnicaKariSAKQLW/guillemotleft": {
+  "glyph": "LW.guillemotleft",
+  "unicode": "U+E3CB"
+ },
+ "AnicaKariSAKQLW/hungarumlaut": {
+  "glyph": "LW.hungarumlaut",
+  "unicode": "U+E3CC"
+ },
+ "AnicaKariSAKQLW/infinity": {
+  "glyph": "LW.infinity",
+  "unicode": "U+E3CD"
+ },
+ "AnicaKariSAKQLW/integral": {
+  "glyph": "LW.integral",
+  "unicode": "U+E3CE"
+ },
+ "AnicaKariSAKQLW/logicalnot": {
+  "glyph": "LW.logicalnot",
+  "unicode": "U+E3CF"
+ },
+ "AnicaKariSAKQLW/lslash": {
+  "glyph": "LW.lslash",
+  "unicode": "U+E3D0"
+ },
+ "AnicaKariSAKQLW/mu": {
+  "glyph": "LW.mu",
+  "unicode": "U+E3D1"
+ },
+ "AnicaKariSAKQLW/nbspace": {
+  "glyph": "LW.nbspace",
+  "unicode": "U+E3D2"
+ },
+ "AnicaKariSAKQLW/notequal": {
+  "glyph": "LW.notequal",
+  "unicode": "U+E3D3"
+ },
+ "AnicaKariSAKQLW/oacute": {
+  "glyph": "LW.oacute",
+  "unicode": "U+E3D4"
+ },
+ "AnicaKariSAKQLW/ograve": {
+  "glyph": "LW.ograve",
+  "unicode": "U+E3D5"
+ },
+ "AnicaKariSAKQLW/ordfeminine": {
+  "glyph": "LW.ordfeminine",
+  "unicode": "U+E3D6"
+ },
+ "AnicaKariSAKQLW/ordmasculine": {
+  "glyph": "LW.ordmasculine",
+  "unicode": "U+E3D7"
+ },
+ "AnicaKariSAKQLW/oslash": {
+  "glyph": "LW.oslash",
+  "unicode": "U+E3D8"
+ },
+ "AnicaKariSAKQLW/partialdiff": {
+  "glyph": "LW.partialdiff",
+  "unicode": "U+E3D9"
+ },
+ "AnicaKariSAKQLW/periodcentered": {
+  "glyph": "LW.periodcentered",
+  "unicode": "U+E3DA"
+ },
+ "AnicaKariSAKQLW/pi": {
+  "glyph": "LW.pi",
+  "unicode": "U+E3DB"
+ },
+ "AnicaKariSAKQLW/plusminus": {
+  "glyph": "LW.plusminus",
+  "unicode": "U+E3DC"
+ },
+ "AnicaKariSAKQLW/question": {
+  "glyph": "LW.question",
+  "unicode": "U+E3DD"
+ },
+ "AnicaKariSAKQLW/quotedblbase": {
+  "glyph": "LW.quotedblbase",
+  "unicode": "U+E3DE"
+ },
+ "AnicaKariSAKQLW/quotedblleft": {
+  "glyph": "LW.quotedblleft",
+  "unicode": "U+E3DF"
+ },
+ "AnicaKariSAKQLW/quotedblright": {
+  "glyph": "LW.quotedblright",
+  "unicode": "U+E3E0"
+ },
+ "AnicaKariSAKQLW/quoteright": {
+  "glyph": "LW.quoteright",
+  "unicode": "U+E3E1"
+ },
+ "AnicaKariSAKQLW/quotesinglbase": {
+  "glyph": "LW.quotesinglbase",
+  "unicode": "U+E3E2"
+ },
+ "AnicaKariSAKQLW/radical": {
+  "glyph": "LW.radical",
+  "unicode": "U+E3E3"
+ },
+ "AnicaKariSAKQLW/space": {
+  "glyph": "LW.space",
+  "unicode": "U+E3E4"
+ },
+ "AnicaKariSAKQLW/sterling": {
+  "glyph": "LW.sterling",
+  "unicode": "U+E3E5"
+ },
+ "AnicaKariSAKQLW/thorn": {
+  "glyph": "LW.thorn",
+  "unicode": "U+E3E6"
+ },
+ "AnicaKariSAKQLW/threequarters": {
+  "glyph": "LW.threequarters",
+  "unicode": "U+E3E7"
+ },
+ "AnicaKariSAKQLW/ydieresis": {
+  "glyph": "LW.ydieresis",
+  "unicode": "U+E3E8"
+ }
+}
