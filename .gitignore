@@ -1,0 +1,6 @@
+# Ignore large tool zip archives
+tools/mingit.zip
+*.zip
+*.tmp
+__pycache__/
+*.pyc

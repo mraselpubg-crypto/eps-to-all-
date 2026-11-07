@@ -1,0 +1,752 @@
+{
+  "AlBayan-Bold": {
+    "declared_bboxes": [
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "union_glyph_bbox": null,
+    "unique_glyph_names": 0,
+    "total_variants": 0,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaBangali": {
+    "declared_bboxes": [
+      [
+        -658,
+        -315,
+        1311,
+        966
+      ]
+    ],
+    "union_glyph_bbox": [
+      -658.31,
+      -293,
+      1311,
+      966
+    ],
+    "unique_glyph_names": 194,
+    "total_variants": 194,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaBangali-Bold": {
+    "declared_bboxes": [
+      [
+        -658,
+        -316,
+        1311,
+        967
+      ]
+    ],
+    "union_glyph_bbox": [
+      -545.84,
+      -302,
+      787,
+      848
+    ],
+    "unique_glyph_names": 88,
+    "total_variants": 88,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaBangaliNew-Bold": {
+    "declared_bboxes": [
+      [
+        -698,
+        -314,
+        1379,
+        859
+      ]
+    ],
+    "union_glyph_bbox": [
+      -102,
+      -143,
+      558,
+      781
+    ],
+    "unique_glyph_names": 13,
+    "total_variants": 13,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaBuffer": {
+    "declared_bboxes": [
+      [
+        -200,
+        -636,
+        1530,
+        992
+      ]
+    ],
+    "union_glyph_bbox": [
+      -106,
+      -526,
+      959.21,
+      922.35
+    ],
+    "unique_glyph_names": 73,
+    "total_variants": 73,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaBuffer-A4": {
+    "declared_bboxes": [
+      [
+        15,
+        -197,
+        581,
+        769
+      ]
+    ],
+    "union_glyph_bbox": [
+      33,
+      -141,
+      471,
+      300
+    ],
+    "unique_glyph_names": 3,
+    "total_variants": 3,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaBuffer-Harkat": {
+    "declared_bboxes": [
+      [
+        -76,
+        -567,
+        1530,
+        1002
+      ]
+    ],
+    "union_glyph_bbox": [
+      -11,
+      -421,
+      791,
+      982
+    ],
+    "unique_glyph_names": 20,
+    "total_variants": 20,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaBuffer-LW": {
+    "declared_bboxes": [
+      [
+        -234,
+        -112,
+        571,
+        1128
+      ]
+    ],
+    "union_glyph_bbox": [
+      -213,
+      33,
+      375,
+      759.93
+    ],
+    "unique_glyph_names": 14,
+    "total_variants": 14,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaDhaka": {
+    "declared_bboxes": [
+      [
+        -80,
+        -660,
+        1530,
+        976
+      ]
+    ],
+    "union_glyph_bbox": [
+      -11,
+      -47,
+      257.27,
+      607
+    ],
+    "unique_glyph_names": 2,
+    "total_variants": 2,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaIslamia": {
+    "declared_bboxes": [
+      [
+        -80,
+        -636,
+        1530,
+        983
+      ]
+    ],
+    "union_glyph_bbox": [
+      -5,
+      -37,
+      272.5,
+      596.48
+    ],
+    "unique_glyph_names": 2,
+    "total_variants": 2,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariAKRQPlain": {
+    "declared_bboxes": [
+      [
+        -200,
+        -674,
+        1530,
+        1243
+      ]
+    ],
+    "union_glyph_bbox": [
+      -32.25,
+      -47,
+      339,
+      339
+    ],
+    "unique_glyph_names": 2,
+    "total_variants": 2,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQA1": {
+    "declared_bboxes": [
+      [
+        15,
+        -206,
+        581,
+        362
+      ]
+    ],
+    "union_glyph_bbox": [
+      24,
+      -206,
+      581,
+      362
+    ],
+    "unique_glyph_names": 126,
+    "total_variants": 126,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQA2": {
+    "declared_bboxes": [
+      [
+        30,
+        -187,
+        589,
+        389
+      ]
+    ],
+    "union_glyph_bbox": [
+      30,
+      -187,
+      589,
+      389
+    ],
+    "unique_glyph_names": 120,
+    "total_variants": 120,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQA3": {
+    "declared_bboxes": [
+      [
+        24,
+        -197,
+        581,
+        361
+      ]
+    ],
+    "union_glyph_bbox": [
+      24,
+      -197,
+      581,
+      361
+    ],
+    "unique_glyph_names": 101,
+    "total_variants": 101,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQA4": {
+    "declared_bboxes": [
+      [
+        -1,
+        -197,
+        631,
+        1422
+      ]
+    ],
+    "union_glyph_bbox": [
+      -0.8,
+      -197,
+      631.24,
+      1422
+    ],
+    "unique_glyph_names": 37,
+    "total_variants": 37,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQAW": {
+    "declared_bboxes": [
+      [
+        -44,
+        385,
+        832,
+        1386
+      ]
+    ],
+    "union_glyph_bbox": [
+      -35,
+      395.49,
+      636,
+      1386
+    ],
+    "unique_glyph_names": 89,
+    "total_variants": 89,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQHarkat": {
+    "declared_bboxes": [
+      [
+        -120,
+        -557,
+        987,
+        1421
+      ]
+    ],
+    "union_glyph_bbox": [
+      -120.3,
+      -557,
+      869.43,
+      1421
+    ],
+    "unique_glyph_names": 122,
+    "total_variants": 122,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQHarkatExtra": {
+    "declared_bboxes": [
+      [
+        -262,
+        -557,
+        987,
+        1422
+      ]
+    ],
+    "union_glyph_bbox": [
+      -262,
+      -483,
+      750,
+      1422
+    ],
+    "unique_glyph_names": 31,
+    "total_variants": 31,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQHarkatSpare": {
+    "declared_bboxes": [
+      [
+        -120,
+        -557,
+        987,
+        1422
+      ]
+    ],
+    "union_glyph_bbox": [
+      -120.3,
+      -557,
+      869.43,
+      1422
+    ],
+    "unique_glyph_names": 37,
+    "total_variants": 37,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQLW": {
+    "declared_bboxes": [
+      [
+        -238,
+        -121,
+        575,
+        1352
+      ]
+    ],
+    "union_glyph_bbox": [
+      -238,
+      -120.86,
+      574.83,
+      1352
+    ],
+    "unique_glyph_names": 62,
+    "total_variants": 62,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQPlain": {
+    "declared_bboxes": [
+      [
+        -180,
+        -681,
+        1530,
+        1358
+      ]
+    ],
+    "union_glyph_bbox": [
+      -180,
+      -546,
+      987,
+      1357.44
+    ],
+    "unique_glyph_names": 146,
+    "total_variants": 146,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQPlainExtra": {
+    "declared_bboxes": [
+      [
+        -200,
+        -681,
+        1530,
+        1422
+      ]
+    ],
+    "union_glyph_bbox": [
+      -111,
+      -496,
+      987,
+      1422
+    ],
+    "unique_glyph_names": 55,
+    "total_variants": 55,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQPlainSpare": {
+    "declared_bboxes": [
+      [
+        -200,
+        -681,
+        1530,
+        1422
+      ]
+    ],
+    "union_glyph_bbox": [
+      -111,
+      -346,
+      1029.43,
+      1422
+    ],
+    "unique_glyph_names": 45,
+    "total_variants": 45,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQS1": {
+    "declared_bboxes": [
+      [
+        -1,
+        1061,
+        365,
+        1422
+      ]
+    ],
+    "union_glyph_bbox": [
+      -0.8,
+      1061,
+      366.47,
+      1422
+    ],
+    "unique_glyph_names": 19,
+    "total_variants": 19,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQS2": {
+    "declared_bboxes": [
+      [
+        -14,
+        1061,
+        248,
+        1422
+      ]
+    ],
+    "union_glyph_bbox": [
+      -14,
+      1061,
+      248,
+      1422
+    ],
+    "unique_glyph_names": 11,
+    "total_variants": 11,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQS3": {
+    "declared_bboxes": [
+      [
+        -301,
+        1063,
+        638,
+        1421
+      ]
+    ],
+    "union_glyph_bbox": [
+      -300.8,
+      1062.91,
+      638.43,
+      1421.12
+    ],
+    "unique_glyph_names": 11,
+    "total_variants": 11,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariSAKQS4": {
+    "declared_bboxes": [
+      [
+        -394,
+        1061,
+        457,
+        1422
+      ]
+    ],
+    "union_glyph_bbox": [
+      -394,
+      1061,
+      457.24,
+      1422
+    ],
+    "unique_glyph_names": 5,
+    "total_variants": 5,
+    "multi_variant_glyphs": {}
+  },
+  "AnicaKariana": {
+    "declared_bboxes": [
+      [
+        -200,
+        -674,
+        1530,
+        1209
+      ]
+    ],
+    "union_glyph_bbox": [
+      -88,
+      -253,
+      887.58,
+      517
+    ],
+    "unique_glyph_names": 17,
+    "total_variants": 17,
+    "multi_variant_glyphs": {}
+  },
+  "Arial-BoldMT": {
+    "declared_bboxes": [
+      [
+        2,
+        -210,
+        941,
+        716
+      ]
+    ],
+    "union_glyph_bbox": [
+      3,
+      -210,
+      941,
+      716
+    ],
+    "unique_glyph_names": 16,
+    "total_variants": 16,
+    "multi_variant_glyphs": {}
+  },
+  "ArialMT": {
+    "declared_bboxes": [
+      [
+        89,
+        0,
+        190,
+        519
+      ]
+    ],
+    "union_glyph_bbox": [
+      90,
+      0,
+      625,
+      625
+    ],
+    "unique_glyph_names": 3,
+    "total_variants": 3,
+    "multi_variant_glyphs": {}
+  },
+  "KarianaBangali": {
+    "declared_bboxes": [
+      [
+        -658,
+        -315,
+        893,
+        966
+      ]
+    ],
+    "union_glyph_bbox": [
+      -546.05,
+      -232.85,
+      777,
+      850.54
+    ],
+    "unique_glyph_names": 84,
+    "total_variants": 84,
+    "multi_variant_glyphs": {}
+  },
+  "KarianaBangali-Bold": {
+    "declared_bboxes": [
+      [
+        -658,
+        -316,
+        903,
+        967
+      ]
+    ],
+    "union_glyph_bbox": [
+      -443,
+      -237,
+      681,
+      813.02
+    ],
+    "unique_glyph_names": 47,
+    "total_variants": 47,
+    "multi_variant_glyphs": {}
+  },
+  "Sutonny": {
+    "declared_bboxes": [
+      [
+        -659,
+        -315,
+        893,
+        863
+      ]
+    ],
+    "union_glyph_bbox": [
+      -208,
+      -155,
+      474,
+      648
+    ],
+    "unique_glyph_names": 8,
+    "total_variants": 8,
+    "multi_variant_glyphs": {}
+  },
+  "TaheraFIKR-AW": {
+    "declared_bboxes": [
+      [
+        -47,
+        364,
+        688,
+        1187
+      ]
+    ],
+    "union_glyph_bbox": null,
+    "unique_glyph_names": 0,
+    "total_variants": 0,
+    "multi_variant_glyphs": {}
+  },
+  "TaheraFIKR-Extra": {
+    "declared_bboxes": [
+      [
+        -123,
+        -585,
+        1530,
+        1084
+      ]
+    ],
+    "union_glyph_bbox": [
+      -123,
+      -503,
+      718,
+      1063.14
+    ],
+    "unique_glyph_names": 14,
+    "total_variants": 14,
+    "multi_variant_glyphs": {}
+  },
+  "TaheraFIKR-Harkat": {
+    "declared_bboxes": [
+      [
+        -186,
+        -598,
+        1530,
+        1164
+      ]
+    ],
+    "union_glyph_bbox": [
+      -158,
+      -503,
+      601,
+      1091
+    ],
+    "unique_glyph_names": 12,
+    "total_variants": 12,
+    "multi_variant_glyphs": {}
+  },
+  "TaheraFIKR-LW": {
+    "declared_bboxes": [
+      [
+        -306,
+        -21,
+        1530,
+        1085
+      ]
+    ],
+    "union_glyph_bbox": [
+      -26,
+      38,
+      230,
+      366
+    ],
+    "unique_glyph_names": 4,
+    "total_variants": 4,
+    "multi_variant_glyphs": {}
+  },
+  "TaheraFIKR-Ornament": {
+    "declared_bboxes": [
+      [
+        -122,
+        -554,
+        878,
+        1114
+      ]
+    ],
+    "union_glyph_bbox": [
+      -43.1,
+      -531,
+      512,
+      948
+    ],
+    "unique_glyph_names": 9,
+    "total_variants": 9,
+    "multi_variant_glyphs": {}
+  },
+  "TaheraFIKR-Plain": {
+    "declared_bboxes": [
+      [
+        -202,
+        -585,
+        1530,
+        1092
+      ]
+    ],
+    "union_glyph_bbox": [
+      -202,
+      -585,
+      1180,
+      1084.49
+    ],
+    "unique_glyph_names": 103,
+    "total_variants": 103,
+    "multi_variant_glyphs": {}
+  },
+  "TaheraFIKR-Spare": {
+    "declared_bboxes": [
+      [
+        -180,
+        -585,
+        1530,
+        1091
+      ]
+    ],
+    "union_glyph_bbox": [
+      -180,
+      -503,
+      635,
+      966
+    ],
+    "unique_glyph_names": 9,
+    "total_variants": 9,
+    "multi_variant_glyphs": {}
+  }
+}

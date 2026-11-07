@@ -1,0 +1,8198 @@
+{
+  "Plain_A": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "A",
+    "width": 451,
+    "bounds": [
+      -14,
+      -5.2,
+      462,
+      495
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Aacute": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Aacute",
+    "width": 307,
+    "bounds": [
+      45.812,
+      -35.068,
+      259.351,
+      315
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Acircumflex": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Acircumflex",
+    "width": 370,
+    "bounds": [
+      49,
+      -201.091,
+      321,
+      504
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Agrave": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Agrave",
+    "width": 861,
+    "bounds": [
+      46,
+      -129.376,
+      814.969,
+      327
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Atilde": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Atilde",
+    "width": 542,
+    "bounds": [
+      44,
+      -242,
+      548,
+      365.414
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_B": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "B",
+    "width": 595,
+    "bounds": [
+      -11,
+      -4,
+      606,
+      264.233
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_C": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "C",
+    "width": 595,
+    "bounds": [
+      -11,
+      -4,
+      606,
+      461
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_D": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "D",
+    "width": 396,
+    "bounds": [
+      -13,
+      -4,
+      406,
+      529
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_DC1": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "DC1",
+    "width": 354,
+    "bounds": [
+      -12,
+      -4,
+      328,
+      504
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_DC2": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "DC2",
+    "width": 566,
+    "bounds": [
+      -20,
+      -4,
+      527,
+      418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_DC3": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "DC3",
+    "width": 369,
+    "bounds": [
+      -7,
+      -4,
+      253.92,
+      528
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_DC4": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "DC4",
+    "width": 345,
+    "bounds": [
+      -6,
+      -37,
+      298.25,
+      179.184
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_DEL": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "DEL",
+    "width": 566,
+    "bounds": [
+      -7,
+      -4,
+      501,
+      234.769
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_DLE": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "DLE",
+    "width": 354,
+    "bounds": [
+      -12,
+      -4,
+      310.729,
+      501
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Delta": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Delta",
+    "width": 775,
+    "bounds": [
+      46,
+      -225,
+      729,
+      301
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_E": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "E",
+    "width": 396,
+    "bounds": [
+      -13,
+      -4,
+      406,
+      529
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Eacute": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Eacute",
+    "width": 345,
+    "bounds": [
+      -16,
+      -10,
+      302.507,
+      331.158
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Ecircumflex": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Ecircumflex",
+    "width": 591,
+    "bounds": [
+      46.894,
+      -169.431,
+      544.084,
+      289.52
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Edieresis": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Edieresis",
+    "width": 384,
+    "bounds": [
+      -65,
+      -256.7,
+      358.27,
+      287.019
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Egrave": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Egrave",
+    "width": 775,
+    "bounds": [
+      46,
+      -225,
+      729,
+      301
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Eth": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Eth",
+    "width": 345,
+    "bounds": [
+      -10,
+      -207,
+      295.894,
+      327
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_F": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "F",
+    "width": 324,
+    "bounds": [
+      -8,
+      -4,
+      332,
+      272
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_G": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "G",
+    "width": 313,
+    "bounds": [
+      -14,
+      -4,
+      326,
+      473
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_H": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "H",
+    "width": 313,
+    "bounds": [
+      -11,
+      -4,
+      324,
+      511
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_I": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "I",
+    "width": 313,
+    "bounds": [
+      -11,
+      -4,
+      324,
+      495
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Iacute": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Iacute",
+    "width": 775,
+    "bounds": [
+      50,
+      -221,
+      725,
+      297
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Icircumflex": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Icircumflex",
+    "width": 0,
+    "bounds": [
+      4,
+      546,
+      265,
+      818
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Plain_Idieresis": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Idieresis",
+    "width": 0,
+    "bounds": [
+      0.623,
+      547.343,
+      292.423,
+      772.5
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Plain_Igrave": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Igrave",
+    "width": 0,
+    "bounds": [
+      4,
+      -506,
+      268,
+      -300
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_J": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "J",
+    "width": 632,
+    "bounds": [
+      -11,
+      -4,
+      643,
+      442
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_K": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "K",
+    "width": 308,
+    "bounds": [
+      -10,
+      -4,
+      318,
+      563.148
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_L": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "L",
+    "width": 371,
+    "bounds": [
+      -10,
+      -131,
+      381,
+      127
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Lslash": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Lslash",
+    "width": 400,
+    "bounds": [
+      -10,
+      -4,
+      381,
+      525
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_M": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "M",
+    "width": 394,
+    "bounds": [
+      -10,
+      -4,
+      404,
+      378
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_N": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "N",
+    "width": 408,
+    "bounds": [
+      -12,
+      -136,
+      420,
+      253
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_O": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "O",
+    "width": 308,
+    "bounds": [
+      -9,
+      -187,
+      317,
+      166
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_OE": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "OE",
+    "width": 542,
+    "bounds": [
+      44,
+      -242,
+      548,
+      565
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Oacute": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Oacute",
+    "width": 0,
+    "bounds": [
+      5,
+      555,
+      262,
+      719
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Plain_Ocircumflex": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Ocircumflex",
+    "width": 0,
+    "bounds": [
+      1,
+      577,
+      290.2,
+      780.966
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Plain_Odieresis": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Odieresis",
+    "width": 323,
+    "bounds": [
+      -16,
+      -4,
+      294.966,
+      561.624
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Ograve": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Ograve",
+    "width": 0,
+    "bounds": [
+      7,
+      551.938,
+      268.625,
+      761
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Plain_Otilde": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Otilde",
+    "width": 542,
+    "bounds": [
+      44,
+      -242,
+      548,
+      365.414
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_P": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "P",
+    "width": 404,
+    "bounds": [
+      -96,
+      -4,
+      446,
+      1357.444
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_R": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "R",
+    "width": 398,
+    "bounds": [
+      -3,
+      -344.562,
+      405,
+      468.348
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_RS": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "RS",
+    "width": 656,
+    "bounds": [
+      -18,
+      -4,
+      674,
+      452
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Scaron": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Scaron",
+    "width": 494,
+    "bounds": [
+      -14,
+      -4,
+      448.062,
+      228
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_T": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "T",
+    "width": 674,
+    "bounds": [
+      47,
+      -388,
+      690,
+      157.626
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Thorn": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Thorn",
+    "width": 438,
+    "bounds": [
+      -19,
+      -4,
+      375.286,
+      529
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_U": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "U",
+    "width": 317,
+    "bounds": [
+      43,
+      -4,
+      326,
+      526.107
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_US": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "US",
+    "width": 451,
+    "bounds": [
+      -14,
+      -5.2,
+      462,
+      195
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Uacute": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Uacute",
+    "width": 0,
+    "bounds": [
+      -1,
+      548,
+      244,
+      756
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Plain_Ugrave": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Ugrave",
+    "width": 924,
+    "bounds": [
+      72.561,
+      -238.237,
+      878,
+      229.177
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_V": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "V",
+    "width": 826,
+    "bounds": [
+      46,
+      -316,
+      839,
+      186.333
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_W": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "W",
+    "width": 349,
+    "bounds": [
+      31,
+      -9.057,
+      357,
+      549
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_X": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "X",
+    "width": 826,
+    "bounds": [
+      46,
+      -118,
+      839,
+      205
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Y": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Y",
+    "width": 826,
+    "bounds": [
+      46,
+      -118,
+      839,
+      329
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Yacute": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Yacute",
+    "width": 476,
+    "bounds": [
+      -16,
+      -5.2,
+      412.25,
+      196
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Ydieresis": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Ydieresis",
+    "width": 533,
+    "bounds": [
+      84,
+      -337,
+      511,
+      351.188
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Z": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Z",
+    "width": 456,
+    "bounds": [
+      47,
+      -345,
+      548,
+      307
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_Zcaron": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "Zcaron",
+    "width": 369,
+    "bounds": [
+      -14,
+      -4,
+      322,
+      298.054
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_a": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "a",
+    "width": 456,
+    "bounds": [
+      47,
+      -345,
+      548,
+      483
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_ae": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "ae",
+    "width": 0,
+    "bounds": null,
+    "category": "arabic_base",
+    "has_svg": false
+  },
+  "Plain_apple": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "apple",
+    "width": 0,
+    "bounds": [
+      2,
+      -496,
+      266,
+      -354
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_aring": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "aring",
+    "width": 0,
+    "bounds": [
+      224,
+      -508,
+      520,
+      -291
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_asciicircum": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "asciicircum",
+    "width": 0,
+    "bounds": [
+      7,
+      577.938,
+      316.891,
+      940.05
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Plain_asciitilde": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "asciitilde",
+    "width": 371,
+    "bounds": [
+      -15,
+      -4.003,
+      386,
+      561.895
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_b": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "b",
+    "width": 543,
+    "bounds": [
+      114.484,
+      -203.312,
+      557,
+      329.51
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_braceleft": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "braceleft",
+    "width": 566,
+    "bounds": [
+      -7,
+      -4,
+      501,
+      426
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_bracketright": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "bracketright",
+    "width": 0,
+    "bounds": [
+      56,
+      558.938,
+      319.625,
+      833
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Plain_brokenbar": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "brokenbar",
+    "width": 308,
+    "bounds": [
+      -9,
+      -4,
+      317,
+      481
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_c": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "c",
+    "width": 543,
+    "bounds": [
+      114.484,
+      -203.312,
+      557,
+      525
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_ccedilla": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "ccedilla",
+    "width": 0,
+    "bounds": [
+      -180,
+      0,
+      -180,
+      15
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_cedilla": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "cedilla",
+    "width": 0,
+    "bounds": [
+      107,
+      -502,
+      329,
+      -298
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_cent": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "cent",
+    "width": 0,
+    "bounds": [
+      224,
+      -508,
+      520,
+      -291
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_d": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "d",
+    "width": 374,
+    "bounds": [
+      -111,
+      -262.063,
+      382,
+      157.095
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_divide": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "divide",
+    "width": 909,
+    "bounds": [
+      46.456,
+      -214.024,
+      891.572,
+      415
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_e": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "e",
+    "width": 374,
+    "bounds": [
+      -111,
+      -262.063,
+      382,
+      366
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_egrave": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "egrave",
+    "width": 953,
+    "bounds": [
+      46,
+      -230,
+      968,
+      257
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_ellipsis": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "ellipsis",
+    "width": 307,
+    "bounds": [
+      24,
+      -35.068,
+      283,
+      526
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_emdash": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "emdash",
+    "width": 347,
+    "bounds": [
+      -39.987,
+      -227.515,
+      300,
+      311.484
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_endash": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "endash",
+    "width": 356,
+    "bounds": [
+      44.509,
+      -4,
+      301,
+      521
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_equal": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "equal",
+    "width": 0,
+    "bounds": [
+      2,
+      -496,
+      268.625,
+      772
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_eth": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "eth",
+    "width": 381,
+    "bounds": [
+      -10,
+      -4,
+      363,
+      463
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_exclamdown": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "exclamdown",
+    "width": 367,
+    "bounds": [
+      60,
+      -60,
+      305,
+      297
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_f": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "f",
+    "width": 929,
+    "bounds": [
+      46,
+      -230,
+      936,
+      257
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_florin": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "florin",
+    "width": 384,
+    "bounds": [
+      -65,
+      -221.7,
+      358.27,
+      560
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_fraction": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "fraction",
+    "width": 542,
+    "bounds": [
+      84,
+      -337,
+      511,
+      556
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_g": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "g",
+    "width": 929,
+    "bounds": [
+      46,
+      -230,
+      936,
+      473
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_grave": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "grave",
+    "width": 456,
+    "bounds": [
+      47,
+      -345,
+      548,
+      307
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_greater": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "greater",
+    "width": 0,
+    "bounds": [
+      4,
+      -546,
+      268.625,
+      756
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_guillemotleft": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "guillemotleft",
+    "width": 262,
+    "bounds": [
+      61.81,
+      -184,
+      206,
+      531
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_guillemotright": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "guillemotright",
+    "width": 896,
+    "bounds": [
+      60.503,
+      -300,
+      835,
+      261
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_guilsinglleft": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "guilsinglleft",
+    "width": 0,
+    "bounds": [
+      99,
+      -497,
+      332,
+      -338
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_h": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "h",
+    "width": 971,
+    "bounds": [
+      46.456,
+      -203.772,
+      987,
+      264
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_i": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "i",
+    "width": 971,
+    "bounds": [
+      46.456,
+      -203.772,
+      987,
+      470
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_iacute": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "iacute",
+    "width": 0,
+    "bounds": [
+      -180,
+      0,
+      -180,
+      15
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_integral": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "integral",
+    "width": 258,
+    "bounds": [
+      76,
+      -47,
+      183,
+      339
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_j": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "j",
+    "width": 427,
+    "bounds": [
+      46,
+      -4,
+      442,
+      529
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_k": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "k",
+    "width": 427,
+    "bounds": [
+      46,
+      -4,
+      442,
+      529
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_l": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "l",
+    "width": 478,
+    "bounds": [
+      101.586,
+      -289,
+      552,
+      272
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_logicalnot": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "logicalnot",
+    "width": 262,
+    "bounds": [
+      -96,
+      -184,
+      446,
+      1357.444
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_lozenge": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "lozenge",
+    "width": 440,
+    "bounds": [
+      46,
+      -9,
+      393.337,
+      521
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_lslash": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "lslash",
+    "width": 494,
+    "bounds": [
+      -18,
+      -208,
+      448.062,
+      228
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_m": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "m",
+    "width": 483,
+    "bounds": [
+      101.586,
+      -289,
+      552,
+      486
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_minus": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "minus",
+    "width": 656,
+    "bounds": [
+      -18,
+      -180,
+      674,
+      267
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_multiply": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "multiply",
+    "width": 656,
+    "bounds": [
+      -18,
+      -4,
+      674,
+      267
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_n": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "n",
+    "width": 847,
+    "bounds": [
+      47,
+      -38.683,
+      856,
+      509
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_nbspace": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "nbspace",
+    "width": 861,
+    "bounds": [
+      46,
+      -129.376,
+      814.969,
+      200
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_o": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "o",
+    "width": 636,
+    "bounds": [
+      85,
+      -306,
+      641,
+      441
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_oe": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "oe",
+    "width": 356,
+    "bounds": [
+      44.509,
+      -4,
+      301,
+      318.626
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_onehalf": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "onehalf",
+    "width": 413,
+    "bounds": [
+      -10,
+      -4,
+      350.894,
+      512
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_onequarter": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "onequarter",
+    "width": 365,
+    "bounds": [
+      -14,
+      -4,
+      320,
+      319.577
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_onesuperior": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "onesuperior",
+    "width": 482,
+    "bounds": [
+      -10,
+      -195,
+      381.894,
+      327
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_ordfeminine": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "ordfeminine",
+    "width": 0,
+    "bounds": [
+      237,
+      -484,
+      506,
+      -331
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_ordmasculine": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "ordmasculine",
+    "width": 0,
+    "bounds": null,
+    "category": "arabic_base",
+    "has_svg": false
+  },
+  "Plain_p": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "p",
+    "width": 787,
+    "bounds": [
+      46.668,
+      -4,
+      800,
+      529
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_parenleft": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "parenleft",
+    "width": 521,
+    "bounds": [
+      -19,
+      -14,
+      485,
+      554.778
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_periodcentered": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "periodcentered",
+    "width": 846,
+    "bounds": [
+      51.185,
+      -177,
+      795,
+      398
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_perthousand": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "perthousand",
+    "width": 646,
+    "bounds": [
+      47,
+      -172.5,
+      599.505,
+      546
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_q": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "q",
+    "width": 615,
+    "bounds": [
+      46,
+      -231.629,
+      626,
+      536.369
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_question": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "question",
+    "width": 48,
+    "bounds": [
+      -6,
+      -4,
+      54,
+      81
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_quotedblbase": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "quotedblbase",
+    "width": 776,
+    "bounds": [
+      46.668,
+      -6,
+      729.866,
+      529
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_quotedblleft": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "quotedblleft",
+    "width": 347,
+    "bounds": [
+      -39.987,
+      -227.515,
+      300,
+      514
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_quotedblright": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "quotedblright",
+    "width": 897,
+    "bounds": [
+      72.561,
+      -238.237,
+      878,
+      229.177
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_quoteleft": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "quoteleft",
+    "width": 897,
+    "bounds": [
+      72.561,
+      -238.237,
+      878,
+      518
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_quoteright": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "quoteright",
+    "width": 909,
+    "bounds": [
+      46.456,
+      -214.024,
+      891.572,
+      248
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_quotesinglbase": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "quotesinglbase",
+    "width": 650,
+    "bounds": [
+      60,
+      -209,
+      602,
+      532
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_r": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "r",
+    "width": 519,
+    "bounds": [
+      -83,
+      -285,
+      530,
+      81
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_s": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "s",
+    "width": 569,
+    "bounds": [
+      46,
+      -247,
+      583,
+      143.301
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_scaron": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "scaron",
+    "width": 494,
+    "bounds": [
+      -14,
+      -4,
+      448.062,
+      435
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_space": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "space",
+    "width": 142,
+    "bounds": null,
+    "category": "arabic_base",
+    "has_svg": false
+  },
+  "Plain_t": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "t",
+    "width": 349,
+    "bounds": [
+      46,
+      -9.057,
+      363,
+      340
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_thorn": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "thorn",
+    "width": 438,
+    "bounds": [
+      -19,
+      -4,
+      375.286,
+      529
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_threequarters": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "threequarters",
+    "width": 342,
+    "bounds": [
+      -11,
+      -4,
+      352,
+      464
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_threesuperior": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "threesuperior",
+    "width": 308,
+    "bounds": [
+      -9,
+      -186,
+      317,
+      166
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_tilde": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "tilde",
+    "width": 0,
+    "bounds": [
+      -180,
+      0,
+      -180,
+      15
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_twosuperior": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "twosuperior",
+    "width": 412,
+    "bounds": [
+      -9,
+      -4,
+      422,
+      383
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_u": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "u",
+    "width": 428,
+    "bounds": [
+      -59,
+      -281.412,
+      438,
+      230
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_v": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "v",
+    "width": 646,
+    "bounds": [
+      18.991,
+      -283.378,
+      656,
+      262.124
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_w": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "w",
+    "width": 646,
+    "bounds": [
+      18.991,
+      -283.378,
+      656,
+      262.124
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_y": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "y",
+    "width": 0,
+    "bounds": [
+      8.697,
+      553,
+      306.373,
+      908
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Plain_yacute": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "yacute",
+    "width": 476,
+    "bounds": [
+      -16,
+      -5.2,
+      412.25,
+      495
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_ydieresis": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "ydieresis",
+    "width": 440,
+    "bounds": [
+      46,
+      -9,
+      393.337,
+      521
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_z": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "z",
+    "width": 345,
+    "bounds": [
+      -10,
+      -4,
+      300.392,
+      494
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Plain_zcaron": {
+    "family": "AnicaKariSAKQPlain",
+    "glyph": "zcaron",
+    "width": 369,
+    "bounds": [
+      -14,
+      -4,
+      322,
+      499
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_Acircumflex": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "Acircumflex",
+    "width": 370,
+    "bounds": [
+      49,
+      -201.091,
+      321,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_B": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "B",
+    "width": 595,
+    "bounds": [
+      -11,
+      -4,
+      606,
+      1420
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_C": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "C",
+    "width": 595,
+    "bounds": [
+      -11,
+      -4,
+      606,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_D": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "D",
+    "width": 396,
+    "bounds": [
+      -13,
+      -4,
+      406,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_DC1": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "DC1",
+    "width": 354,
+    "bounds": [
+      -12,
+      -4,
+      328,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_DC4": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "DC4",
+    "width": 345,
+    "bounds": [
+      -6,
+      -37,
+      298.25,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_DEL": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "DEL",
+    "width": 566,
+    "bounds": [
+      -7,
+      -4,
+      534.427,
+      1420
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_E": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "E",
+    "width": 396,
+    "bounds": [
+      -13,
+      -4,
+      406,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_Ecircumflex": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "Ecircumflex",
+    "width": 591,
+    "bounds": [
+      46.894,
+      -169.431,
+      544.084,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_Edieresis": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "Edieresis",
+    "width": 384,
+    "bounds": [
+      -65,
+      -256.7,
+      358.27,
+      287.019
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_I": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "I",
+    "width": 367,
+    "bounds": [
+      -10,
+      -4,
+      376,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_Icircumflex": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "Icircumflex",
+    "width": 971,
+    "bounds": [
+      -0.799,
+      1062,
+      463,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_Idieresis": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "Idieresis",
+    "width": 0,
+    "bounds": null,
+    "category": "arabic_base",
+    "has_svg": false
+  },
+  "PlainExtra_Igrave": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "Igrave",
+    "width": 0,
+    "bounds": [
+      8,
+      1063,
+      613,
+      1421
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainExtra_J": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "J",
+    "width": 632,
+    "bounds": [
+      -11,
+      -4,
+      643,
+      1420.223
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_L": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "L",
+    "width": 371,
+    "bounds": [
+      -10,
+      -131,
+      381,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_M": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "M",
+    "width": 394,
+    "bounds": [
+      -10,
+      -4,
+      404,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_Oacute": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "Oacute",
+    "width": 0,
+    "bounds": [
+      8,
+      1063,
+      613,
+      1421
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainExtra_Ocircumflex": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "Ocircumflex",
+    "width": 0,
+    "bounds": [
+      -0.259,
+      1062,
+      467.427,
+      1420.223
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainExtra_Ograve": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "Ograve",
+    "width": 0,
+    "bounds": null,
+    "category": "arabic_base",
+    "has_svg": false
+  },
+  "PlainExtra_Thorn": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "Thorn",
+    "width": 438,
+    "bounds": [
+      -19,
+      -4,
+      375.286,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_Uacute": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "Uacute",
+    "width": 0,
+    "bounds": null,
+    "category": "arabic_base",
+    "has_svg": false
+  },
+  "PlainExtra_V": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "V",
+    "width": 826,
+    "bounds": [
+      46,
+      -316,
+      839,
+      186.333
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_X": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "X",
+    "width": 826,
+    "bounds": [
+      46,
+      -118,
+      839,
+      1420.223
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_ae": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "ae",
+    "width": 0,
+    "bounds": null,
+    "category": "arabic_base",
+    "has_svg": false
+  },
+  "PlainExtra_apple": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "apple",
+    "width": 0,
+    "bounds": [
+      1,
+      1063,
+      370.432,
+      1421
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainExtra_asciicircum": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "asciicircum",
+    "width": 0,
+    "bounds": [
+      7,
+      547.938,
+      316.891,
+      910.05
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainExtra_braceleft": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "braceleft",
+    "width": 566,
+    "bounds": [
+      -7,
+      -4,
+      501,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_bracketright": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "bracketright",
+    "width": 0,
+    "bounds": [
+      56,
+      548.938,
+      319.625,
+      823
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainExtra_d": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "d",
+    "width": 374,
+    "bounds": [
+      -111,
+      -262.063,
+      382,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_divide": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "divide",
+    "width": 942,
+    "bounds": [
+      46.456,
+      -214.024,
+      891.572,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_emdash": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "emdash",
+    "width": 347,
+    "bounds": [
+      -39.987,
+      -227.515,
+      302,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_equal": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "equal",
+    "width": 0,
+    "bounds": [
+      2,
+      -496,
+      268.625,
+      772
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_grave": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "grave",
+    "width": 456,
+    "bounds": [
+      47,
+      -345,
+      548,
+      307
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_guillemotright": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "guillemotright",
+    "width": 896,
+    "bounds": [
+      60.503,
+      -300,
+      835,
+      261
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_h": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "h",
+    "width": 971,
+    "bounds": [
+      46.456,
+      -203.772,
+      987,
+      1420
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_i": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "i",
+    "width": 971,
+    "bounds": [
+      46.456,
+      -203.8,
+      987,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_j": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "j",
+    "width": 427,
+    "bounds": [
+      14.491,
+      -4,
+      442,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_k": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "k",
+    "width": 427,
+    "bounds": [
+      14.491,
+      -4,
+      442,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_lozenge": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "lozenge",
+    "width": 440,
+    "bounds": [
+      14.491,
+      -9,
+      393.337,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_o": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "o",
+    "width": 636,
+    "bounds": [
+      29,
+      -346,
+      647,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_onehalf": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "onehalf",
+    "width": 413,
+    "bounds": [
+      -10,
+      -4,
+      350.894,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_onesuperior": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "onesuperior",
+    "width": 482,
+    "bounds": [
+      -10,
+      -195,
+      381.894,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_ordmasculine": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "ordmasculine",
+    "width": 0,
+    "bounds": null,
+    "category": "arabic_base",
+    "has_svg": false
+  },
+  "PlainExtra_question": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "question",
+    "width": 48,
+    "bounds": [
+      -6,
+      -4,
+      54,
+      81
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_quotedblleft": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "quotedblleft",
+    "width": 347,
+    "bounds": [
+      -39.987,
+      -227.515,
+      302,
+      1420
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_quoteright": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "quoteright",
+    "width": 909,
+    "bounds": [
+      46.456,
+      -214.024,
+      891.572,
+      1420
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_quotesinglbase": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "quotesinglbase",
+    "width": 650,
+    "bounds": [
+      60,
+      -209,
+      602,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_r": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "r",
+    "width": 519,
+    "bounds": [
+      -83,
+      -285,
+      530,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_s": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "s",
+    "width": 569,
+    "bounds": [
+      46,
+      -247,
+      583,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_space": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "space",
+    "width": 142,
+    "bounds": null,
+    "category": "arabic_base",
+    "has_svg": false
+  },
+  "PlainExtra_t": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "t",
+    "width": 349,
+    "bounds": [
+      46,
+      -9.057,
+      363,
+      340
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_thorn": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "thorn",
+    "width": 438,
+    "bounds": [
+      -19,
+      -4,
+      375.286,
+      1418
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainExtra_y": {
+    "family": "AnicaKariSAKQPlainExtra",
+    "glyph": "y",
+    "width": 0,
+    "bounds": [
+      8.697,
+      553,
+      306.373,
+      908
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainSpare_Agrave": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "Agrave",
+    "width": 861,
+    "bounds": [
+      46,
+      -129.376,
+      814.969,
+      324
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_Atilde": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "Atilde",
+    "width": 542,
+    "bounds": [
+      44,
+      -242,
+      548,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_D": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "D",
+    "width": 430,
+    "bounds": [
+      -9,
+      -4,
+      440,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_DC1": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "DC1",
+    "width": 435,
+    "bounds": [
+      -12,
+      -4,
+      340,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_DC4": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "DC4",
+    "width": 345,
+    "bounds": [
+      -6,
+      -37,
+      298.25,
+      179.184
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_E": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "E",
+    "width": 431,
+    "bounds": [
+      -12,
+      -4,
+      443,
+      1420.223
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_Ecircumflex": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "Ecircumflex",
+    "width": 591,
+    "bounds": [
+      46.894,
+      -169.431,
+      544.084,
+      1420.223
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_Edieresis": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "Edieresis",
+    "width": 384,
+    "bounds": [
+      -65,
+      -256.7,
+      358.27,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_I": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "I",
+    "width": 434,
+    "bounds": [
+      -8,
+      -4,
+      442,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_Icircumflex": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "Icircumflex",
+    "width": 0,
+    "bounds": [
+      1,
+      1063,
+      634.427,
+      1418
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainSpare_Idieresis": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "Idieresis",
+    "width": 0,
+    "bounds": [
+      1,
+      1062,
+      900,
+      1422
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainSpare_Igrave": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "Igrave",
+    "width": 0,
+    "bounds": [
+      1,
+      1065,
+      357,
+      1417
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainSpare_M": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "M",
+    "width": 394,
+    "bounds": [
+      -10,
+      -4,
+      404,
+      1420.223
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_O": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "O",
+    "width": 308,
+    "bounds": [
+      -9,
+      -187,
+      317,
+      166
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_Oacute": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "Oacute",
+    "width": 0,
+    "bounds": [
+      1,
+      1065,
+      357,
+      1417
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainSpare_Ocircumflex": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "Ocircumflex",
+    "width": 0,
+    "bounds": [
+      -0.259,
+      1062,
+      469.236,
+      1420.223
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainSpare_Ograve": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "Ograve",
+    "width": 0,
+    "bounds": [
+      16,
+      1008,
+      569,
+      1404
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainSpare_Thorn": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "Thorn",
+    "width": 438,
+    "bounds": [
+      -19,
+      -4,
+      375.286,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_Uacute": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "Uacute",
+    "width": 0,
+    "bounds": [
+      1,
+      1062.906,
+      738.471,
+      1421.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainSpare_V": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "V",
+    "width": 826,
+    "bounds": [
+      46,
+      -316,
+      839,
+      186.333
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_X": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "X",
+    "width": 826,
+    "bounds": [
+      46,
+      -118,
+      839,
+      205
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_apple": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "apple",
+    "width": 0,
+    "bounds": [
+      1,
+      1062.906,
+      1029.427,
+      1421.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainSpare_b": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "b",
+    "width": 543,
+    "bounds": [
+      114.484,
+      -203.312,
+      557,
+      329.51
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_bracketright": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "bracketright",
+    "width": 0,
+    "bounds": [
+      56,
+      548.938,
+      319.625,
+      823
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "PlainSpare_c": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "c",
+    "width": 543,
+    "bounds": [
+      114.484,
+      -203.312,
+      557,
+      525
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_d": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "d",
+    "width": 374,
+    "bounds": [
+      -111,
+      -262.063,
+      382,
+      756
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_e": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "e",
+    "width": 430,
+    "bounds": [
+      -111,
+      -262.063,
+      440,
+      1420
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_emdash": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "emdash",
+    "width": 347,
+    "bounds": [
+      -39.987,
+      -227.515,
+      317,
+      760
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_eth": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "eth",
+    "width": 381,
+    "bounds": [
+      -10,
+      -4,
+      363,
+      463
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_exclamdown": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "exclamdown",
+    "width": 446,
+    "bounds": [
+      100,
+      -60,
+      345,
+      297
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_guillemotright": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "guillemotright",
+    "width": 896,
+    "bounds": [
+      60.503,
+      -300,
+      835,
+      261
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_j": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "j",
+    "width": 427,
+    "bounds": [
+      -0.553,
+      -4,
+      442,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_lslash": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "lslash",
+    "width": 494,
+    "bounds": [
+      -18,
+      -208,
+      448.062,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_minus": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "minus",
+    "width": 656,
+    "bounds": [
+      -18,
+      -180,
+      674,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_o": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "o",
+    "width": 636,
+    "bounds": [
+      29,
+      -346,
+      647,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_oe": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "oe",
+    "width": 508,
+    "bounds": [
+      125.639,
+      -4,
+      382,
+      318.626
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_onehalf": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "onehalf",
+    "width": 413,
+    "bounds": [
+      -10,
+      -4,
+      388,
+      1420.223
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_onesuperior": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "onesuperior",
+    "width": 482,
+    "bounds": [
+      -10,
+      -195,
+      381.894,
+      327
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_question": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "question",
+    "width": 48,
+    "bounds": [
+      -6,
+      -4,
+      54,
+      81
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_quotedblleft": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "quotedblleft",
+    "width": 384,
+    "bounds": [
+      -39.987,
+      -227.515,
+      309.375,
+      1420
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_quotesinglbase": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "quotesinglbase",
+    "width": 650,
+    "bounds": [
+      60,
+      -209,
+      602,
+      1422
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_s": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "s",
+    "width": 569,
+    "bounds": [
+      46,
+      -247,
+      583,
+      1420.223
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "PlainSpare_space": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "space",
+    "width": 142,
+    "bounds": null,
+    "category": "arabic_base",
+    "has_svg": false
+  },
+  "PlainSpare_twosuperior": {
+    "family": "AnicaKariSAKQPlainSpare",
+    "glyph": "twosuperior",
+    "width": 412,
+    "bounds": [
+      -9,
+      -4,
+      422,
+      383
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "Harkat_AE": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "AE",
+    "width": 0,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "Harkat_Aacute": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Aacute",
+    "width": 557,
+    "bounds": [
+      -0.799,
+      -164,
+      542,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Acircumflex": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Acircumflex",
+    "width": 0,
+    "bounds": [
+      -120.304,
+      531,
+      1.199,
+      788.088
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Agrave": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Agrave",
+    "width": 557,
+    "bounds": [
+      -0.799,
+      -172,
+      526,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_B": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "B",
+    "width": 529,
+    "bounds": [
+      -13,
+      -4,
+      544,
+      1421
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_DC3": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "DC3",
+    "width": 347,
+    "bounds": [
+      -7,
+      -4,
+      324,
+      765
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_DC4": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "DC4",
+    "width": 0,
+    "bounds": [
+      -120.304,
+      531,
+      1.199,
+      788.088
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Delta": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Delta",
+    "width": 758,
+    "bounds": [
+      38,
+      -227,
+      721.649,
+      308.041
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Ecircumflex": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Ecircumflex",
+    "width": 373,
+    "bounds": [
+      28.758,
+      277,
+      338.256,
+      740
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Edieresis": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Edieresis",
+    "width": 709,
+    "bounds": [
+      25,
+      -264,
+      682,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Iacute": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Iacute",
+    "width": 557,
+    "bounds": [
+      46,
+      -164,
+      528.625,
+      907
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Icircumflex": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Icircumflex",
+    "width": 0,
+    "bounds": [
+      -96,
+      786,
+      446,
+      1415.444
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Idieresis": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Idieresis",
+    "width": 0,
+    "bounds": [
+      5,
+      545,
+      268.625,
+      865
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Igrave": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Igrave",
+    "width": 0,
+    "bounds": [
+      2,
+      836,
+      416,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_K": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "K",
+    "width": 308,
+    "bounds": [
+      -10,
+      -4,
+      318,
+      758
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_L": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "L",
+    "width": 0,
+    "bounds": [
+      -120.304,
+      531,
+      1.199,
+      788.088
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Ntilde": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Ntilde",
+    "width": 280,
+    "bounds": [
+      -10,
+      -4,
+      216.361,
+      320
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Oacute": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Oacute",
+    "width": 0,
+    "bounds": [
+      36,
+      624,
+      112,
+      830
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Ocircumflex": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Ocircumflex",
+    "width": 0,
+    "bounds": [
+      4.812,
+      557.234,
+      279,
+      761
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Ograve": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Ograve",
+    "width": 0,
+    "bounds": [
+      13,
+      551,
+      276.241,
+      912
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Omega": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Omega",
+    "width": 739,
+    "bounds": [
+      31,
+      -266.456,
+      713,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Oslash": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Oslash",
+    "width": 0,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "Harkat_Otilde": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Otilde",
+    "width": 502,
+    "bounds": [
+      22.225,
+      -172,
+      530,
+      488.257
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_P": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "P",
+    "width": 404,
+    "bounds": [
+      2,
+      -4,
+      421,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Q": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Q",
+    "width": 234,
+    "bounds": [
+      21,
+      -4,
+      246,
+      773
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_RS": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "RS",
+    "width": 656,
+    "bounds": [
+      -18,
+      -4,
+      674,
+      452
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_S": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "S",
+    "width": 344,
+    "bounds": [
+      78,
+      -4,
+      356,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Uacute": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Uacute",
+    "width": 0,
+    "bounds": [
+      1,
+      -496,
+      68,
+      -318
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Ucircumflex": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Ucircumflex",
+    "width": 572,
+    "bounds": [
+      15,
+      -164,
+      554,
+      762
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Ugrave": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Ugrave",
+    "width": 557,
+    "bounds": [
+      46,
+      -183,
+      514,
+      848
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_W": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "W",
+    "width": 538,
+    "bounds": [
+      -96,
+      -87,
+      551,
+      1415.444
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Ydieresis": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Ydieresis",
+    "width": 575,
+    "bounds": [
+      28.8,
+      -557,
+      546,
+      267.339
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Z": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Z",
+    "width": 416,
+    "bounds": [
+      26.995,
+      -346,
+      564,
+      307
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_Zcaron": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "Zcaron",
+    "width": 369,
+    "bounds": [
+      -14,
+      -4,
+      322,
+      298.054
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_acute": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "acute",
+    "width": 672,
+    "bounds": [
+      26,
+      -293.413,
+      646.233,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_ae": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "ae",
+    "width": 0,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "Harkat_apple": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "apple",
+    "width": 0,
+    "bounds": [
+      10,
+      -507,
+      94,
+      -297
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_approxequal": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "approxequal",
+    "width": 324,
+    "bounds": [
+      82.201,
+      -199,
+      264,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_aring": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "aring",
+    "width": 0,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "Harkat_at": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "at",
+    "width": 535,
+    "bounds": [
+      45,
+      -475,
+      551,
+      529
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_atilde": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "atilde",
+    "width": 0,
+    "bounds": [
+      4.512,
+      -395,
+      115.674,
+      -148.119
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_bracketright": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "bracketright",
+    "width": 0,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "Harkat_breve": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "breve",
+    "width": 557,
+    "bounds": [
+      14,
+      -164,
+      548,
+      752.766
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_bullet": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "bullet",
+    "width": 672,
+    "bounds": [
+      26,
+      -293.413,
+      645.324,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_caron": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "caron",
+    "width": 557,
+    "bounds": [
+      30,
+      -164,
+      514,
+      737
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_ccedilla": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "ccedilla",
+    "width": 253,
+    "bounds": [
+      -9,
+      -4,
+      262,
+      166
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_cedilla": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "cedilla",
+    "width": 672,
+    "bounds": [
+      15,
+      -257.413,
+      645.324,
+      818
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_currency": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "currency",
+    "width": 672,
+    "bounds": [
+      26,
+      -293.413,
+      645.324,
+      825
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_degree": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "degree",
+    "width": 672,
+    "bounds": [
+      26,
+      -293.413,
+      645.324,
+      506
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_dieresis": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "dieresis",
+    "width": 0,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "Harkat_divide": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "divide",
+    "width": 627,
+    "bounds": [
+      16.201,
+      -164,
+      525,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_dotaccent": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "dotaccent",
+    "width": 557,
+    "bounds": [
+      -0.799,
+      -488,
+      502.709,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_dotlessi": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "dotlessi",
+    "width": 672,
+    "bounds": [
+      26,
+      -494,
+      645.324,
+      912
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_egrave": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "egrave",
+    "width": 540,
+    "bounds": [
+      45,
+      -87,
+      551,
+      848
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_eight": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "eight",
+    "width": 539,
+    "bounds": [
+      30,
+      -87,
+      551,
+      737
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_emdash": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "emdash",
+    "width": 907,
+    "bounds": [
+      55,
+      -466,
+      869.43,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_endash": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "endash",
+    "width": 808,
+    "bounds": [
+      51,
+      -457,
+      750,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_f": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "f",
+    "width": 536,
+    "bounds": [
+      15.201,
+      -87,
+      551,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_fi": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "fi",
+    "width": 672,
+    "bounds": [
+      26,
+      -293.413,
+      645.324,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_fl": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "fl",
+    "width": 557,
+    "bounds": [
+      42,
+      -502,
+      502.709,
+      737
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_florin": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "florin",
+    "width": 362,
+    "bounds": [
+      37,
+      -58,
+      321,
+      399.945
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_fraction": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "fraction",
+    "width": 493,
+    "bounds": [
+      19.284,
+      -557,
+      536,
+      472
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_g": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "g",
+    "width": 543,
+    "bounds": [
+      45,
+      -457,
+      551,
+      760
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_grave": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "grave",
+    "width": 416,
+    "bounds": [
+      26.995,
+      -346,
+      564,
+      307
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_greater": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "greater",
+    "width": 0,
+    "bounds": [
+      -25,
+      507,
+      389,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_greaterequal": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "greaterequal",
+    "width": 709,
+    "bounds": [
+      25,
+      -459,
+      682,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_guillemotright": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "guillemotright",
+    "width": 557,
+    "bounds": [
+      46,
+      -461,
+      545.401,
+      749
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_guilsinglleft": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "guilsinglleft",
+    "width": 761,
+    "bounds": [
+      -3,
+      -266.456,
+      747,
+      824
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_guilsinglright": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "guilsinglright",
+    "width": 667,
+    "bounds": [
+      21,
+      -509,
+      652,
+      761
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_hungarumlaut": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "hungarumlaut",
+    "width": 672,
+    "bounds": [
+      26,
+      -483,
+      645.324,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_i": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "i",
+    "width": 539,
+    "bounds": [
+      29.201,
+      -87,
+      551,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_idieresis": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "idieresis",
+    "width": 540,
+    "bounds": [
+      8,
+      -87,
+      551,
+      768.766
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_igrave": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "igrave",
+    "width": 672,
+    "bounds": [
+      26,
+      -449,
+      645.324,
+      879.768
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_integral": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "integral",
+    "width": 373,
+    "bounds": [
+      29.017,
+      552,
+      338.407,
+      989
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_l": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "l",
+    "width": 419,
+    "bounds": [
+      41.726,
+      -495,
+      543,
+      285.128
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_lessequal": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "lessequal",
+    "width": 709,
+    "bounds": [
+      25,
+      -450,
+      682,
+      516
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_logicalnot": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "logicalnot",
+    "width": 293,
+    "bounds": [
+      -60,
+      -183,
+      353,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_lozenge": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "lozenge",
+    "width": 808,
+    "bounds": [
+      28,
+      -15.895,
+      750,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_m": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "m",
+    "width": 469,
+    "bounds": [
+      69.799,
+      -506,
+      543,
+      495
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_macron": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "macron",
+    "width": 557,
+    "bounds": [
+      46,
+      -491,
+      502.709,
+      535.177
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_minus": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "minus",
+    "width": 656,
+    "bounds": [
+      -18,
+      -180,
+      674,
+      267
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_mu": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "mu",
+    "width": 709,
+    "bounds": [
+      25,
+      -264,
+      682,
+      833
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_multiply": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "multiply",
+    "width": 656,
+    "bounds": [
+      -18,
+      -4,
+      674,
+      267
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_n": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "n",
+    "width": 539,
+    "bounds": [
+      19,
+      -87,
+      551,
+      759
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_notequal": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "notequal",
+    "width": 740,
+    "bounds": [
+      31,
+      -266.456,
+      740,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_o": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "o",
+    "width": 540,
+    "bounds": [
+      2,
+      -87,
+      551,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_oacute": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "oacute",
+    "width": 420,
+    "bounds": [
+      -3,
+      -344.562,
+      440,
+      508.585
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_oe": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "oe",
+    "width": 808,
+    "bounds": [
+      35,
+      -15.895,
+      750,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_onehalf": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "onehalf",
+    "width": 373,
+    "bounds": [
+      28.758,
+      277,
+      338.256,
+      740
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_ordfeminine": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "ordfeminine",
+    "width": 395,
+    "bounds": [
+      2.863,
+      18.209,
+      384.851,
+      749
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_ordmasculine": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "ordmasculine",
+    "width": 0,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "Harkat_oslash": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "oslash",
+    "width": 373,
+    "bounds": [
+      31.698,
+      -441,
+      341.14,
+      -20
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_p": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "p",
+    "width": 544,
+    "bounds": [
+      -21,
+      -87,
+      551,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_parenleft": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "parenleft",
+    "width": 521,
+    "bounds": [
+      -8,
+      -4,
+      530,
+      773
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_parenright": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "parenright",
+    "width": 521,
+    "bounds": [
+      -8,
+      -4,
+      518,
+      780
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_partialdiff": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "partialdiff",
+    "width": 709,
+    "bounds": [
+      25,
+      -456,
+      682,
+      765
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_periodcentered": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "periodcentered",
+    "width": 557,
+    "bounds": [
+      20,
+      -164,
+      556,
+      763
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_perthousand": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "perthousand",
+    "width": 646,
+    "bounds": [
+      47,
+      -172.5,
+      648,
+      759
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_pi": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "pi",
+    "width": 773,
+    "bounds": [
+      31,
+      -266.456,
+      743,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_product": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "product",
+    "width": 769,
+    "bounds": [
+      31,
+      -266.456,
+      739,
+      741
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_q": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "q",
+    "width": 615,
+    "bounds": [
+      46,
+      -231.629,
+      626,
+      762
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_question": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "question",
+    "width": 48,
+    "bounds": [
+      -6,
+      -4,
+      54,
+      81
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_quotedblbase": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "quotedblbase",
+    "width": 557,
+    "bounds": [
+      -21,
+      -178,
+      528.625,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_quotedblleft": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "quotedblleft",
+    "width": 808,
+    "bounds": [
+      55,
+      -462,
+      760,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_quotedblright": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "quotedblright",
+    "width": 557,
+    "bounds": [
+      -0.799,
+      -164,
+      528.625,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_quoteleft": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "quoteleft",
+    "width": 557,
+    "bounds": [
+      21,
+      -462,
+      555,
+      1354.347
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_quotesinglbase": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "quotesinglbase",
+    "width": 557,
+    "bounds": [
+      2,
+      -164,
+      533,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_quotesingle": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "quotesingle",
+    "width": 521,
+    "bounds": [
+      -8,
+      -203,
+      530,
+      773
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_radical": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "radical",
+    "width": 241,
+    "bounds": [
+      21,
+      -191,
+      206,
+      773
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_registered": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "registered",
+    "width": 0,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "Harkat_ring": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "ring",
+    "width": 672,
+    "bounds": [
+      2,
+      -478,
+      648.625,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_section": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "section",
+    "width": 706,
+    "bounds": [
+      26,
+      -467,
+      665,
+      506
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_space": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "space",
+    "width": 142,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "Harkat_sterling": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "sterling",
+    "width": 672,
+    "bounds": [
+      26,
+      -293.413,
+      645.324,
+      735
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_summation": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "summation",
+    "width": 709,
+    "bounds": [
+      25,
+      -264,
+      682,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_t": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "t",
+    "width": 529,
+    "bounds": [
+      -0.799,
+      -87,
+      551,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_trademark": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "trademark",
+    "width": 672,
+    "bounds": [
+      26,
+      -466,
+      645.324,
+      762
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_uacute": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "uacute",
+    "width": 538,
+    "bounds": [
+      21,
+      -87,
+      551,
+      773
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_underscore": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "underscore",
+    "width": 557,
+    "bounds": [
+      21,
+      -164,
+      518,
+      773
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_w": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "w",
+    "width": 538,
+    "bounds": [
+      45,
+      -87,
+      551,
+      903
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "Harkat_yen": {
+    "family": "AnicaKariSAKQHarkat",
+    "glyph": "yen",
+    "width": 709,
+    "bounds": [
+      -6,
+      -459,
+      682,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_AE": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "AE",
+    "width": 0,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "HarkatExtra_Aacute": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "Aacute",
+    "width": 557,
+    "bounds": [
+      31,
+      -177,
+      542,
+      806
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_Acircumflex": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "Acircumflex",
+    "width": 0,
+    "bounds": [
+      -262,
+      531,
+      -18,
+      1357
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_Icircumflex": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "Icircumflex",
+    "width": 0,
+    "bounds": [
+      3,
+      1062.906,
+      366.471,
+      1421.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_Idieresis": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "Idieresis",
+    "width": 0,
+    "bounds": [
+      -0.259,
+      1062,
+      509,
+      1422
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_Igrave": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "Igrave",
+    "width": 0,
+    "bounds": [
+      2,
+      836,
+      416,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_L": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "L",
+    "width": 0,
+    "bounds": [
+      -262,
+      531,
+      -18,
+      1357
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_Oacute": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "Oacute",
+    "width": 0,
+    "bounds": [
+      -1,
+      1062,
+      248,
+      1422
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_Ocircumflex": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "Ocircumflex",
+    "width": 0,
+    "bounds": [
+      11.201,
+      1062,
+      485,
+      1422
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_Ograve": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "Ograve",
+    "width": 0,
+    "bounds": [
+      -96,
+      786,
+      539.427,
+      1418
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_ae": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "ae",
+    "width": 0,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "HarkatExtra_apple": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "apple",
+    "width": 0,
+    "bounds": [
+      3,
+      1062.906,
+      647.427,
+      1421.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_atilde": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "atilde",
+    "width": 0,
+    "bounds": [
+      -1,
+      -395,
+      248,
+      1422
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_divide": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "divide",
+    "width": 627,
+    "bounds": [
+      12.201,
+      -164,
+      525,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_egrave": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "egrave",
+    "width": 540,
+    "bounds": [
+      45,
+      -87,
+      551,
+      848
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_endash": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "endash",
+    "width": 808,
+    "bounds": [
+      51,
+      -457,
+      750,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_f": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "f",
+    "width": 536,
+    "bounds": [
+      45,
+      -87,
+      551,
+      826
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_florin": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "florin",
+    "width": 421,
+    "bounds": [
+      66,
+      -58,
+      351,
+      1420.223
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_hungarumlaut": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "hungarumlaut",
+    "width": 672,
+    "bounds": [
+      26,
+      -483,
+      645.324,
+      761
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_lozenge": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "lozenge",
+    "width": 808,
+    "bounds": [
+      28,
+      -15.895,
+      750,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_notequal": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "notequal",
+    "width": 740,
+    "bounds": [
+      31,
+      -266.456,
+      740,
+      804
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_o": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "o",
+    "width": 540,
+    "bounds": [
+      -52,
+      -87,
+      551,
+      1355.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_oe": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "oe",
+    "width": 808,
+    "bounds": [
+      35,
+      -15.895,
+      750,
+      1420.203
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_ordmasculine": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "ordmasculine",
+    "width": 0,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "HarkatExtra_question": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "question",
+    "width": 48,
+    "bounds": [
+      -6,
+      -4,
+      54,
+      81
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_quotedblright": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "quotedblright",
+    "width": 557,
+    "bounds": [
+      46,
+      -164,
+      528.625,
+      833
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_quoteleft": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "quoteleft",
+    "width": 557,
+    "bounds": [
+      21,
+      -462,
+      555,
+      767
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_quotesinglbase": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "quotesinglbase",
+    "width": 557,
+    "bounds": [
+      -52,
+      -164,
+      533,
+      1355.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_r": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "r",
+    "width": 0,
+    "bounds": [
+      -262,
+      531,
+      -18,
+      1357
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatExtra_space": {
+    "family": "AnicaKariSAKQHarkatExtra",
+    "glyph": "space",
+    "width": 142,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "HarkatSpare_Acircumflex": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "Acircumflex",
+    "width": 0,
+    "bounds": [
+      -120.304,
+      531,
+      1.199,
+      788.088
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_Agrave": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "Agrave",
+    "width": 557,
+    "bounds": [
+      14,
+      -164,
+      533,
+      808
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_Edieresis": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "Edieresis",
+    "width": 709,
+    "bounds": [
+      25,
+      -264,
+      682,
+      888
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_Icircumflex": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "Icircumflex",
+    "width": 0,
+    "bounds": [
+      -96,
+      786,
+      446,
+      1415.444
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_Idieresis": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "Idieresis",
+    "width": 0,
+    "bounds": [
+      2,
+      836,
+      632.427,
+      1418
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_Igrave": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "Igrave",
+    "width": 0,
+    "bounds": [
+      2,
+      836,
+      416,
+      1408.124
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_Ocircumflex": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "Ocircumflex",
+    "width": 0,
+    "bounds": [
+      -1,
+      1062,
+      248,
+      1422
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_Ograve": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "Ograve",
+    "width": 0,
+    "bounds": [
+      1,
+      1065,
+      357,
+      1417
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_S": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "S",
+    "width": 344,
+    "bounds": [
+      78,
+      -4,
+      356,
+      781
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_Uacute": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "Uacute",
+    "width": 0,
+    "bounds": [
+      1,
+      1063,
+      763,
+      1421
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_Ydieresis": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "Ydieresis",
+    "width": 575,
+    "bounds": [
+      28.8,
+      -557,
+      546,
+      267.339
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_Z": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "Z",
+    "width": 416,
+    "bounds": [
+      26.995,
+      -346,
+      569,
+      307
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_ae": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "ae",
+    "width": 0,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "HarkatSpare_apple": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "apple",
+    "width": 0,
+    "bounds": [
+      -9,
+      1008,
+      733,
+      1358.146
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_approxequal": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "approxequal",
+    "width": 324,
+    "bounds": [
+      119.81,
+      -199,
+      264,
+      778
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_cedilla": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "cedilla",
+    "width": 672,
+    "bounds": [
+      15,
+      -257.413,
+      645.324,
+      818
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_divide": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "divide",
+    "width": 627,
+    "bounds": [
+      46,
+      -164,
+      525,
+      736
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_emdash": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "emdash",
+    "width": 907,
+    "bounds": [
+      55,
+      -466,
+      869.43,
+      890
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_endash": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "endash",
+    "width": 808,
+    "bounds": [
+      51,
+      -457,
+      750,
+      890
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_f": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "f",
+    "width": 536,
+    "bounds": [
+      45,
+      -87,
+      551,
+      826
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_florin": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "florin",
+    "width": 362,
+    "bounds": [
+      37,
+      -58,
+      321,
+      399.945
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_grave": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "grave",
+    "width": 416,
+    "bounds": [
+      26.995,
+      -346,
+      564,
+      307
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_greaterequal": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "greaterequal",
+    "width": 709,
+    "bounds": [
+      25,
+      -459,
+      682,
+      749
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_hungarumlaut": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "hungarumlaut",
+    "width": 672,
+    "bounds": [
+      26,
+      -483,
+      645.324,
+      761
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_i": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "i",
+    "width": 539,
+    "bounds": [
+      45,
+      -87,
+      551,
+      734
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_l": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "l",
+    "width": 419,
+    "bounds": [
+      41.726,
+      -495,
+      543,
+      285.128
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_lozenge": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "lozenge",
+    "width": 808,
+    "bounds": [
+      28,
+      -15.895,
+      750,
+      890
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_lslash": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "lslash",
+    "width": 494,
+    "bounds": [
+      -18,
+      -176,
+      448.062,
+      228
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_minus": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "minus",
+    "width": 656,
+    "bounds": [
+      -18,
+      -180,
+      674,
+      267
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_oe": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "oe",
+    "width": 808,
+    "bounds": [
+      35,
+      -15.895,
+      750,
+      890
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_ordmasculine": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "ordmasculine",
+    "width": 0,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "HarkatSpare_question": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "question",
+    "width": 48,
+    "bounds": [
+      -6,
+      -4,
+      54,
+      81
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_quotedblleft": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "quotedblleft",
+    "width": 808,
+    "bounds": [
+      55,
+      -462,
+      760,
+      890
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_quotedblright": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "quotedblright",
+    "width": 557,
+    "bounds": [
+      46,
+      -164,
+      528.625,
+      833
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_quoteleft": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "quoteleft",
+    "width": 557,
+    "bounds": [
+      21,
+      -462,
+      555,
+      767
+    ],
+    "category": "harkat",
+    "has_svg": true
+  },
+  "HarkatSpare_space": {
+    "family": "AnicaKariSAKQHarkatSpare",
+    "glyph": "space",
+    "width": 142,
+    "bounds": null,
+    "category": "harkat",
+    "has_svg": false
+  },
+  "S1_Icircumflex": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "Icircumflex",
+    "width": 0,
+    "bounds": [
+      2.043,
+      1064.989,
+      175.432,
+      1420.759
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S1_Idieresis": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "Idieresis",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S1_Igrave": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "Igrave",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S1_Oacute": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "Oacute",
+    "width": 0,
+    "bounds": [
+      -0.799,
+      1063.759,
+      178.805,
+      1420.203
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S1_Ocircumflex": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "Ocircumflex",
+    "width": 0,
+    "bounds": [
+      -0.259,
+      1062,
+      243,
+      1420.223
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S1_Ograve": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "Ograve",
+    "width": 0,
+    "bounds": [
+      1,
+      1065,
+      357,
+      1417
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S1_Uacute": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "Uacute",
+    "width": 0,
+    "bounds": [
+      -0.553,
+      1061,
+      243.459,
+      1422
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S1_ae": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "ae",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S1_apple": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "apple",
+    "width": 0,
+    "bounds": [
+      3,
+      1062.906,
+      366.471,
+      1421.124
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S1_endash": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "endash",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S1_greater": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "greater",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S1_greaterequal": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "greaterequal",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S1_lessequal": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "lessequal",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S1_ordmasculine": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "ordmasculine",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S1_oslash": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "oslash",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S1_question": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "question",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S1_space": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "space",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S1_yen": {
+    "family": "AnicaKariSAKQS1",
+    "glyph": "yen",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S2_Icircumflex": {
+    "family": "AnicaKariSAKQS2",
+    "glyph": "Icircumflex",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S2_Idieresis": {
+    "family": "AnicaKariSAKQS2",
+    "glyph": "Idieresis",
+    "width": 0,
+    "bounds": [
+      0.491,
+      1063,
+      246.427,
+      1418
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S2_Igrave": {
+    "family": "AnicaKariSAKQS2",
+    "glyph": "Igrave",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S2_Oacute": {
+    "family": "AnicaKariSAKQS2",
+    "glyph": "Oacute",
+    "width": 0,
+    "bounds": [
+      0.413,
+      1063,
+      241.236,
+      1420
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S2_Ocircumflex": {
+    "family": "AnicaKariSAKQS2",
+    "glyph": "Ocircumflex",
+    "width": 0,
+    "bounds": [
+      -1,
+      1062,
+      248,
+      1422
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S2_Ograve": {
+    "family": "AnicaKariSAKQS2",
+    "glyph": "Ograve",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S2_Uacute": {
+    "family": "AnicaKariSAKQS2",
+    "glyph": "Uacute",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S2_ae": {
+    "family": "AnicaKariSAKQS2",
+    "glyph": "ae",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S2_apple": {
+    "family": "AnicaKariSAKQS2",
+    "glyph": "apple",
+    "width": 0,
+    "bounds": [
+      -14,
+      1061,
+      217,
+      1420.753
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S2_space": {
+    "family": "AnicaKariSAKQS2",
+    "glyph": "space",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S3_Icircumflex": {
+    "family": "AnicaKariSAKQS3",
+    "glyph": "Icircumflex",
+    "width": 0,
+    "bounds": [
+      -300.799,
+      1063,
+      384.427,
+      1420.203
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S3_Idieresis": {
+    "family": "AnicaKariSAKQS3",
+    "glyph": "Idieresis",
+    "width": 0,
+    "bounds": [
+      -1,
+      1062.906,
+      638.427,
+      1421.124
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S3_Igrave": {
+    "family": "AnicaKariSAKQS3",
+    "glyph": "Igrave",
+    "width": 0,
+    "bounds": [
+      -203.799,
+      1063,
+      257.427,
+      1420.203
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S3_Oacute": {
+    "family": "AnicaKariSAKQS3",
+    "glyph": "Oacute",
+    "width": 0,
+    "bounds": [
+      0.413,
+      1063,
+      241.236,
+      1420
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S3_Ocircumflex": {
+    "family": "AnicaKariSAKQS3",
+    "glyph": "Ocircumflex",
+    "width": 0,
+    "bounds": [
+      14.491,
+      1063,
+      260.427,
+      1418
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S3_Ograve": {
+    "family": "AnicaKariSAKQS3",
+    "glyph": "Ograve",
+    "width": 0,
+    "bounds": [
+      1,
+      1063,
+      207,
+      1421
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S3_Uacute": {
+    "family": "AnicaKariSAKQS3",
+    "glyph": "Uacute",
+    "width": 0,
+    "bounds": [
+      -203.799,
+      1063,
+      257.427,
+      1420.203
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S3_apple": {
+    "family": "AnicaKariSAKQS3",
+    "glyph": "apple",
+    "width": 0,
+    "bounds": [
+      -7.587,
+      1063,
+      487.427,
+      1420
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S3_oslash": {
+    "family": "AnicaKariSAKQS3",
+    "glyph": "oslash",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S3_summation": {
+    "family": "AnicaKariSAKQS3",
+    "glyph": "summation",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "S4_Icircumflex": {
+    "family": "AnicaKariSAKQS4",
+    "glyph": "Icircumflex",
+    "width": 0,
+    "bounds": [
+      -233.957,
+      1063,
+      238.427,
+      1420.759
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S4_Igrave": {
+    "family": "AnicaKariSAKQS4",
+    "glyph": "Igrave",
+    "width": 0,
+    "bounds": [
+      -296,
+      1064.989,
+      249.432,
+      1420.759
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S4_Oacute": {
+    "family": "AnicaKariSAKQS4",
+    "glyph": "Oacute",
+    "width": 0,
+    "bounds": [
+      -381,
+      1061,
+      261.459,
+      1422
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "S4_apple": {
+    "family": "AnicaKariSAKQS4",
+    "glyph": "apple",
+    "width": 0,
+    "bounds": [
+      -394,
+      1063,
+      457.236,
+      1421
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "A4_Aacute": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "Aacute",
+    "width": 648,
+    "bounds": [
+      25,
+      -195,
+      571,
+      356
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_Agrave": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "Agrave",
+    "width": 649,
+    "bounds": [
+      25,
+      -196,
+      571,
+      355
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_Icircumflex": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "Icircumflex",
+    "width": 0,
+    "bounds": [
+      -0.799,
+      1063.759,
+      178.805,
+      1420.203
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "A4_Idieresis": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "Idieresis",
+    "width": 0,
+    "bounds": [
+      1,
+      1065,
+      357,
+      1417
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "A4_Igrave": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "Igrave",
+    "width": 0,
+    "bounds": [
+      -0.259,
+      1062,
+      243,
+      1420.223
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "A4_Lslash": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "Lslash",
+    "width": 649,
+    "bounds": [
+      25,
+      -196,
+      571,
+      355
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_OE": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "OE",
+    "width": 648,
+    "bounds": [
+      25,
+      -195,
+      571,
+      356
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_Oacute": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "Oacute",
+    "width": 0,
+    "bounds": [
+      22,
+      1009,
+      631.236,
+      1404
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "A4_Ocircumflex": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "Ocircumflex",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "A4_Ograve": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "Ograve",
+    "width": 0,
+    "bounds": [
+      -0.553,
+      1061,
+      243.459,
+      1422
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "A4_Otilde": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "Otilde",
+    "width": 648,
+    "bounds": [
+      25,
+      -195,
+      571,
+      356
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_Uacute": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "Uacute",
+    "width": 0,
+    "bounds": [
+      2.043,
+      1064.989,
+      175.432,
+      1420.759
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "A4_Ydieresis": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "Ydieresis",
+    "width": 653,
+    "bounds": [
+      25,
+      -196,
+      571,
+      355
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_ae": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "ae",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "A4_apple": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "apple",
+    "width": 0,
+    "bounds": [
+      13.201,
+      1063,
+      444.236,
+      1420.203
+    ],
+    "category": "tajweed_top",
+    "has_svg": true
+  },
+  "A4_divide": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "divide",
+    "width": 649,
+    "bounds": [
+      25,
+      -197,
+      571,
+      354
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_fi": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "fi",
+    "width": 433,
+    "bounds": [
+      84.864,
+      -8,
+      352.545,
+      769
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_fraction": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "fraction",
+    "width": 653,
+    "bounds": [
+      25,
+      -196,
+      571,
+      355
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_greaterequal": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "greaterequal",
+    "width": 652,
+    "bounds": [
+      25,
+      -195,
+      571,
+      356
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_infinity": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "infinity",
+    "width": 648,
+    "bounds": [
+      25,
+      -195,
+      571,
+      356
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_lessequal": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "lessequal",
+    "width": 626,
+    "bounds": [
+      15,
+      -184,
+      561,
+      367
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_mu": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "mu",
+    "width": 649,
+    "bounds": [
+      25,
+      -193,
+      571,
+      358
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_onequarter": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "onequarter",
+    "width": 648,
+    "bounds": [
+      25,
+      -195,
+      571,
+      356
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_ordmasculine": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "ordmasculine",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "A4_partialdiff": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "partialdiff",
+    "width": 650,
+    "bounds": [
+      25,
+      -194,
+      571,
+      357
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_periodcentered": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "periodcentered",
+    "width": 652,
+    "bounds": [
+      25,
+      -195,
+      571,
+      356
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_pi": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "pi",
+    "width": 650,
+    "bounds": [
+      35,
+      -194,
+      581,
+      357
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_plusminus": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "plusminus",
+    "width": 651,
+    "bounds": [
+      25,
+      -197,
+      571,
+      354
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_product": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "product",
+    "width": 649,
+    "bounds": [
+      25,
+      -196,
+      571,
+      355
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_question": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "question",
+    "width": 0,
+    "bounds": null,
+    "category": "tajweed_top",
+    "has_svg": false
+  },
+  "A4_quoteright": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "quoteright",
+    "width": 648,
+    "bounds": [
+      25,
+      -195,
+      571,
+      356
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_quotesinglbase": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "quotesinglbase",
+    "width": 648,
+    "bounds": [
+      25,
+      -195,
+      571,
+      356
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_space": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "space",
+    "width": 142,
+    "bounds": null,
+    "category": "arabic_base",
+    "has_svg": false
+  },
+  "A4_summation": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "summation",
+    "width": 650,
+    "bounds": [
+      25,
+      -197,
+      571,
+      354
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_yen": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "yen",
+    "width": 648,
+    "bounds": [
+      25,
+      -195,
+      571,
+      356
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "A4_zcaron": {
+    "family": "AnicaKariSAKQA4",
+    "glyph": "zcaron",
+    "width": 653,
+    "bounds": [
+      25,
+      -196,
+      571,
+      355
+    ],
+    "category": "arabic_base",
+    "has_svg": true
+  },
+  "AW_AE": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "AE",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "AW_Agrave": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Agrave",
+    "width": 0,
+    "bounds": [
+      231,
+      395.491,
+      414.75,
+      657.31
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_Atilde": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Atilde",
+    "width": 0,
+    "bounds": [
+      204.511,
+      399,
+      429,
+      690
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_DC2": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "DC2",
+    "width": 0,
+    "bounds": [
+      81,
+      402.012,
+      501.912,
+      1386
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_DC4": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "DC4",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "AW_Ecircumflex": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Ecircumflex",
+    "width": 0,
+    "bounds": [
+      38,
+      401,
+      269.675,
+      730
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_F": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "F",
+    "width": 0,
+    "bounds": [
+      214.372,
+      398,
+      420,
+      677.598
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_Lslash": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Lslash",
+    "width": 0,
+    "bounds": [
+      231,
+      395.491,
+      414.75,
+      657.31
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_OE": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "OE",
+    "width": 0,
+    "bounds": [
+      374.372,
+      398,
+      580,
+      677.598
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_Ocircumflex": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Ocircumflex",
+    "width": 0,
+    "bounds": [
+      -35,
+      705,
+      636,
+      1386
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_Omega": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Omega",
+    "width": 0,
+    "bounds": [
+      6,
+      399,
+      619.248,
+      742
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_Oslash": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Oslash",
+    "width": 0,
+    "bounds": [
+      362,
+      401.586,
+      532.581,
+      661
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_Otilde": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Otilde",
+    "width": 0,
+    "bounds": [
+      360.511,
+      399,
+      585,
+      690
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_S": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "S",
+    "width": 0,
+    "bounds": [
+      30,
+      575,
+      247,
+      755
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_T": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "T",
+    "width": 0,
+    "bounds": [
+      189,
+      770,
+      465.315,
+      1032
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_U": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "U",
+    "width": 0,
+    "bounds": [
+      201.698,
+      400.84,
+      425.117,
+      692.055
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_Udieresis": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Udieresis",
+    "width": 0,
+    "bounds": [
+      211,
+      770,
+      414,
+      973
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_Ugrave": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Ugrave",
+    "width": 0,
+    "bounds": [
+      211,
+      400,
+      414,
+      603
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_W": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "W",
+    "width": 0,
+    "bounds": [
+      318.704,
+      401.072,
+      627.917,
+      583
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_X": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "X",
+    "width": 0,
+    "bounds": [
+      354,
+      401,
+      585.675,
+      730
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_Y": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Y",
+    "width": 0,
+    "bounds": [
+      231,
+      395.491,
+      414.75,
+      657.31
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_Yacute": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Yacute",
+    "width": 0,
+    "bounds": [
+      221,
+      401.586,
+      391.581,
+      661
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_Ydieresis": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Ydieresis",
+    "width": 0,
+    "bounds": [
+      214.372,
+      398,
+      420,
+      677.598
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_Z": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Z",
+    "width": 0,
+    "bounds": [
+      204.511,
+      399,
+      429,
+      690
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_Zcaron": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "Zcaron",
+    "width": 0,
+    "bounds": [
+      214.372,
+      398,
+      420,
+      677.598
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_a": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "a",
+    "width": 0,
+    "bounds": [
+      374.372,
+      398,
+      580,
+      677.598
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_aacute": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "aacute",
+    "width": 0,
+    "bounds": [
+      212,
+      769,
+      414,
+      971
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_ae": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "ae",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "AW_apple": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "apple",
+    "width": 0,
+    "bounds": [
+      231,
+      765.491,
+      414.75,
+      1027.31
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_approxequal": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "approxequal",
+    "width": 0,
+    "bounds": [
+      30,
+      575,
+      247,
+      755
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_atilde": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "atilde",
+    "width": 0,
+    "bounds": [
+      211,
+      770,
+      414,
+      973
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_brokenbar": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "brokenbar",
+    "width": 0,
+    "bounds": [
+      231,
+      395.491,
+      414.75,
+      657.31
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_caron": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "caron",
+    "width": 0,
+    "bounds": [
+      212,
+      401,
+      414,
+      603
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_cedilla": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "cedilla",
+    "width": 0,
+    "bounds": [
+      67,
+      395.491,
+      250.75,
+      657.31
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_currency": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "currency",
+    "width": 0,
+    "bounds": [
+      52.511,
+      399,
+      277,
+      690
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_d": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "d",
+    "width": 0,
+    "bounds": [
+      206,
+      715,
+      423,
+      1386
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_degree": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "degree",
+    "width": 0,
+    "bounds": [
+      121,
+      768,
+      502,
+      1082
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_dieresis": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "dieresis",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "AW_dotaccent": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "dotaccent",
+    "width": 0,
+    "bounds": [
+      212,
+      400,
+      414,
+      602
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_e": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "e",
+    "width": 0,
+    "bounds": [
+      227.821,
+      401.918,
+      370.638,
+      727
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_eacute": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "eacute",
+    "width": 0,
+    "bounds": [
+      212,
+      769,
+      414,
+      971
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_egrave": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "egrave",
+    "width": 0,
+    "bounds": [
+      211,
+      400,
+      414,
+      603
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_eight": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "eight",
+    "width": 0,
+    "bounds": [
+      212,
+      401,
+      414,
+      603
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_ellipsis": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "ellipsis",
+    "width": 0,
+    "bounds": [
+      318.704,
+      401.072,
+      627.917,
+      583
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_emdash": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "emdash",
+    "width": 0,
+    "bounds": [
+      206,
+      689,
+      423,
+      1386
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_endash": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "endash",
+    "width": 0,
+    "bounds": [
+      189,
+      396,
+      465.315,
+      698
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_exclamdown": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "exclamdown",
+    "width": 0,
+    "bounds": [
+      78,
+      769,
+      512,
+      931
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_f": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "f",
+    "width": 0,
+    "bounds": [
+      221,
+      401.586,
+      391.581,
+      661
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_fi": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "fi",
+    "width": 0,
+    "bounds": [
+      18,
+      764,
+      609.354,
+      1074
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_grave": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "grave",
+    "width": 0,
+    "bounds": [
+      360.511,
+      399,
+      585,
+      690
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_greaterequal": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "greaterequal",
+    "width": 0,
+    "bounds": [
+      22.47,
+      414,
+      611,
+      742
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_guillemotleft": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "guillemotleft",
+    "width": 0,
+    "bounds": [
+      201.698,
+      400.84,
+      425.117,
+      692.055
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_guilsinglleft": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "guilsinglleft",
+    "width": 0,
+    "bounds": [
+      381,
+      395.491,
+      564.75,
+      657.31
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_guilsinglright": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "guilsinglright",
+    "width": 0,
+    "bounds": [
+      46.372,
+      398,
+      252,
+      677.598
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_h": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "h",
+    "width": 0,
+    "bounds": [
+      158.122,
+      400.876,
+      499.708,
+      583
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_hungarumlaut": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "hungarumlaut",
+    "width": 0,
+    "bounds": [
+      204.511,
+      769,
+      429,
+      1060
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_infinity": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "infinity",
+    "width": 0,
+    "bounds": [
+      31,
+      398,
+      590.567,
+      738
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_l": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "l",
+    "width": 0,
+    "bounds": [
+      214.372,
+      398,
+      420,
+      677.598
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_lozenge": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "lozenge",
+    "width": 0,
+    "bounds": [
+      148,
+      397,
+      469,
+      699
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_lslash": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "lslash",
+    "width": 0,
+    "bounds": [
+      204.511,
+      399,
+      429,
+      690
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_minus": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "minus",
+    "width": 0,
+    "bounds": [
+      204.511,
+      399,
+      429,
+      690
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_mu": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "mu",
+    "width": 0,
+    "bounds": [
+      20,
+      396.233,
+      617.731,
+      720
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_n": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "n",
+    "width": 0,
+    "bounds": [
+      -35,
+      401,
+      636,
+      1386
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_nbspace": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "nbspace",
+    "width": 0,
+    "bounds": [
+      354,
+      401,
+      585.675,
+      730
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_notequal": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "notequal",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "AW_ntilde": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "ntilde",
+    "width": 0,
+    "bounds": [
+      212,
+      400,
+      414,
+      602
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_o": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "o",
+    "width": 0,
+    "bounds": [
+      196,
+      401,
+      427.675,
+      730
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_oacute": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "oacute",
+    "width": 0,
+    "bounds": [
+      212,
+      770,
+      414,
+      972
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_ograve": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "ograve",
+    "width": 0,
+    "bounds": [
+      221,
+      769.586,
+      391.581,
+      1029
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_ordfeminine": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "ordfeminine",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "AW_ordmasculine": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "ordmasculine",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "AW_oslash": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "oslash",
+    "width": 0,
+    "bounds": [
+      59,
+      401.586,
+      229.581,
+      661
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_p": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "p",
+    "width": 0,
+    "bounds": [
+      81,
+      402.012,
+      501.912,
+      1386
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_periodcentered": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "periodcentered",
+    "width": 0,
+    "bounds": [
+      -35,
+      400,
+      636,
+      1386
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_pi": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "pi",
+    "width": 0,
+    "bounds": [
+      -4,
+      398,
+      624,
+      737
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_plusminus": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "plusminus",
+    "width": 0,
+    "bounds": [
+      121,
+      403,
+      502,
+      742
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_product": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "product",
+    "width": 0,
+    "bounds": [
+      4.524,
+      398,
+      627,
+      737
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_question": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "question",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "AW_quotedblbase": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "quotedblbase",
+    "width": 0,
+    "bounds": [
+      81,
+      402.012,
+      501.912,
+      626
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_quotedblleft": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "quotedblleft",
+    "width": 0,
+    "bounds": [
+      227.821,
+      401.918,
+      370.638,
+      727
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_quotedblright": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "quotedblright",
+    "width": 0,
+    "bounds": [
+      221,
+      401.586,
+      391.581,
+      661
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_quoteleft": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "quoteleft",
+    "width": 0,
+    "bounds": [
+      399.821,
+      401.918,
+      542.638,
+      727
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_quoteright": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "quoteright",
+    "width": 0,
+    "bounds": [
+      158.122,
+      400.876,
+      499.708,
+      583
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_quotesinglbase": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "quotesinglbase",
+    "width": 0,
+    "bounds": [
+      196,
+      401,
+      427.675,
+      730
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_s": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "s",
+    "width": 0,
+    "bounds": [
+      38,
+      401,
+      269.675,
+      730
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_space": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "space",
+    "width": 142,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "AW_sterling": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "sterling",
+    "width": 0,
+    "bounds": [
+      22.47,
+      769,
+      611,
+      1082
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "AW_yacute": {
+    "family": "AnicaKariSAKQAW",
+    "glyph": "yacute",
+    "width": 0,
+    "bounds": [
+      399.821,
+      401.918,
+      542.638,
+      727
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_Agrave": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Agrave",
+    "width": 157,
+    "bounds": [
+      -10,
+      36.556,
+      172.977,
+      297.869
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_Atilde": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Atilde",
+    "width": 158,
+    "bounds": [
+      -35.489,
+      41,
+      189,
+      332
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_DC1": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "DC1",
+    "width": 156,
+    "bounds": [
+      -44,
+      41,
+      187.675,
+      370
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_DC2": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "DC2",
+    "width": 156,
+    "bounds": [
+      -135,
+      42.012,
+      285.912,
+      1352
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_Delta": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Delta",
+    "width": 0,
+    "bounds": [
+      -59,
+      410,
+      217.315,
+      712
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_Ecircumflex": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Ecircumflex",
+    "width": 579,
+    "bounds": [
+      5,
+      -120.861,
+      574.83,
+      1352
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_Iacute": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Iacute",
+    "width": 0,
+    "bounds": [
+      -109,
+      747,
+      272,
+      1086
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_Icircumflex": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Icircumflex",
+    "width": 0,
+    "bounds": [
+      -91.878,
+      396.876,
+      249.708,
+      579
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_Idieresis": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Idieresis",
+    "width": 0,
+    "bounds": [
+      -21.628,
+      396,
+      203,
+      1352
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_Igrave": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Igrave",
+    "width": 0,
+    "bounds": [
+      -44,
+      399,
+      187.675,
+      728
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_Lslash": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Lslash",
+    "width": 157,
+    "bounds": [
+      -10,
+      36.556,
+      172.977,
+      297.869
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_Oacute": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Oacute",
+    "width": 441,
+    "bounds": [
+      4,
+      -25,
+      419,
+      1352
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_Ocircumflex": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Ocircumflex",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "LW_Omega": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Omega",
+    "width": 155,
+    "bounds": [
+      -230,
+      41,
+      383.248,
+      384
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_P": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "P",
+    "width": 0,
+    "bounds": [
+      -36.302,
+      398.84,
+      187.565,
+      690.055
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_Q": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Q",
+    "width": 0,
+    "bounds": [
+      -4.179,
+      401.918,
+      138.638,
+      727
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_S": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "S",
+    "width": 0,
+    "bounds": [
+      -26,
+      715,
+      203,
+      1352
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_T": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "T",
+    "width": 0,
+    "bounds": [
+      -59,
+      410,
+      217.315,
+      712
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_W": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "W",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "LW_Yacute": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "Yacute",
+    "width": 155,
+    "bounds": [
+      -19,
+      41.586,
+      151.581,
+      301
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_ae": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "ae",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "LW_apple": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "apple",
+    "width": 0,
+    "bounds": [
+      -10,
+      392.556,
+      172.977,
+      653.869
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_approxequal": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "approxequal",
+    "width": 0,
+    "bounds": [
+      -26,
+      707,
+      203,
+      1352
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_aring": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "aring",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "LW_bullet": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "bullet",
+    "width": 0,
+    "bounds": [
+      -218,
+      362.233,
+      379.731,
+      692
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_copyright": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "copyright",
+    "width": 0,
+    "bounds": [
+      -238,
+      400,
+      390,
+      739
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_d": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "d",
+    "width": 0,
+    "bounds": [
+      -26,
+      397,
+      203,
+      1352
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_degree": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "degree",
+    "width": 0,
+    "bounds": [
+      -109,
+      399,
+      272,
+      738
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_emdash": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "emdash",
+    "width": 0,
+    "bounds": [
+      -26,
+      397,
+      203,
+      1352
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_g": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "g",
+    "width": 0,
+    "bounds": [
+      -19,
+      747.586,
+      151.581,
+      1007
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_greaterequal": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "greaterequal",
+    "width": 155,
+    "bounds": [
+      -175.264,
+      41,
+      336,
+      384
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_guillemotleft": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "guillemotleft",
+    "width": 152,
+    "bounds": [
+      -41.302,
+      44.84,
+      182.565,
+      336.055
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_hungarumlaut": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "hungarumlaut",
+    "width": 0,
+    "bounds": [
+      -35.489,
+      399,
+      189,
+      690
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_infinity": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "infinity",
+    "width": 155,
+    "bounds": [
+      -205,
+      40,
+      354.567,
+      380
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_integral": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "integral",
+    "width": 0,
+    "bounds": [
+      -135,
+      402.012,
+      285.912,
+      1352
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_logicalnot": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "logicalnot",
+    "width": 0,
+    "bounds": [
+      -36.302,
+      398.84,
+      187.117,
+      690.055
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_lslash": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "lslash",
+    "width": 158,
+    "bounds": [
+      -35.489,
+      41,
+      189,
+      332
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_mu": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "mu",
+    "width": 156,
+    "bounds": [
+      -218,
+      24.233,
+      379.731,
+      352
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_nbspace": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "nbspace",
+    "width": 0,
+    "bounds": [
+      -21.628,
+      746,
+      184,
+      1132
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_notequal": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "notequal",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "LW_oacute": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "oacute",
+    "width": 0,
+    "bounds": [
+      1,
+      357,
+      202,
+      558
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_ograve": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "ograve",
+    "width": 0,
+    "bounds": [
+      -19,
+      401.586,
+      151.581,
+      661
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_ordfeminine": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "ordfeminine",
+    "width": 0,
+    "bounds": [
+      -132,
+      588.012,
+      288.472,
+      1352
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_ordmasculine": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "ordmasculine",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "LW_oslash": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "oslash",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "LW_partialdiff": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "partialdiff",
+    "width": 155,
+    "bounds": [
+      -216,
+      40,
+      375.354,
+      358
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_periodcentered": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "periodcentered",
+    "width": 0,
+    "bounds": [
+      -172,
+      611.968,
+      267.286,
+      763.375
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_pi": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "pi",
+    "width": 155,
+    "bounds": [
+      -238,
+      40,
+      390,
+      379
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_plusminus": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "plusminus",
+    "width": 156,
+    "bounds": [
+      -109,
+      41,
+      272,
+      380
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_question": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "question",
+    "width": 0,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "LW_quotedblbase": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "quotedblbase",
+    "width": 156,
+    "bounds": [
+      -135,
+      42.012,
+      285.912,
+      1352
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_quotedblleft": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "quotedblleft",
+    "width": 157,
+    "bounds": [
+      -4.179,
+      41.918,
+      138.638,
+      367
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_quotedblright": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "quotedblright",
+    "width": 155,
+    "bounds": [
+      -19,
+      41.586,
+      151.581,
+      301
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_quoteright": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "quoteright",
+    "width": 155,
+    "bounds": [
+      -91.878,
+      40.876,
+      249.708,
+      223
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_quotesinglbase": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "quotesinglbase",
+    "width": 152,
+    "bounds": [
+      -44,
+      41,
+      187.675,
+      370
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_radical": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "radical",
+    "width": 0,
+    "bounds": [
+      -4.179,
+      401.918,
+      138.638,
+      727
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_space": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "space",
+    "width": 142,
+    "bounds": null,
+    "category": "ayah_waqf",
+    "has_svg": false
+  },
+  "LW_sterling": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "sterling",
+    "width": 0,
+    "bounds": [
+      -175.264,
+      399,
+      336,
+      742
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_thorn": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "thorn",
+    "width": 157,
+    "bounds": [
+      -60.251,
+      40,
+      213.121,
+      295
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_threequarters": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "threequarters",
+    "width": 0,
+    "bounds": [
+      -59,
+      410,
+      217.315,
+      712
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  },
+  "LW_ydieresis": {
+    "family": "AnicaKariSAKQLW",
+    "glyph": "ydieresis",
+    "width": 157,
+    "bounds": [
+      -60.251,
+      40,
+      213.121,
+      295
+    ],
+    "category": "ayah_waqf",
+    "has_svg": true
+  }
+}

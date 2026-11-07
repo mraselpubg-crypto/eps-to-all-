@@ -1,0 +1,31 @@
+
+languagesystem DFLT dflt;
+languagesystem arab dflt;
+
+# Positional Features
+feature isol {
+    sub ar_B by ar_B;
+    sub ar_C by ar_C;
+    sub ar_Thorn by ar_Thorn;
+} isol;
+
+feature init {
+    sub ar_B by ar_b;
+    sub ar_C by ar_c;
+    sub ar_V by ar_u;
+} init;
+
+feature medi {
+    sub ar_B by ar_d;
+    sub ar_V by ar_v;
+} medi;
+
+feature fina {
+    sub ar_B by ar_B;
+    sub ar_V by ar_V;
+} fina;
+
+# Required Quranic Ligatures
+feature rlig {
+    sub ar_U ar_A by ar_divide; # Lam + Alif
+} rlig;
