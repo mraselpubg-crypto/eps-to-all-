@@ -173,3 +173,34 @@
 1. **কোনো অনুমান নিষিদ্ধ:** সবকিছু সরাসরি মূল `.eps` ফাইল এবং ৯৭৩ পৃষ্ঠার `.pdf` থেকে প্রমাণিত হতে হবে।
 2. **আসল ভেক্টর অক্ষত রাখা:** কোনো বাইরের ফন্টের গ্লিফ আনা যাবে না; সব গ্লিফ মূল ক্বারীয়ানা EPS/PDF-এর নিজস্ব ভেক্টর হতে হবে।
 3. **যোগাযোগের ভাষা:** সকল রিপোর্ট ও আপডেট সবসময় শ্রদ্ধাশীল, পরিষ্কার ও স্পষ্ট বাংলায় হতে হবে।
+
+
+---
+
+## ৯. যেকোনো বহিরাগত AI এজেন্টের জন্য সরাসরি এক্সিকিউশন প্রম্পট (Plug-and-Play AI Agent Prompt)
+
+অন্য কোনো এআই এজেন্ট (যেমন: Antigravity, Claude, ChatGPT, Cursor ইত্যাদি)-কে দিয়ে কাজটি করাতে চাইলে নিচের সম্পূর্ণ প্রম্পটটি কপি করে তাকে দিন:
+
+```markdown
+# AI Agent Task Assignment: Kariana Quran Recover Font & Engine Completion
+
+You are assigned to complete the "Kariana Quran Digital Recovery & Smart Font Project".
+Before writing any code or executing any commands, read the master specification file:
+Path: `c:\Users\Rasel Gazi\Downloads\Kariana Old Version Recover\KARIANA_QURAN_MASTER_BLUEPRINT.md`
+
+### Core Project Requirements:
+1. Target Font Name: "Kariana Quran Recover Font" (PS Name: `KarianaQuranRecover-Regular`).
+2. Source Data: Use the 100% genuine decrypted vector glyphs from:
+   `extracted_data/master_973_glyphs/master_973_all_glyphs.json` (658 core glyphs).
+   DO NOT use generic fonts or alter the original Bezier shapes.
+3. Page Layout Requirement:
+   - 9 single horizontal lines per page.
+   - Starting and ending words of each line on Page 21 MUST match `KARIANA_QURAN_MASTER_BLUEPRINT.md` Section 6 exactly.
+   - Upper Tajweed symbols (S1-S4, A4) must sit at Y=1061..1422 directly above the matching letter/word with 0 advance width.
+4. Deliverables:
+   - Compile `dist/KarianaQuranRecoverFont.ttf` with OpenType GSUB/GPOS.
+   - Update `dist/kuran_page21_exact_verification.html` so it renders pixel-identical to `dist/authentic_eps_render.png`.
+   - Provide a side-by-side comparison report proving zero visual deviation.
+
+All technical discoveries, coordinates, and error post-mortems are detailed in `KARIANA_QURAN_MASTER_BLUEPRINT.md`. Execute step-by-step and verify visually.
+```
