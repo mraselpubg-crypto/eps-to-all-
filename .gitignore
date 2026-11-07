@@ -1,6 +1,11 @@
-# Ignore large tool zip archives
-tools/mingit.zip
+# Tools
+tools/
 *.zip
 *.tmp
 __pycache__/
 *.pyc
+
+# Debug crops
+dist/test_*
+dist/crop_*
+dist/check_*

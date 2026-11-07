@@ -1,0 +1,151 @@
+{
+  "AnicaKariSAKQA1": {
+    "upm": 1000,
+    "glyph_count": 258,
+    "used_in_973_pdf": 126,
+    "missing_in_ttf": [
+      "DEL",
+      "Delta",
+      "Omega",
+      "apple",
+      "mu",
+      "nbspace"
+    ],
+    "mac_cmap_len": 221,
+    "win_cmap_len": 246
+  },
+  "AnicaKariSAKQA2": {
+    "upm": 1000,
+    "glyph_count": 257,
+    "used_in_973_pdf": 120,
+    "missing_in_ttf": [
+      "DEL",
+      "Delta",
+      "Omega",
+      "apple",
+      "mu",
+      "nbspace"
+    ],
+    "mac_cmap_len": 221,
+    "win_cmap_len": 246
+  },
+  "AnicaKariSAKQA3": {
+    "upm": 1000,
+    "glyph_count": 258,
+    "used_in_973_pdf": 101,
+    "missing_in_ttf": [
+      "DEL",
+      "Omega",
+      "apple",
+      "mu",
+      "nbspace"
+    ],
+    "mac_cmap_len": 221,
+    "win_cmap_len": 246
+  },
+  "AnicaKariSAKQA4": {
+    "upm": 1000,
+    "glyph_count": 258,
+    "used_in_973_pdf": 37,
+    "missing_in_ttf": [
+      "apple",
+      "mu"
+    ],
+    "mac_cmap_len": 222,
+    "win_cmap_len": 247
+  },
+  "AnicaKariSAKQAW": {
+    "upm": 1000,
+    "glyph_count": 257,
+    "used_in_973_pdf": 89,
+    "missing_in_ttf": [
+      "Omega",
+      "apple",
+      "mu",
+      "nbspace"
+    ],
+    "mac_cmap_len": 221,
+    "win_cmap_len": 246
+  },
+  "AnicaKariSAKQHarkat": {
+    "upm": 1000,
+    "glyph_count": 258,
+    "used_in_973_pdf": 122,
+    "missing_in_ttf": [
+      "Delta",
+      "Omega",
+      "apple",
+      "mu"
+    ],
+    "mac_cmap_len": 222,
+    "win_cmap_len": 247
+  },
+  "AnicaKariSAKQHarkatExtra": {
+    "upm": 1000,
+    "glyph_count": 258,
+    "used_in_973_pdf": 31,
+    "missing_in_ttf": [
+      "apple"
+    ],
+    "mac_cmap_len": 222,
+    "win_cmap_len": 247
+  },
+  "AnicaKariSAKQHarkatSpare": {
+    "upm": 1000,
+    "glyph_count": 258,
+    "used_in_973_pdf": 37,
+    "missing_in_ttf": [
+      "apple"
+    ],
+    "mac_cmap_len": 222,
+    "win_cmap_len": 247
+  },
+  "AnicaKariSAKQLW": {
+    "upm": 1000,
+    "glyph_count": 258,
+    "used_in_973_pdf": 62,
+    "missing_in_ttf": [
+      "Delta",
+      "Omega",
+      "apple",
+      "mu",
+      "nbspace"
+    ],
+    "mac_cmap_len": 221,
+    "win_cmap_len": 246
+  },
+  "AnicaKariSAKQPlain": {
+    "upm": 1000,
+    "glyph_count": 258,
+    "used_in_973_pdf": 146,
+    "missing_in_ttf": [
+      "DEL",
+      "Delta",
+      "apple",
+      "nbspace"
+    ],
+    "mac_cmap_len": 221,
+    "win_cmap_len": 246
+  },
+  "AnicaKariSAKQPlainExtra": {
+    "upm": 1000,
+    "glyph_count": 258,
+    "used_in_973_pdf": 55,
+    "missing_in_ttf": [
+      "DEL",
+      "apple"
+    ],
+    "mac_cmap_len": 221,
+    "win_cmap_len": 246
+  },
+  "AnicaKariSAKQPlainSpare": {
+    "upm": 1000,
+    "glyph_count": 258,
+    "used_in_973_pdf": 45,
+    "missing_in_ttf": [
+      "apple"
+    ],
+    "mac_cmap_len": 221,
+    "win_cmap_len": 246
+  }
+}
